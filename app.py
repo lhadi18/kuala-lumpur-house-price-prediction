@@ -2,9 +2,36 @@ import streamlit as st
 import pandas as pd
 import joblib
 from datetime import datetime
+import gzip
+import shutil
+import os
+
+
+# Function to decompress the model file
+def decompress_model(input_file, output_file):
+    try:
+        with gzip.open(input_file, 'rb') as f_in:
+            with open(output_file, 'wb') as f_out:
+                shutil.copyfileobj(f_in, f_out)
+    except Exception as e:
+        st.error(f"Error decompressing the model file: {e}")
+        raise
+
+
+compressed_model_path = 'rf_model.joblib.gz'
+decompressed_model_path = 'rf_model.joblib'
+
+# Decompress the model file
+if not os.path.exists(decompressed_model_path):
+    decompress_model(compressed_model_path, decompressed_model_path)
 
 # Load the trained model, scaler, feature columns, and data
-model = joblib.load('rf_model.joblib')
+try:
+    model = joblib.load(decompressed_model_path)
+except Exception as e:
+    st.error(f"Error loading the decompressed model file: {e}")
+    raise
+
 scaler = joblib.load('scaler.joblib')
 feature_columns = joblib.load('feature_columns.joblib')
 initial_df = pd.read_csv('cleaned_data.csv')
@@ -44,7 +71,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
 
 st.title("Kuala Lumpur House Price Prediction")
 
@@ -90,7 +116,8 @@ input_scaled = scaler.transform(input_df)
 adjust_for_inflation = st.checkbox("Adjust for Inflation")
 
 if adjust_for_inflation:
-    inflation_rate = st.number_input("Average Annual Inflation Rate (%)", min_value=0.0, max_value=100.0, value=3.0, step=0.1)
+    inflation_rate = st.number_input("Average Annual Inflation Rate (%)", min_value=0.0, max_value=100.0, value=3.0,
+                                     step=0.1)
 else:
     inflation_rate = None
 
