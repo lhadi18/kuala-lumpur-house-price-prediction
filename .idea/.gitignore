@@ -15,4 +15,4 @@ env/
 .DS_Store
 
 # Ignore the model file
-rf_model.joblib
+joblibs/rf_model.joblib
