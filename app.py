@@ -18,8 +18,8 @@ def decompress_model(input_file, output_file):
         raise
 
 
-compressed_model_path = 'rf_model.joblib.gz'
-decompressed_model_path = 'rf_model.joblib'
+compressed_model_path = 'joblibs/rf_model.joblib.gz'
+decompressed_model_path = 'joblibs/rf_model.joblib'
 
 # Decompress the model file
 if not os.path.exists(decompressed_model_path):
@@ -32,10 +32,10 @@ except Exception as e:
     st.error(f"Error loading the decompressed model file: {e}")
     raise
 
-scaler = joblib.load('scaler.joblib')
-feature_columns = joblib.load('feature_columns.joblib')
-initial_df = pd.read_csv('cleaned_data.csv')
-encoded_df = pd.read_csv('encoded_data.csv')
+scaler = joblib.load('joblibs/scaler.joblib')
+feature_columns = joblib.load('joblibs/feature_columns.joblib')
+initial_df = pd.read_csv('data/cleaned_data.csv')
+encoded_df = pd.read_csv('data/encoded_data.csv')
 
 # Extract unique locations, property types, and furnishing types for the dropdowns
 locations = sorted([col.replace('Location_', '') for col in feature_columns if 'Location_' in col])
