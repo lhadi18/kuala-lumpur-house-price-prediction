@@ -532,8 +532,6 @@
 580,BUKIT BINTANG,2044800.0,2.0,2.0,1.0,Serviced Residence,912.0,Fully Furnished
 581,BUKIT JALIL,1250000.0,4.0,4.0,2.0,Condominium,1700.0,Fully Furnished
 582,KLCC,4072500.0,4.0,4.0,2.0,Serviced Residence,3300.0,Fully Furnished
-583,MONT KIARA,2340000.0,5.0,5.0,3.0,Condominium,0.0,Partly Furnished
-584,MONT KIARA,1698000.0,4.0,4.0,2.0,Condominium,0.0,Partly Furnished
 585,MONT KIARA,1420000.0,4.0,4.0,2.0,Condominium,1496.0,Partly Furnished
 586,ADIVA DESA PARKCITY,2400000.0,5.0,5.0,0.0,3-sty Terrace/Link House,1650.0,Partly Furnished
 587,JALAN KLANG LAMA (OLD KLANG ROAD),928000.0,4.0,2.0,2.0,Condominium,1523.0,Unfurnished
@@ -1385,7 +1383,6 @@
 1470,BUKIT JALIL,890000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1650.0,Partly Furnished
 1471,SETAPAK,480000.0,3.0,2.0,2.0,Serviced Residence,1009.0,Fully Furnished
 1472,SUNGAI BESI,625000.0,2.0,2.0,2.0,Serviced Residence,1025.0,Partly Furnished
-1473,KL CITY,319999.0,4.0,1.0,0.0,Serviced Residence,351.0,Fully Furnished
 1474,MID VALLEY CITY,1250000.0,3.0,2.0,0.0,Condominium,1367.0,Fully Furnished
 1475,CHERAS,570000.0,2.0,2.0,2.0,Condominium,996.0,Partly Furnished
 1476,KLCC,510000.0,4.0,1.0,0.0,Serviced Residence,493.0,Fully Furnished
@@ -1771,7 +1768,6 @@
 1864,MONT KIARA,850000.0,3.0,2.0,2.0,Condominium,1238.0,Fully Furnished
 1865,MONT KIARA,820000.0,3.0,2.0,1.0,Condominium,1241.0,Fully Furnished
 1866,PANTAI,720000.0,3.0,2.0,2.0,Condominium,1019.0,Fully Furnished
-1867,TAMAN DESA,1450000.0,4.0,3.0,2.0,2-sty Terrace/Link House,85.0,Unfurnished
 1868,TAMAN DESA,3100000.0,5.5,5.0,6.0,Semi-detached House,4477.5,Unfurnished
 1869,JALAN KUCHING,400000.0,3.0,2.0,1.0,Condominium,1100.0,Partly Furnished
 1870,KUCHAI LAMA,300000.0,3.0,2.0,1.0,Condominium,905.0,Partly Furnished
@@ -1784,7 +1780,6 @@
 1877,DUTAMAS,1550000.0,5.5,4.0,0.0,Condominium,2412.0,Fully Furnished
 1879,DAMANSARA HEIGHTS,4072500.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
 1880,BANGSAR,4072500.0,5.0,6.0,0.0,Bungalow,4477.5,Partly Furnished
-1881,DAMANSARA HEIGHTS,4072500.0,5.5,4.0,0.0,Bungalow,55.0,Partly Furnished
 1882,BUKIT BINTANG,770000.0,1.5,1.0,1.0,Condominium,527.0,Fully Furnished
 1883,BUKIT BINTANG,755000.0,1.5,1.0,1.0,Condominium,527.0,Fully Furnished
 1884,BUKIT BINTANG,810000.0,1.5,1.0,1.0,Condominium,538.0,Fully Furnished
@@ -1852,7 +1847,6 @@
 1950,MONT KIARA,1830000.0,4.0,5.0,3.0,Condominium,2648.0,Partly Furnished
 1951,SEGAMBUT,350000.0,3.0,2.0,0.0,Apartment,1049.0,Partly Furnished
 1952,CHERAS,768888.0,2.0,1.0,1.0,Serviced Residence,694.0,Partly Furnished
-1953,SETAPAK,480000.0,4.0,2.0,2.0,Serviced Residence,17.0,Unfurnished
 1954,SETAPAK,450000.0,3.0,2.0,2.0,Serviced Residence,842.0,Unfurnished
 1955,KUCHAI LAMA,460000.0,3.0,2.0,2.0,Serviced Residence,935.0,Partly Furnished
 1956,SENTUL,348000.0,3.0,2.0,1.0,Serviced Residence,1400.0,Unfurnished
@@ -2215,7 +2209,6 @@
 2321,SENTUL,910000.0,3.0,3.0,2.0,Condominium,1186.0,Partly Furnished
 2323,SEPUTEH,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 2324,SEPUTEH,4072500.0,5.5,6.0,0.0,Bungalow,4477.5,Fully Furnished
-2325,SEPUTEH,1480000.0,4.0,3.0,2.0,2.5-sty Terrace/Link House,100.0,Partly Furnished
 2326,SEPUTEH,4072500.0,5.5,9.0,4.0,Bungalow,4477.5,Partly Furnished
 2327,DUTAMAS,2850000.0,5.5,6.0,3.0,Semi-detached House,3690.0,Fully Furnished
 2328,SENTUL,580000.0,3.0,2.0,0.0,Serviced Residence,948.0,Unfurnished
@@ -2284,7 +2277,6 @@
 2391,AMPANG,1500000.0,4.0,4.0,3.0,Condominium,2109.0,Partly Furnished
 2392,DUTAMAS,470000.0,3.0,2.0,1.0,Condominium,1326.0,Fully Furnished
 2393,DUTAMAS,450000.0,3.0,2.0,1.0,Condominium,1100.0,Partly Furnished
-2394,KL CITY,362000.0,1.5,1.0,0.0,Serviced Residence,304.0,Fully Furnished
 2395,DESA PARKCITY,3480000.0,5.0,3.0,2.0,2-sty Terrace/Link House,3450.0,Partly Furnished
 2396,DESA PARKCITY,1850000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
 2397,DESA PARKCITY,1830000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1650.0,Partly Furnished
@@ -2444,9 +2436,7 @@
 2557,CHERAS,440000.0,3.0,2.0,2.0,Townhouse,1470.0,Partly Furnished
 2558,WANGSA MAJU,940000.0,4.0,3.0,2.0,Condominium,1828.0,Partly Furnished
 2559,WANGSA MAJU,900000.0,4.0,3.0,2.0,Condominium,1828.0,Partly Furnished
-2560,MONT KIARA,1900000.0,4.0,5.0,0.0,Condominium,0.0,Partly Furnished
 2561,MONT KIARA,1900000.0,4.0,5.0,3.0,Condominium,2411.0,Partly Furnished
-2562,MONT KIARA,2900000.0,5.0,7.0,0.0,Condominium,0.0,Partly Furnished
 2563,KL SENTRAL,1359800.0,3.0,3.0,3.0,Serviced Residence,1166.0,Partly Furnished
 2564,KL SENTRAL,855800.0,1.5,1.0,0.0,Serviced Residence,650.0,Partly Furnished
 2565,KL SENTRAL,1128800.0,2.0,2.0,2.0,Serviced Residence,858.0,Partly Furnished
@@ -2845,7 +2835,6 @@
 2975,MONT KIARA,1720000.0,4.0,4.0,2.0,Condominium,2020.0,Partly Furnished
 2976,DAMANSARA HEIGHTS,4072500.0,5.5,5.0,0.0,Semi-detached House,3200.0,Partly Furnished
 2979,BANGSAR,1650000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1800.0,Partly Furnished
-2980,BANGSAR,4072500.0,5.5,5.0,0.0,Bungalow,63.0,Partly Furnished
 2981,DAMANSARA HEIGHTS,4072500.0,5.0,6.0,0.0,Bungalow,4477.5,Partly Furnished
 2982,DAMANSARA HEIGHTS,4072500.0,5.5,5.0,5.0,Bungalow,4477.5,Partly Furnished
 2983,KL CITY,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
@@ -3144,7 +3133,6 @@
 3299,CHERAS,699000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Unfurnished
 3301,BATU CAVES,768000.0,3.0,2.0,2.0,Serviced Residence,1109.0,Unfurnished
 3302,KLCC,510000.0,1.5,1.0,0.0,Serviced Residence,454.0,Partly Furnished
-3303,KLCC,2800000.0,5.0,5.0,3.0,Serviced Residence,0.0,Fully Furnished
 3304,TAMAN TUN DR ISMAIL,1690000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1900.0,Partly Furnished
 3305,BUKIT JALIL,1630000.0,4.0,4.0,0.0,Condominium,2021.0,Fully Furnished
 3306,CHERAS,540000.0,3.0,2.0,1.0,Condominium,1051.0,Partly Furnished
@@ -3718,7 +3706,6 @@
 3902,KL CITY,1200000.0,3.0,2.0,1.0,Serviced Residence,1281.0,Partly Furnished
 3903,CHERAS,345000.0,3.0,2.0,1.0,Apartment,780.0,Partly Furnished
 3904,BANGSAR SOUTH,598000.0,1.5,1.0,0.0,Serviced Residence,638.0,Fully Furnished
-3905,KL CITY,318000.0,4.0,1.0,0.0,Serviced Residence,325.0,Fully Furnished
 3906,SUNGAI BESI,1100000.0,5.0,4.0,2.0,3-sty Terrace/Link House,1400.0,Partly Furnished
 3907,MONT KIARA,1900000.0,4.0,4.0,2.0,Condominium,2070.0,Partly Furnished
 3908,SRI PETALING,3500000.0,5.5,7.0,4.0,Bungalow,4200.0,Fully Furnished
@@ -4482,8 +4469,6 @@
 4687,CHERAS,1550000.0,5.0,4.0,0.0,Semi-detached House,3200.0,Partly Furnished
 4688,SETAPAK,500000.0,3.0,2.0,2.0,Condominium,4477.5,Partly Furnished
 4689,SUNGAI BESI,545000.0,3.0,2.0,2.0,Condominium,1180.0,Partly Furnished
-4690,JALAN KLANG LAMA (OLD KLANG ROAD),855000.0,3.0,3.0,2.0,Condominium,0.0,Fully Furnished
-4692,KLCC,1690000.0,4.0,3.0,1.0,Serviced Residence,0.0,Partly Furnished
 4693,SRI PETALING,3900000.0,5.5,7.0,0.0,Semi-detached House,4477.5,Fully Furnished
 4694,SRI PETALING,3400000.0,5.5,7.0,0.0,Semi-detached House,4477.5,Fully Furnished
 4695,DUTAMAS,890000.0,5.0,5.0,2.0,Condominium,2700.0,Partly Furnished
@@ -4491,7 +4476,6 @@
 4697,TAMAN MELAWATI,750000.0,4.0,3.0,3.0,2-sty Terrace/Link House,1760.0,Partly Furnished
 4698,BUKIT JALIL,2000000.0,5.5,5.0,6.0,Semi-detached House,3400.0,Partly Furnished
 4699,JALAN KUCHING,550000.0,4.0,2.0,1.0,Condominium,1500.0,Partly Furnished
-4700,SRI PETALING,405000.0,3.0,2.0,0.0,Condominium,0.0,Partly Furnished
 4701,BUKIT JALIL,1250000.0,4.0,4.0,2.0,Condominium,1700.0,Partly Furnished
 4702,CHERAS,310000.0,2.0,2.0,0.0,Condominium,975.0,Fully Furnished
 4703,TAMAN DESA,497000.0,2.0,2.0,1.0,Serviced Residence,715.0,Partly Furnished
@@ -5077,7 +5061,6 @@
 5315,KLCC,2260000.0,3.0,2.0,2.0,Condominium,1518.0,Fully Furnished
 5316,KLCC,1900000.0,2.0,2.0,2.0,Condominium,1518.0,Partly Furnished
 5317,KLCC,2210000.0,2.0,2.0,2.0,Condominium,1464.0,Fully Furnished
-5318,AMPANG,450000.0,4.0,1.0,0.0,Serviced Residence,398.0,Fully Furnished
 5319,MONT KIARA,980000.0,4.0,4.0,2.0,Condominium,1828.0,Fully Furnished
 5320,MONT KIARA,1300000.0,4.0,4.0,0.0,Condominium,2208.0,Fully Furnished
 5321,MONT KIARA,1300000.0,4.0,4.0,0.0,Condominium,3640.0,Fully Furnished
@@ -5266,8 +5249,6 @@
 5513,DESA PARKCITY,3000000.0,5.0,5.0,2.0,3-sty Terrace/Link House,1826.0,Partly Furnished
 5514,DESA PARKCITY,3350000.0,5.0,5.0,4.0,2-sty Terrace/Link House,3703.0,Partly Furnished
 5515,DESA PARKCITY,3500000.0,5.0,5.0,2.0,2-sty Terrace/Link House,3810.0,Partly Furnished
-5516,DESA PARKCITY,1550000.0,4.0,3.0,1.0,3-sty Terrace/Link House,0.0,Partly Furnished
-5518,DESA PARKCITY,2050000.0,3.0,3.0,2.0,Condominium,0.0,Partly Furnished
 5519,KLCC,1605420.0,2.0,1.0,1.0,Serviced Residence,1035.0,Fully Furnished
 5520,KLCC,2052540.0,3.0,2.0,1.0,Serviced Residence,1325.0,Fully Furnished
 5521,KLCC,1734210.0,2.0,1.0,1.0,Serviced Residence,1110.0,Fully Furnished
@@ -5293,7 +5274,6 @@
 5547,DESA PARKCITY,4072500.0,5.0,5.0,6.0,3-sty Terrace/Link House,2040.0,Partly Furnished
 5548,DESA PARKCITY,2450000.0,5.5,7.0,2.0,3-sty Terrace/Link House,1760.0,Unfurnished
 5549,DESA PARKCITY,3180000.0,5.0,5.0,3.0,3-sty Terrace/Link House,2040.0,Partly Furnished
-5550,DESA PARKCITY,1650000.0,4.0,3.0,2.0,3-sty Terrace/Link House,0.0,Partly Furnished
 5551,DESA PARKCITY,3450000.0,5.5,6.0,3.0,Semi-detached House,3200.0,Partly Furnished
 5552,DESA PARKCITY,2680000.0,4.0,5.0,3.0,3-sty Terrace/Link House,1320.0,Partly Furnished
 5553,DESA PARKCITY,1600000.0,3.0,3.0,2.0,3-sty Terrace/Link House,1912.0,Partly Furnished
@@ -5307,10 +5287,8 @@
 5561,DESA PARKCITY,1150000.0,2.0,1.0,2.0,Condominium,1034.0,Partly Furnished
 5562,DESA PARKCITY,2850000.0,4.0,4.0,2.0,2-sty Terrace/Link House,1870.0,Partly Furnished
 5563,DESA PARKCITY,2800000.0,4.0,2.0,0.0,2-sty Terrace/Link House,2541.0,Unfurnished
-5564,DESA PARKCITY,2870000.0,4.0,5.0,3.0,2-sty Terrace/Link House,0.0,Partly Furnished
 5565,DESA PARKCITY,1990000.0,4.0,2.0,2.0,2-sty Terrace/Link House,1474.0,Fully Furnished
 5566,DESA PARKCITY,3400000.0,5.5,6.0,4.0,3-sty Terrace/Link House,2400.0,Partly Furnished
-5567,DESA PARKCITY,3100000.0,4.0,5.0,3.0,2-sty Terrace/Link House,0.0,Partly Furnished
 5568,DESA PARKCITY,2740000.0,5.5,6.0,3.0,3-sty Terrace/Link House,2959.0,Partly Furnished
 5569,DESA PARKCITY,2300000.0,5.0,3.0,2.0,2-sty Terrace/Link House,2541.0,Partly Furnished
 5570,DESA PARKCITY,2000000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1916.0,Partly Furnished
@@ -5318,21 +5296,12 @@
 5572,DESA PARKCITY,3570000.0,4.0,4.0,3.0,2-sty Terrace/Link House,4477.5,Partly Furnished
 5573,DESA PARKCITY,3450000.0,5.0,5.0,4.0,3-sty Terrace/Link House,2040.0,Partly Furnished
 5574,DESA PARKCITY,3300000.0,4.0,4.0,3.0,2-sty Terrace/Link House,1870.0,Partly Furnished
-5575,DESA PARKCITY,2300000.0,5.0,4.0,2.0,3-sty Terrace/Link House,0.0,Partly Furnished
 5576,DESA PARKCITY,3550000.0,5.0,5.0,2.0,2-sty Terrace/Link House,4477.5,Partly Furnished
 5577,DESA PARKCITY,2780000.0,4.0,4.0,2.0,2-sty Terrace/Link House,1870.0,Partly Furnished
-5578,DESA PARKCITY,1600000.0,4.0,3.0,2.0,3-sty Terrace/Link House,0.0,Partly Furnished
 5579,DESA PARKCITY,2050000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
 5580,DESA PARKCITY,1950000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
-5581,DESA PARKCITY,2250000.0,5.0,4.0,2.0,3-sty Terrace/Link House,0.0,Partly Furnished
-5582,DESA PARKCITY,1550000.0,4.0,3.0,2.0,3-sty Terrace/Link House,0.0,Partly Furnished
 5583,DESA PARKCITY,1880000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1500.0,Partly Furnished
 5584,BANDAR DAMAI PERDANA,690000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1200.0,Partly Furnished
-5585,DESA PARKCITY,1150000.0,3.0,3.0,2.0,Condominium,0.0,Fully Furnished
-5586,DESA PARKCITY,1400000.0,4.0,3.0,2.0,Condominium,0.0,Fully Furnished
-5587,DESA PARKCITY,1430000.0,4.0,3.0,2.0,Condominium,0.0,Fully Furnished
-5588,DESA PARKCITY,1590000.0,4.0,3.0,4.0,Condominium,0.0,Unfurnished
-5589,BATU CAVES,620000.0,3.0,3.0,0.0,2-sty Terrace/Link House,0.0,Unfurnished
 5591,JALAN KLANG LAMA (OLD KLANG ROAD),1400000.0,5.0,4.0,3.0,Condominium,2378.0,Unfurnished
 5592,AMPANG,1300000.0,3.0,2.0,3.0,Condominium,1735.0,Fully Furnished
 5593,SETAPAK,360000.0,2.0,1.0,2.0,Serviced Residence,631.0,Unfurnished
@@ -5440,7 +5409,6 @@
 5703,SEGAMBUT,690000.0,3.0,2.0,2.0,Condominium,1260.0,Unfurnished
 5704,CHERAS,650000.0,4.0,3.0,2.0,Condominium,1227.0,Unfurnished
 5705,AMPANG,520000.0,1.5,1.0,1.0,Serviced Residence,705.0,Partly Furnished
-5706,AMPANG,370000.0,1.5,1.0,1.0,Serviced Residence,418.0,Partly Furnished
 5707,AMPANG HILIR,540000.0,3.0,2.0,1.0,Condominium,1421.0,Partly Furnished
 5708,AMPANG HILIR,2645000.0,5.0,4.0,2.0,Condominium,2357.0,Fully Furnished
 5709,AMPANG HILIR,620000.0,1.5,1.0,1.0,Serviced Residence,700.0,Partly Furnished
@@ -5466,7 +5434,6 @@
 5729,MONT KIARA,1900000.0,3.0,3.0,2.0,Serviced Residence,1573.0,Unfurnished
 5730,WANGSA MAJU,360000.0,3.0,2.0,1.0,Condominium,880.0,Unfurnished
 5731,SEGAMBUT,560000.0,3.0,2.0,1.0,Condominium,1205.0,Partly Furnished
-5732,SEGAMBUT,835000.0,4.0,3.0,1.0,Condominium,0.0,Fully Furnished
 5733,SUNWAY SPK,3500000.0,5.5,5.0,3.0,Semi-detached House,4477.5,Unfurnished
 5734,SEGAMBUT,550000.0,3.0,2.0,0.0,Condominium,1205.0,Fully Furnished
 5735,JALAN SULTAN ISMAIL,690000.0,2.0,2.0,0.0,Serviced Residence,890.0,Partly Furnished
@@ -5641,7 +5608,6 @@
 5909,BANDAR DAMAI PERDANA,680000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1200.0,Fully Furnished
 5910,CHERAS,360000.0,3.0,2.0,1.0,Condominium,1020.0,Partly Furnished
 5911,JALAN KLANG LAMA (OLD KLANG ROAD),1080000.0,4.0,4.0,2.0,Condominium,1875.0,Partly Furnished
-5912,CHERAS,680000.0,4.0,3.0,0.0,2-sty Terrace/Link House,60.0,Partly Furnished
 5913,SETAPAK,410000.0,4.0,2.0,0.0,Condominium,1272.0,Partly Furnished
 5914,KLCC,950000.0,3.0,2.0,2.0,Condominium,1182.0,Fully Furnished
 5915,SENTUL,600000.0,3.0,2.0,1.0,Condominium,1000.0,Partly Furnished
@@ -5776,7 +5742,6 @@
 6050,WANGSA MAJU,445000.0,4.0,3.0,1.0,Condominium,1267.0,Partly Furnished
 6051,WANGSA MAJU,440000.0,4.0,3.0,1.0,Condominium,1267.0,Partly Furnished
 6052,TAMAN MELAWATI,1750000.0,5.0,5.0,0.0,2-sty Terrace/Link House,4179.0,Partly Furnished
-6053,WANGSA MAJU,1200000.0,5.5,5.0,4.0,2-sty Terrace/Link House,96.0,Partly Furnished
 6054,SETAPAK,950000.0,4.0,4.0,2.0,Condominium,1610.0,Partly Furnished
 6055,SETAPAK,960000.0,4.0,4.0,2.0,Condominium,1610.0,Unfurnished
 6056,SETAPAK,1000000.0,4.0,4.0,2.0,Condominium,1610.0,Fully Furnished
@@ -5947,7 +5912,6 @@
 6223,BRICKFIELDS,630000.0,4.0,1.0,0.0,Serviced Residence,527.0,Fully Furnished
 6224,BANDAR MENJALARA,297000.0,2.0,2.0,1.0,Serviced Residence,830.0,Partly Furnished
 6225,AMPANG,630000.0,4.0,1.0,1.0,Serviced Residence,506.0,Partly Furnished
-6226,AMPANG,350000.0,1.5,1.0,0.0,Serviced Residence,431.0,Fully Furnished
 6227,AMPANG,460000.0,1.5,1.0,0.0,Serviced Residence,520.0,Fully Furnished
 6228,BANDAR MENJALARA,338000.0,3.0,2.0,1.0,Serviced Residence,903.0,Unfurnished
 6229,AMPANG,520000.0,1.5,1.0,0.0,Serviced Residence,640.0,Partly Furnished
@@ -6357,9 +6321,7 @@
 6655,TAMAN DESA,320000.0,3.0,2.0,1.0,Condominium,720.0,Unfurnished
 6656,TAMAN DESA,3800000.0,5.5,6.0,0.0,Semi-detached House,4400.0,Partly Furnished
 6657,JALAN KUCHING,580000.0,4.0,2.0,1.0,Condominium,1260.0,Fully Furnished
-6658,KL CITY,395000.0,4.0,2.0,0.0,Serviced Residence,420.0,Fully Furnished
 6659,SRI PETALING,2250000.0,5.0,5.0,0.0,Semi-detached House,4000.0,Unfurnished
-6661,TAMAN DESA,700000.0,3.0,2.0,0.0,Condominium,0.0,Fully Furnished
 6664,TAMAN DESA,450000.0,1.5,1.0,1.0,Condominium,650.0,Fully Furnished
 6665,CHERAS,118000.0,2.0,1.0,0.0,Flat,507.0,Unfurnished
 6666,CHERAS,290000.0,3.0,2.0,1.0,Condominium,755.0,Unfurnished
@@ -6592,7 +6554,6 @@
 6896,MONT KIARA,4072500.0,5.5,7.0,0.0,Bungalow,4477.5,Partly Furnished
 6897,MONT KIARA,4000000.0,5.5,6.0,0.0,Semi-detached House,3100.0,Partly Furnished
 6898,BANGSAR,3800000.0,4.0,5.0,3.0,Condominium,3239.0,Partly Furnished
-6899,CHERAS,950000.0,4.0,5.0,2.0,2-sty Terrace/Link House,75.0,Partly Furnished
 6900,BUKIT BINTANG,1360000.0,3.0,2.0,1.0,Serviced Residence,1555.0,Fully Furnished
 6901,MONT KIARA,1380000.0,4.0,3.0,2.0,Condominium,1661.0,Fully Furnished
 6902,BRICKFIELDS,730000.0,4.0,1.0,0.0,Serviced Residence,605.0,Fully Furnished
@@ -6617,7 +6578,6 @@
 6923,KL SENTRAL,4072500.0,1.5,2.0,1.0,Serviced Residence,1541.0,Partly Furnished
 6924,AMPANG,1876000.0,4.0,4.0,0.0,Condominium,1876.0,Partly Furnished
 6925,AMPANG,4072500.0,5.5,6.0,0.0,Condominium,3710.0,Fully Furnished
-6926,KEPONG,950000.0,4.0,3.0,0.0,2-sty Terrace/Link House,400.0,Partly Furnished
 6927,KEPONG,1750000.0,4.0,3.0,4.0,2-sty Terrace/Link House,3360.0,Partly Furnished
 6928,BANDAR MENJALARA,600000.0,3.0,2.0,1.0,2-sty Terrace/Link House,880.0,Partly Furnished
 6929,BANGSAR,4072500.0,5.5,11.0,0.0,Bungalow,4477.5,Unfurnished
@@ -7392,7 +7352,6 @@
 7721,SETAPAK,450000.0,2.0,2.0,2.0,Serviced Residence,856.0,Fully Furnished
 7722,SENTUL,720000.0,3.0,3.0,2.0,Condominium,999.0,Partly Furnished
 7723,CHERAS,2400000.0,5.5,3.0,3.0,Bungalow,4477.5,Fully Furnished
-7724,KUCHAI LAMA,535000.0,3.0,2.0,2.0,Condominium,11.0,Partly Furnished
 7725,KEPONG,1140000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1650.0,Unfurnished
 7726,BANGSAR,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 7727,BANGSAR,2800000.0,5.0,2.0,0.0,2-sty Terrace/Link House,3798.0,Unfurnished
@@ -7551,7 +7510,6 @@
 7889,CHERAS,680000.0,4.0,3.0,0.0,Townhouse,2464.0,Partly Furnished
 7890,CHERAS,680000.0,3.0,4.0,0.0,Townhouse,2370.0,Unfurnished
 7891,AMPANG,450000.0,1.5,1.0,0.0,Serviced Residence,640.0,Partly Furnished
-7892,KLCC,570000.0,4.0,1.0,1.0,Serviced Residence,411.0,Fully Furnished
 7893,KLCC,1480000.0,1.5,2.0,1.0,Condominium,989.0,Fully Furnished
 7894,DESA PARKCITY,1330000.0,4.0,3.0,2.0,Condominium,1367.0,Partly Furnished
 7895,KLCC,1230000.0,1.5,1.0,0.0,Serviced Residence,800.0,Fully Furnished
@@ -8015,7 +7973,6 @@
 8370,AMPANG,760000.0,2.0,2.0,1.0,Serviced Residence,950.0,Fully Furnished
 8372,JALAN KLANG LAMA (OLD KLANG ROAD),598000.0,4.0,3.0,1.0,Condominium,1200.0,Fully Furnished
 8373,SALAK SELATAN,680000.0,3.0,2.0,2.0,Serviced Residence,1089.0,Partly Furnished
-8374,SRI HARTAMAS,350000.0,4.0,1.0,1.0,Serviced Residence,410.0,Unfurnished
 8375,SEGAMBUT,2100000.0,5.0,5.0,0.0,Semi-detached House,4223.0,Partly Furnished
 8376,JALAN IPOH,630000.0,3.0,2.0,1.0,Condominium,1037.0,Unfurnished
 8377,JALAN KLANG LAMA (OLD KLANG ROAD),500000.0,3.0,2.0,2.0,Condominium,1240.0,Partly Furnished
@@ -8194,13 +8151,9 @@
 8563,MONT KIARA,2700000.0,5.0,5.0,3.0,Condominium,3980.0,Partly Furnished
 8564,CHERAS,365000.0,3.0,2.0,1.0,Condominium,1126.0,Partly Furnished
 8565,BUKIT BINTANG,4072500.0,4.0,2.0,0.0,Serviced Residence,4236.0,Unfurnished
-8566,SRI HARTAMAS,340000.0,4.0,2.0,0.0,Serviced Residence,410.0,Unfurnished
 8567,CHERAS,460000.0,3.0,2.0,1.0,Serviced Residence,1100.0,Fully Furnished
 8568,CHERAS,348000.0,2.0,1.0,1.0,Serviced Residence,695.0,Fully Furnished
 8569,CHERAS,400000.0,2.0,2.0,1.0,Serviced Residence,916.0,Fully Furnished
-8570,SRI HARTAMAS,330000.0,4.0,2.0,0.0,Serviced Residence,400.0,Unfurnished
-8571,SRI HARTAMAS,340000.0,4.0,2.0,0.0,Serviced Residence,410.0,Unfurnished
-8572,SRI HARTAMAS,330000.0,4.0,2.0,0.0,Serviced Residence,410.0,Unfurnished
 8573,MONT KIARA,1250000.0,4.0,3.0,2.0,Condominium,1703.0,Fully Furnished
 8574,TAMAN DESA,630000.0,3.0,2.0,1.0,Serviced Residence,935.0,Unfurnished
 8575,DUTAMAS,1000000.0,2.0,2.0,1.0,Serviced Residence,1060.0,Unfurnished
@@ -8297,7 +8250,6 @@
 8674,SEGAMBUT,188000.0,3.0,2.0,0.0,Apartment,855.0,Unfurnished
 8675,BANGSAR,1500000.0,4.0,4.0,1.0,Condominium,1977.0,Fully Furnished
 8676,MONT KIARA,800000.0,3.0,2.0,1.0,Serviced Residence,1294.0,Fully Furnished
-8678,TITIWANGSA,530000.0,3.0,2.0,1.0,Serviced Residence,2.0,Unfurnished
 8679,MONT KIARA,650000.0,3.0,2.0,2.0,Condominium,1015.0,Unfurnished
 8680,JALAN IPOH,398000.0,3.0,2.0,1.0,Apartment,855.0,Partly Furnished
 8681,JALAN IPOH,265000.0,4.0,2.0,2.0,Apartment,855.0,Partly Furnished
@@ -8322,7 +8274,6 @@
 8700,SETAPAK,360000.0,2.0,2.0,2.0,Serviced Residence,859.0,Unfurnished
 8701,SETAPAK,430000.0,2.0,2.0,0.0,Serviced Residence,943.0,Unfurnished
 8702,KL CITY,540000.0,2.0,2.0,1.0,Serviced Residence,750.0,Fully Furnished
-8703,KL CITY,320000.0,4.0,1.0,1.0,Serviced Residence,350.0,Fully Furnished
 8704,SUNGAI BESI,2450000.0,5.5,5.0,0.0,3-sty Terrace/Link House,4477.5,Unfurnished
 8705,DUTAMAS,1050000.0,2.0,2.0,0.0,Serviced Residence,1145.0,Fully Furnished
 8706,DUTAMAS,1080000.0,4.0,2.0,0.0,Serviced Residence,1236.0,Fully Furnished
@@ -8485,7 +8436,6 @@
 8873,MONT KIARA,3020000.0,5.0,4.0,3.0,Condominium,3729.0,Partly Furnished
 8874,SEGAMBUT,660000.0,3.0,3.0,0.0,2-sty Terrace/Link House,880.0,Unfurnished
 8876,MONT KIARA,2190000.0,4.0,4.0,3.0,Condominium,2707.0,Partly Furnished
-8877,KL CITY,360000.0,1.5,1.0,1.0,Serviced Residence,405.0,Unfurnished
 8878,TAMAN DESA,3700000.0,5.0,6.0,3.0,Condominium,4477.5,Unfurnished
 8879,BRICKFIELDS,630000.0,4.0,2.0,0.0,Serviced Residence,710.0,Unfurnished
 8880,KEPONG,798000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1760.0,Unfurnished
@@ -8888,11 +8838,9 @@
 9285,TAMAN MELAWATI,3350000.0,5.0,5.0,0.0,Semi-detached House,4166.0,Unfurnished
 9286,KLCC,2450000.0,4.0,5.0,2.0,Condominium,3335.0,Fully Furnished
 9287,TAMAN MELAWATI,500000.0,3.0,2.0,2.0,Serviced Residence,1007.0,Partly Furnished
-9288,TAMAN MELAWATI,2050000.0,5.5,6.0,0.0,Semi-detached House,85.0,Unfurnished
 9289,TAMAN MELAWATI,3280000.0,5.5,8.0,0.0,Bungalow,4477.5,Partly Furnished
 9290,WANGSA MAJU,1000000.0,5.0,3.0,2.0,Condominium,1820.0,Partly Furnished
 9291,SETAPAK,400000.0,3.0,2.0,1.0,Condominium,1231.0,Unfurnished
-9292,AMPANG,1300000.0,5.5,8.0,0.0,3-sty Terrace/Link House,75.0,Unfurnished
 9293,TAMAN MELAWATI,2200000.0,5.0,5.0,0.0,3-sty Terrace/Link House,2132.0,Partly Furnished
 9294,TAMAN MELAWATI,880000.0,5.0,3.0,0.0,3-sty Terrace/Link House,2324.0,Partly Furnished
 9295,TAMAN MELAWATI,1580000.0,4.0,4.0,0.0,Townhouse,2720.0,Partly Furnished
@@ -9945,11 +9893,9 @@
 10380,PANTAI,590000.0,3.0,2.0,1.0,Condominium,1250.0,Fully Furnished
 10381,PANTAI,680000.0,3.0,2.0,1.0,Condominium,1300.0,Fully Furnished
 10382,PANTAI,480000.0,1.5,1.0,1.0,Condominium,750.0,Partly Furnished
-10383,SEPUTEH,1480000.0,5.0,3.0,2.0,2.5-sty Terrace/Link House,80.0,Partly Furnished
 10384,PANTAI,2600000.0,5.0,5.0,2.0,Condominium,4477.5,Fully Furnished
 10385,PANTAI,2200000.0,5.5,5.0,2.0,Condominium,4477.5,Fully Furnished
 10386,PANTAI,550000.0,3.0,2.0,1.0,Condominium,1150.0,Unfurnished
-10387,SEPUTEH,1480000.0,4.0,4.0,0.0,2.5-sty Terrace/Link House,75.0,Partly Furnished
 10388,SETAPAK,500000.0,3.0,2.0,1.0,Serviced Residence,1280.0,Unfurnished
 10389,KL SENTRAL,3300000.0,1.5,2.0,1.0,Serviced Residence,1541.0,Partly Furnished
 10390,PANTAI,650000.0,3.0,2.0,1.0,Condominium,1250.0,Partly Furnished
@@ -10543,7 +10489,6 @@
 11003,MONT KIARA,888000.0,2.0,2.0,1.0,Condominium,1071.0,Fully Furnished
 11004,BANGSAR SOUTH,575000.0,1.5,1.0,0.0,Serviced Residence,638.0,Fully Furnished
 11005,DUTAMAS,600000.0,3.0,2.0,1.0,Condominium,1100.0,Fully Furnished
-11006,SRI HARTAMAS,600000.0,1.5,1.0,1.0,Serviced Residence,434.0,Fully Furnished
 11007,MONT KIARA,900000.0,3.0,2.0,1.0,Condominium,1280.0,Unfurnished
 11008,SEGAMBUT,700000.0,4.0,3.0,2.0,Condominium,1577.0,Partly Furnished
 11009,KL SENTRAL,2027000.0,2.0,1.0,2.0,Serviced Residence,1356.0,Partly Furnished
@@ -10806,7 +10751,6 @@
 11276,TAMAN TUN DR ISMAIL,2820000.0,4.0,4.0,2.0,Serviced Residence,2426.0,Partly Furnished
 11278,TAMAN TUN DR ISMAIL,1550000.0,3.0,4.0,2.0,Serviced Residence,1445.0,Unfurnished
 11279,TAMAN TUN DR ISMAIL,1700000.0,3.0,3.0,2.0,Serviced Residence,1445.0,Partly Furnished
-11281,SUNGAI PENCHALA,3590840.0,4.0,2.0,0.0,Residential Land,5.0,Unfurnished
 11282,SETIAWANGSA,900000.0,4.0,3.0,2.0,2.5-sty Terrace/Link House,1650.0,Partly Furnished
 11283,TAMAN TUN DR ISMAIL,1000000.0,1.5,2.0,0.0,Serviced Residence,840.0,Unfurnished
 11284,TAMAN TUN DR ISMAIL,820000.0,2.0,2.0,0.0,Serviced Residence,795.0,Unfurnished
@@ -10836,7 +10780,6 @@
 11314,MONT KIARA,1100000.0,5.0,3.0,2.0,Condominium,1905.0,Fully Furnished
 11315,KLCC,2750000.0,5.0,5.0,2.0,Condominium,3502.0,Fully Furnished
 11316,TAMAN TUN DR ISMAIL,1500000.0,4.0,4.0,2.0,Condominium,1890.0,Fully Furnished
-11317,BANGSAR,850000.0,4.0,1.0,1.0,Serviced Residence,441.0,Partly Furnished
 11318,BANGSAR,1700000.0,2.0,1.0,1.0,Serviced Residence,980.0,Partly Furnished
 11319,SUNGAI BESI,1560000.0,5.0,6.0,0.0,3-sty Terrace/Link House,1920.0,Partly Furnished
 11320,AMPANG HILIR,1000000.0,2.0,1.0,1.0,Serviced Residence,942.0,Fully Furnished
@@ -10848,7 +10791,6 @@
 11326,AMPANG,630000.0,1.5,1.0,0.0,Serviced Residence,853.0,Partly Furnished
 11327,SETAPAK,513000.0,3.0,2.0,0.0,Condominium,1324.0,Unfurnished
 11328,BUKIT JALIL,630000.0,5.0,3.0,2.0,Apartment,1800.0,Fully Furnished
-11329,BUKIT JALIL,520000.0,4.0,2.0,1.0,Condominium,0.0,Partly Furnished
 11330,BUKIT JALIL,650000.0,2.0,1.0,1.0,Serviced Residence,791.0,Fully Furnished
 11331,BUKIT JALIL,500000.0,2.0,1.0,1.0,Serviced Residence,667.0,Partly Furnished
 11332,BUKIT JALIL,615000.0,3.0,2.0,2.0,Condominium,1232.0,Fully Furnished
@@ -11004,7 +10946,6 @@
 11492,TITIWANGSA,550000.0,2.0,1.0,1.0,Serviced Residence,737.0,Partly Furnished
 11493,TITIWANGSA,660000.0,3.0,2.0,1.0,Serviced Residence,1100.0,Fully Furnished
 11494,TITIWANGSA,720000.0,3.0,2.0,1.0,Serviced Residence,1100.0,Fully Furnished
-11496,KL CITY,395000.0,4.0,1.0,0.0,Serviced Residence,420.0,Fully Furnished
 11497,SETAPAK,565000.0,3.0,4.0,2.0,Serviced Residence,1300.0,Partly Furnished
 11498,TITIWANGSA,590000.0,2.0,1.0,1.0,Serviced Residence,737.0,Fully Furnished
 11499,SRI HARTAMAS,3600000.0,5.5,6.0,2.0,Semi-detached House,3600.0,Partly Furnished
@@ -11047,7 +10988,6 @@
 11536,KLCC,1700000.0,2.0,2.0,1.0,Serviced Residence,1206.0,Fully Furnished
 11537,KLCC,4072500.0,5.0,6.0,0.0,Condominium,3800.0,Fully Furnished
 11538,KLCC,1400000.0,2.0,2.0,0.0,Serviced Residence,907.0,Fully Furnished
-11539,AMPANG,349000.0,2.0,2.0,1.0,Serviced Residence,430.0,Unfurnished
 11540,TITIWANGSA,650000.0,3.0,2.0,1.0,Serviced Residence,1100.0,Partly Furnished
 11541,TITIWANGSA,650000.0,3.0,2.0,1.0,Serviced Residence,1100.0,Fully Furnished
 11542,TITIWANGSA,590000.0,2.0,1.0,1.0,Serviced Residence,737.0,Partly Furnished
@@ -11198,7 +11138,6 @@
 11697,SETAPAK,410000.0,3.0,2.0,2.0,Serviced Residence,1009.0,Partly Furnished
 11698,SENTUL,565000.0,4.0,3.0,2.0,Condominium,1231.0,Partly Furnished
 11699,JALAN SULTAN ISMAIL,530000.0,4.0,1.0,0.0,Serviced Residence,500.0,Fully Furnished
-11700,KL CITY,330000.0,4.0,1.0,0.0,Serviced Residence,351.0,Fully Furnished
 11701,SETAPAK,430000.0,3.0,2.0,2.0,Serviced Residence,1002.0,Fully Furnished
 11702,PANDAN INDAH,720000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1200.0,Fully Furnished
 11703,KLCC,1250000.0,3.0,2.0,1.0,Condominium,1356.0,Fully Furnished
@@ -11739,7 +11678,6 @@
 12271,KEPONG,725000.0,3.0,2.0,0.0,1-sty Terrace/Link House,1540.0,Unfurnished
 12272,KEPONG,750000.0,3.0,2.0,2.0,1-sty Terrace/Link House,1540.0,Partly Furnished
 12273,KEPONG,1150000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1760.0,Partly Furnished
-12274,KEPONG,1050000.0,4.0,3.0,0.0,2-sty Terrace/Link House,0.0,Fully Furnished
 12275,KEPONG,750000.0,3.0,2.0,0.0,2-sty Terrace/Link House,1760.0,Partly Furnished
 12276,KEPONG,1000000.0,3.0,2.0,0.0,1-sty Terrace/Link House,2940.0,Unfurnished
 12277,KEPONG,1200000.0,3.0,2.0,0.0,1-sty Terrace/Link House,3848.0,Fully Furnished
@@ -11942,7 +11880,6 @@
 12489,CHERAS,680000.0,4.0,2.0,2.0,Condominium,1450.0,Partly Furnished
 12490,DAMANSARA HEIGHTS,4072500.0,5.5,6.0,4.0,Bungalow,4477.5,Fully Furnished
 12491,SUNGAI PENCHALA,1593540.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
-12492,TAMAN TUN DR ISMAIL,2456190.0,4.0,2.0,0.0,Bungalow,5.0,Unfurnished
 12493,MONT KIARA,4072500.0,5.5,6.0,0.0,Bungalow,4477.5,Partly Furnished
 12494,JALAN KLANG LAMA (OLD KLANG ROAD),700000.0,3.0,2.0,1.0,Serviced Residence,1010.0,Fully Furnished
 12495,JALAN KLANG LAMA (OLD KLANG ROAD),680000.0,2.0,1.0,1.0,Serviced Residence,858.0,Fully Furnished
@@ -12406,7 +12343,6 @@
 12995,KEPONG,1330000.0,5.0,4.0,0.0,2.5-sty Terrace/Link House,1400.0,Partly Furnished
 12996,KEPONG,1475000.0,4.0,3.0,3.0,2-sty Terrace/Link House,2400.0,Partly Furnished
 12997,KEPONG,650000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1400.0,Partly Furnished
-12998,JALAN IPOH,240000.0,1.5,1.0,1.0,Serviced Residence,413.0,Partly Furnished
 12999,KEPONG,595000.0,3.0,2.0,2.0,Condominium,1074.0,Partly Furnished
 13000,SENTUL,498000.0,3.0,2.0,1.0,Condominium,1100.0,Partly Furnished
 13001,KEPONG,580000.0,3.0,2.0,0.0,Serviced Residence,1162.0,Unfurnished
@@ -12512,7 +12448,6 @@
 13105,BUKIT BINTANG,720000.0,1.5,1.0,0.0,Serviced Residence,578.0,Unfurnished
 13106,BUKIT BINTANG,710000.0,1.5,1.0,0.0,Serviced Residence,578.0,Unfurnished
 13107,SUNGAI BESI,629000.0,3.0,2.0,2.0,Serviced Residence,1025.0,Partly Furnished
-13108,KLCC,520000.0,4.0,1.0,0.0,Serviced Residence,411.0,Fully Furnished
 13109,KUCHAI LAMA,610000.0,3.0,2.0,2.0,Condominium,1570.0,Partly Furnished
 13110,BUKIT JALIL,479000.0,4.0,2.0,1.0,Condominium,1080.0,Partly Furnished
 13111,KUCHAI LAMA,630000.0,3.0,2.0,2.0,Condominium,1328.0,Partly Furnished
@@ -12688,7 +12623,6 @@
 13286,JALAN KLANG LAMA (OLD KLANG ROAD),580000.0,4.0,3.0,2.0,Condominium,1208.0,Partly Furnished
 13287,KEPONG,1550000.0,5.0,4.0,2.0,3-sty Terrace/Link House,1870.0,Unfurnished
 13288,CHERAS,400000.0,3.0,2.0,1.0,Condominium,1025.0,Partly Furnished
-13289,MONT KIARA,4072500.0,5.5,7.0,0.0,Bungalow,4.0,Partly Furnished
 13290,TAMAN DESA,680000.0,3.0,2.0,1.0,Condominium,1250.0,Partly Furnished
 13291,BUKIT BINTANG,1150000.0,2.0,2.0,1.0,Serviced Residence,1070.0,Fully Furnished
 13292,CHERAS,788000.0,4.0,3.0,4.0,2-sty Terrace/Link House,1400.0,Partly Furnished
@@ -12989,8 +12923,6 @@
 13596,BUKIT BINTANG,1280000.0,2.0,2.0,1.0,Serviced Residence,1200.0,Fully Furnished
 13597,CITY CENTRE,500000.0,2.0,1.0,1.0,Condominium,750.0,Fully Furnished
 13598,BANGSAR SOUTH,680000.0,2.0,1.0,1.0,Serviced Residence,725.0,Fully Furnished
-13599,KLCC,560000.0,4.0,1.0,0.0,Serviced Residence,411.0,Fully Furnished
-13600,KLCC,560000.0,4.0,1.0,0.0,Serviced Residence,411.0,Fully Furnished
 13601,KLCC,630000.0,4.0,1.0,0.0,Serviced Residence,453.0,Fully Furnished
 13602,KLCC,830000.0,3.0,2.0,0.0,Serviced Residence,731.0,Fully Furnished
 13603,KLCC,1388200.0,1.5,1.0,0.0,Serviced Residence,631.0,Fully Furnished
@@ -13040,9 +12972,6 @@
 13649,COUNTRY HEIGHTS DAMANSARA,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 13650,TAMAN TUN DR ISMAIL,850000.0,3.0,2.0,0.0,Condominium,1539.0,Unfurnished
 13651,COUNTRY HEIGHTS DAMANSARA,3960000.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
-13652,SRI HARTAMAS,318000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
-13653,SRI HARTAMAS,308000.0,4.0,1.0,0.0,Serviced Residence,420.0,Fully Furnished
-13654,SRI HARTAMAS,310000.0,4.0,1.0,0.0,Serviced Residence,406.0,Fully Furnished
 13655,BUKIT TUNKU (KENNY HILLS),4072500.0,5.0,5.0,3.0,Condominium,3714.0,Partly Furnished
 13656,SEGAMBUT,500000.0,2.0,2.0,1.0,Serviced Residence,720.0,Partly Furnished
 13657,SENTUL,600000.0,3.0,2.0,2.0,Serviced Residence,1096.0,Partly Furnished
@@ -13451,7 +13380,6 @@
 14066,JALAN KLANG LAMA (OLD KLANG ROAD),330000.0,3.0,2.0,1.0,Serviced Residence,950.0,Partly Furnished
 14067,MONT KIARA,1775000.0,5.0,4.0,0.0,Condominium,2735.0,Fully Furnished
 14068,BANGSAR,4072500.0,5.5,7.0,0.0,Bungalow,4477.5,Partly Furnished
-14069,JALAN KLANG LAMA (OLD KLANG ROAD),650000.0,3.0,2.0,1.0,Condominium,0.0,Partly Furnished
 14071,SRI HARTAMAS,450000.0,4.0,1.0,0.0,Serviced Residence,500.0,Unfurnished
 14072,SRI HARTAMAS,450000.0,4.0,1.0,0.0,Serviced Residence,500.0,Fully Furnished
 14073,BANGSAR,4072500.0,5.5,8.0,0.0,Bungalow,4477.5,Partly Furnished
@@ -13476,7 +13404,6 @@
 14092,SETAPAK,560000.0,3.0,2.0,2.0,Condominium,1476.0,Unfurnished
 14093,SETAPAK,878000.0,3.0,2.0,2.0,2-sty Terrace/Link House,2200.0,Partly Furnished
 14094,CHERAS,850000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1650.0,Unfurnished
-14095,KLCC,2000000.0,3.0,3.0,2.0,Condominium,0.0,Fully Furnished
 14096,MONT KIARA,4072500.0,5.5,6.0,0.0,Semi-detached House,4477.5,Fully Furnished
 14097,TAMAN TUN DR ISMAIL,4072500.0,5.0,4.0,0.0,Bungalow,4477.5,Partly Furnished
 14098,TAMAN TUN DR ISMAIL,4072500.0,5.0,4.0,0.0,Bungalow,4477.5,Partly Furnished
@@ -13639,7 +13566,6 @@
 14263,SEGAMBUT,660000.0,3.0,3.0,0.0,2-sty Terrace/Link House,960.0,Partly Furnished
 14264,DUTAMAS,599000.0,4.0,2.0,2.0,Condominium,1500.0,Partly Furnished
 14265,SENTUL,450000.0,3.0,2.0,1.0,Condominium,1125.0,Partly Furnished
-14266,KLCC,4072500.0,5.0,6.0,10.0,Condominium,0.0,Partly Furnished
 14267,JALAN KLANG LAMA (OLD KLANG ROAD),321000.0,3.0,2.0,0.0,Condominium,926.0,Partly Furnished
 14268,SEGAMBUT,780000.0,3.0,2.0,0.0,2-sty Terrace/Link House,1265.0,Fully Furnished
 14269,JALAN IPOH,900000.0,5.0,3.0,0.0,2-sty Terrace/Link House,1920.0,Partly Furnished
@@ -13753,7 +13679,6 @@
 14386,BANGSAR,720000.0,4.0,1.0,1.0,Serviced Residence,538.0,Unfurnished
 14387,KEPONG,975000.0,4.0,2.0,0.0,2-sty Terrace/Link House,1950.0,Unfurnished
 14388,DESA PETALING,380000.0,2.0,2.0,0.0,Condominium,727.0,Fully Furnished
-14389,TAMAN TUN DR ISMAIL,2890000.0,4.0,3.0,2.0,2-sty Terrace/Link House,44.0,Unfurnished
 14390,SENTUL,430000.0,3.0,2.0,1.0,Condominium,1130.0,Unfurnished
 14391,SEGAMBUT,400000.0,3.0,2.0,1.0,Apartment,926.0,Partly Furnished
 14392,DESA PARKCITY,2600000.0,5.0,5.0,4.0,Condominium,2454.0,Partly Furnished
@@ -13778,7 +13703,6 @@
 14411,OUG,980000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1760.0,Partly Furnished
 14412,SRI PETALING,1400000.0,5.0,5.0,0.0,2.5-sty Terrace/Link House,1650.0,Partly Furnished
 14413,SRI PETALING,1350000.0,5.0,3.0,2.0,2-sty Terrace/Link House,2200.0,Partly Furnished
-14414,SRI PETALING,1150000.0,5.5,5.0,0.0,2.5-sty Terrace/Link House,75.0,Partly Furnished
 14415,MONT KIARA,1650000.0,5.5,4.0,3.0,Condominium,2735.0,Unfurnished
 14416,MONT KIARA,1290000.0,3.0,2.0,1.0,Condominium,1200.0,Unfurnished
 14417,SRI PETALING,1790000.0,4.0,4.0,0.0,2-sty Terrace/Link House,2940.0,Partly Furnished
@@ -13975,7 +13899,6 @@
 14614,SEGAMBUT,480000.0,4.0,3.0,1.0,2-sty Terrace/Link House,880.0,Unfurnished
 14615,MONT KIARA,1320000.0,3.0,3.0,2.0,Condominium,1200.0,Partly Furnished
 14616,JALAN IPOH,486000.0,3.0,2.0,2.0,Condominium,978.0,Unfurnished
-14617,SEPUTEH,240000.0,4.0,1.0,0.0,Condominium,400.0,Unfurnished
 14619,TAMAN TUN DR ISMAIL,1500000.0,4.0,4.0,2.0,Condominium,1826.0,Partly Furnished
 14620,TAMAN TUN DR ISMAIL,1790000.0,4.0,3.0,2.0,2-sty Terrace/Link House,2108.0,Partly Furnished
 14621,BUKIT BINTANG,635000.0,2.0,2.0,0.0,Serviced Residence,899.0,Unfurnished
@@ -14015,7 +13938,6 @@
 14658,CHERAS,948000.0,5.5,3.0,2.0,2.5-sty Terrace/Link House,1650.0,Fully Furnished
 14659,SENTUL,950000.0,4.0,3.0,2.0,Condominium,1569.0,Partly Furnished
 14660,DAMANSARA HEIGHTS,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
-14661,KLCC,515000.0,4.0,1.0,0.0,Serviced Residence,411.0,Fully Furnished
 14662,MONT KIARA,2500000.0,5.0,4.0,5.0,Condominium,3000.0,Partly Furnished
 14663,MONT KIARA,4072500.0,5.0,4.0,7.0,Condominium,4477.5,Partly Furnished
 14664,MONT KIARA,1572000.0,5.0,4.0,0.0,Condominium,2065.0,Partly Furnished
@@ -14142,7 +14064,6 @@
 14790,BUKIT BINTANG,1030000.0,3.0,3.0,1.0,Serviced Residence,1066.0,Fully Furnished
 14791,SETAPAK,880000.0,4.0,4.0,2.0,Condominium,1433.0,Partly Furnished
 14792,KLCC,660000.0,4.0,1.0,0.0,Serviced Residence,453.0,Fully Furnished
-14793,KLCC,580000.0,4.0,1.0,0.0,Serviced Residence,411.0,Fully Furnished
 14794,KLCC,668000.0,4.0,1.0,0.0,Serviced Residence,453.0,Fully Furnished
 14795,CHERAS,440000.0,3.0,2.0,1.0,Condominium,966.0,Partly Furnished
 14796,SETAPAK,380000.0,3.0,2.0,1.0,Condominium,1169.0,Partly Furnished
@@ -14334,7 +14255,6 @@
 14984,SUNGAI BESI,520000.0,3.0,2.0,2.0,Condominium,935.0,Unfurnished
 14985,SUNGAI BESI,520000.0,3.0,2.0,2.0,Condominium,935.0,Unfurnished
 14987,PANTAI,360000.0,1.5,1.0,1.0,Serviced Residence,518.0,Partly Furnished
-14988,KEPONG,850000.0,4.0,2.0,0.0,2-sty Terrace/Link House,75.0,Unfurnished
 14989,JALAN KLANG LAMA (OLD KLANG ROAD),668000.0,3.0,2.0,1.0,Serviced Residence,953.0,Partly Furnished
 14990,BUKIT JALIL,540000.0,3.0,3.0,2.0,Condominium,1003.0,Unfurnished
 14991,SENTUL,650000.0,3.0,3.0,2.0,Condominium,1100.0,Fully Furnished
@@ -14375,13 +14295,11 @@
 15030,SENTUL,640000.0,4.0,3.0,2.0,Condominium,1345.0,Partly Furnished
 15031,BANDAR MENJALARA,370000.0,4.0,2.0,1.0,Serviced Residence,851.0,Unfurnished
 15032,MONT KIARA,649999.0,1.5,1.0,1.0,Serviced Residence,462.0,Unfurnished
-15033,BANGSAR,4072500.0,4.0,4.0,3.0,Condominium,0.0,Partly Furnished
 15034,MONT KIARA,650000.0,2.0,2.0,1.0,Condominium,1000.0,Partly Furnished
 15035,DUTAMAS,1320000.0,4.0,3.0,3.0,Condominium,1854.0,Unfurnished
 15036,BUKIT JALIL,2999999.0,5.5,7.0,0.0,Semi-detached House,4050.0,Unfurnished
 15037,BUKIT JALIL,3000000.0,5.5,6.0,2.0,Semi-detached House,4293.0,Unfurnished
 15038,BUKIT JALIL,3000000.0,5.0,6.0,0.0,Condominium,4134.0,Partly Furnished
-15039,CITY CENTRE,4000000.0,4.0,4.0,4.0,Condominium,0.0,Partly Furnished
 15040,MONT KIARA,4072500.0,5.5,5.0,3.0,Semi-detached House,4000.0,Partly Furnished
 15041,KLCC,1500000.0,2.0,3.0,1.0,Condominium,1357.0,Partly Furnished
 15042,BUKIT JALIL,1000000.0,4.0,3.0,3.0,Condominium,1513.0,Partly Furnished
@@ -14393,7 +14311,6 @@
 15048,BUKIT BINTANG,678000.0,1.5,1.0,1.0,Serviced Residence,750.0,Fully Furnished
 15049,BUKIT JALIL,390000.0,3.0,2.0,1.0,Condominium,1091.0,Partly Furnished
 15050,BUKIT JALIL,420000.0,3.0,2.0,1.0,Condominium,1091.0,Fully Furnished
-15051,CITY CENTRE,1700000.0,4.0,4.0,3.0,Condominium,0.0,Partly Furnished
 15052,KLCC,3070000.0,4.0,4.0,3.0,Serviced Residence,2066.0,Fully Furnished
 15053,BUKIT JALIL,450000.0,4.0,2.0,1.0,Condominium,1090.0,Partly Furnished
 15054,KEPONG,950000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1760.0,Fully Furnished
@@ -14401,7 +14318,6 @@
 15056,JALAN KUCHING,430000.0,3.0,2.0,0.0,Apartment,1200.0,Partly Furnished
 15057,BUKIT BINTANG,1250000.0,4.0,3.0,0.0,Condominium,1590.0,Fully Furnished
 15058,CITY CENTRE,1650000.0,4.0,4.0,3.0,Condominium,1830.0,Partly Furnished
-15059,SRI HARTAMAS,340000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 15060,KLCC,1400000.0,1.5,1.0,1.0,Condominium,752.0,Fully Furnished
 15061,MONT KIARA,1050000.0,1.5,1.0,1.0,Serviced Residence,1173.0,Unfurnished
 15062,MONT KIARA,720000.0,1.5,1.0,1.0,Serviced Residence,708.0,Partly Furnished
@@ -14430,10 +14346,8 @@
 15087,KUCHAI LAMA,550000.0,4.0,3.0,1.0,Condominium,1354.0,Partly Furnished
 15088,CHERAS,365000.0,3.0,2.0,2.0,Apartment,780.0,Fully Furnished
 15089,CHERAS,398000.0,3.0,2.0,1.0,Serviced Residence,950.0,Partly Furnished
-15090,DUTAMAS,1450000.0,4.0,4.0,4.0,Condominium,0.0,Partly Furnished
 15091,CHERAS,390000.0,3.0,2.0,2.0,Serviced Residence,820.0,Unfurnished
 15092,AMPANG,780000.0,4.0,3.0,3.0,2-sty Terrace/Link House,1300.0,Unfurnished
-15093,DUTAMAS,1690000.0,4.0,4.0,4.0,Condominium,0.0,Partly Furnished
 15094,CHERAS,350000.0,3.0,2.0,2.0,Condominium,1000.0,Unfurnished
 15095,MONT KIARA,1200000.0,4.0,3.0,2.0,Condominium,2000.0,Fully Furnished
 15096,SETIAWANGSA,330000.0,3.0,2.0,1.0,Apartment,998.0,Partly Furnished
@@ -14485,7 +14399,6 @@
 15144,BANGSAR SOUTH,353000.0,3.0,2.0,1.0,Apartment,605.0,Partly Furnished
 15145,BANGSAR SOUTH,350000.0,2.0,1.0,1.0,Apartment,605.0,Partly Furnished
 15146,MONT KIARA,1680000.0,4.0,3.0,2.0,Condominium,1496.0,Unfurnished
-15148,SRI HARTAMAS,308000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 15149,CHERAS,300000.0,3.0,2.0,1.0,Apartment,835.0,Unfurnished
 15150,CHERAS,325000.0,3.0,2.0,1.0,Apartment,835.0,Unfurnished
 15151,CHERAS,470000.0,4.0,2.0,1.0,Condominium,1142.0,Partly Furnished
@@ -14945,7 +14858,6 @@
 15614,SUNGAI BESI,620000.0,3.0,2.0,2.0,Serviced Residence,1025.0,Partly Furnished
 15615,JALAN KLANG LAMA (OLD KLANG ROAD),390000.0,3.0,2.0,1.0,Serviced Residence,950.0,Unfurnished
 15616,KEPONG,413000.0,3.0,2.0,2.0,Condominium,932.0,Unfurnished
-15618,KL CITY,369000.0,4.0,1.0,0.0,Serviced Residence,439.0,Fully Furnished
 15619,JALAN KLANG LAMA (OLD KLANG ROAD),340000.0,3.0,2.0,1.0,Serviced Residence,950.0,Partly Furnished
 15620,CITY CENTRE,570000.0,4.0,1.0,0.0,Serviced Residence,560.0,Fully Furnished
 15621,KL CITY,420000.0,4.0,1.0,0.0,Serviced Residence,493.0,Fully Furnished
@@ -15354,7 +15266,6 @@
 16050,MONT KIARA,720000.0,2.0,2.0,2.0,Serviced Residence,913.0,Unfurnished
 16051,DUTAMAS,850000.0,3.0,2.0,1.0,Condominium,1253.0,Fully Furnished
 16052,BUKIT BINTANG,990000.0,3.0,3.0,1.0,Serviced Residence,1066.0,Fully Furnished
-16053,KL CITY,360000.0,4.0,1.0,1.0,Serviced Residence,380.0,Fully Furnished
 16054,SETAPAK,225000.0,3.0,1.0,0.0,Apartment,657.0,Unfurnished
 16055,KL CITY,1100000.0,4.0,1.0,0.0,Condominium,510.0,Fully Furnished
 16056,AMPANG,2000000.0,5.5,5.0,2.0,Semi-detached House,3200.0,Partly Furnished
@@ -16821,7 +16732,6 @@
 17592,MONT KIARA,1290000.0,3.0,2.0,1.0,Condominium,1200.0,Unfurnished
 17593,KLCC,3600000.0,5.0,5.0,0.0,Serviced Residence,3000.0,Partly Furnished
 17594,SRI HARTAMAS,454400.0,1.5,1.0,1.0,Serviced Residence,640.0,Fully Furnished
-17595,SRI HARTAMAS,510000.0,4.0,1.0,1.0,Serviced Residence,446.0,Fully Furnished
 17596,KLCC,2400000.0,4.0,3.0,1.0,Serviced Residence,1500.0,Fully Furnished
 17597,JALAN KLANG LAMA (OLD KLANG ROAD),365000.0,3.0,2.0,1.0,Apartment,960.0,Fully Furnished
 17598,AMPANG,950000.0,1.5,2.0,1.0,Serviced Residence,910.0,Fully Furnished
@@ -16837,7 +16747,6 @@
 17608,MONT KIARA,3330000.0,5.5,4.0,5.0,Condominium,4477.5,Unfurnished
 17609,MONT KIARA,1310000.0,4.0,3.0,2.0,Condominium,1756.0,Fully Furnished
 17610,MONT KIARA,960000.0,3.0,2.0,1.0,Condominium,1228.0,Fully Furnished
-17611,JALAN KLANG LAMA (OLD KLANG ROAD),560000.0,4.0,2.0,2.0,Condominium,417.0,Unfurnished
 17612,KEPONG,1200000.0,4.0,3.0,0.0,2-sty Terrace/Link House,2800.0,Partly Furnished
 17613,CHERAS,802000.0,1.5,1.0,1.0,Serviced Residence,1066.0,Fully Furnished
 17614,MONT KIARA,1390000.0,5.0,4.0,2.0,Condominium,2028.0,Fully Furnished
@@ -16949,7 +16858,6 @@
 17720,MONT KIARA,1620000.0,3.0,3.0,2.0,Condominium,2020.0,Partly Furnished
 17721,MONT KIARA,1450000.0,4.0,5.0,2.0,Condominium,3200.0,Partly Furnished
 17722,MONT KIARA,1730000.0,5.0,6.0,3.0,Condominium,2405.0,Partly Furnished
-17723,BUKIT TUNKU (KENNY HILLS),1900000.0,4.0,5.0,4.0,Condominium,28.0,Partly Furnished
 17724,MONT KIARA,1090000.0,4.0,4.0,2.0,Condominium,2208.0,Fully Furnished
 17725,MONT KIARA,1090000.0,4.0,4.0,2.0,Condominium,2208.0,Fully Furnished
 17726,MONT KIARA,2500000.0,5.5,6.0,0.0,Condominium,4000.0,Partly Furnished
@@ -17135,7 +17043,6 @@
 17915,MONT KIARA,670000.0,1.5,1.0,1.0,Serviced Residence,743.0,Fully Furnished
 17916,BUKIT JALIL,1950000.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 17917,TAMAN TUN DR ISMAIL,1980000.0,5.0,4.0,3.0,2-sty Terrace/Link House,1875.0,Fully Furnished
-17918,KL CITY,370000.0,4.0,1.0,1.0,Serviced Residence,420.0,Fully Furnished
 17919,SENTUL,258000.0,4.0,2.0,0.0,Apartment,785.0,Partly Furnished
 17920,SENTUL,988000.0,4.0,3.0,2.0,Condominium,1488.0,Partly Furnished
 17921,KL CITY,568000.0,2.0,2.0,1.0,Serviced Residence,750.0,Fully Furnished
@@ -17154,7 +17061,6 @@
 17934,TAMAN TUN DR ISMAIL,1690000.0,5.0,5.0,2.0,2-sty Terrace/Link House,1725.0,Partly Furnished
 17935,TAMAN TUN DR ISMAIL,1145000.0,3.0,2.0,2.0,1-sty Terrace/Link House,1920.0,Partly Furnished
 17936,TAMAN TUN DR ISMAIL,1580000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1800.0,Partly Furnished
-17937,TAMAN TUN DR ISMAIL,1600000.0,4.0,3.0,2.0,2-sty Terrace/Link House,75.0,Partly Furnished
 17938,TAMAN TUN DR ISMAIL,1250000.0,3.0,2.0,2.0,1-sty Terrace/Link House,1920.0,Partly Furnished
 17939,TAMAN TUN DR ISMAIL,1150000.0,3.0,2.0,2.0,1-sty Terrace/Link House,1920.0,Partly Furnished
 17940,WANGSA MAJU,510000.0,4.0,3.0,1.0,Condominium,1267.0,Partly Furnished
@@ -17185,7 +17091,6 @@
 17967,SETAPAK,560000.0,3.0,4.0,2.0,Serviced Residence,1281.0,Unfurnished
 17968,SUNGAI BESI,600000.0,3.0,2.0,2.0,Condominium,1260.0,Unfurnished
 17969,SETAPAK,400000.0,3.0,2.0,1.0,Condominium,1207.0,Unfurnished
-17970,SETAPAK,280000.0,4.0,1.0,1.0,Serviced Residence,380.0,Unfurnished
 17971,TITIWANGSA,4000000.0,5.0,5.0,0.0,Bungalow,4477.5,Partly Furnished
 17972,TAMAN MELAWATI,1200000.0,4.0,3.0,0.0,2-sty Terrace/Link House,2691.0,Partly Furnished
 17973,TAMAN MELAWATI,4000000.0,4.0,5.0,0.0,Bungalow,4477.5,Fully Furnished
@@ -17204,7 +17109,6 @@
 17986,KLCC,570000.0,4.0,1.0,1.0,Serviced Residence,568.0,Fully Furnished
 17987,KLCC,730000.0,2.0,1.0,0.0,Serviced Residence,750.0,Fully Furnished
 17988,AMPANG,520000.0,1.5,1.0,1.0,Serviced Residence,705.0,Fully Furnished
-17989,KL CITY,395000.0,4.0,1.0,1.0,Serviced Residence,420.0,Fully Furnished
 17990,JALAN KLANG LAMA (OLD KLANG ROAD),480000.0,3.0,2.0,0.0,Serviced Residence,852.0,Fully Furnished
 17991,BUKIT BINTANG,970000.0,3.0,3.0,1.0,Serviced Residence,1066.0,Fully Furnished
 17992,DAMANSARA HEIGHTS,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
@@ -17237,8 +17141,6 @@
 18019,WANGSA MAJU,350000.0,2.0,1.0,1.0,Serviced Residence,657.0,Partly Furnished
 18020,SENTUL,770000.0,3.0,3.0,0.0,Condominium,1186.0,Unfurnished
 18021,CITY CENTRE,585000.0,4.0,1.0,0.0,Serviced Residence,515.0,Fully Furnished
-18022,AMPANG,400000.0,4.0,1.0,0.0,Serviced Residence,406.0,Partly Furnished
-18023,SRI HARTAMAS,300000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 18024,SRI HARTAMAS,630000.0,3.0,2.0,0.0,Condominium,1285.0,Partly Furnished
 18025,JALAN KUCHING,600000.0,3.0,2.0,0.0,Condominium,1015.0,Partly Furnished
 18026,JALAN KUCHING,560000.0,3.0,2.0,1.0,Condominium,1320.0,Partly Furnished
@@ -17612,7 +17514,6 @@
 18419,KEPONG,2450000.0,5.5,6.0,0.0,Semi-detached House,3283.0,Unfurnished
 18420,KEPONG,2280000.0,5.5,6.0,0.0,Semi-detached House,2925.0,Unfurnished
 18421,KLCC,1921450.0,5.0,5.0,2.0,Condominium,2315.0,Partly Furnished
-18422,KL CITY,358000.0,4.0,1.0,0.0,Serviced Residence,351.0,Unfurnished
 18423,CHERAS,850000.0,2.0,2.0,1.0,Serviced Residence,1023.0,Partly Furnished
 18424,TAMAN DESA,1060000.0,4.0,2.0,1.0,Condominium,1560.0,Fully Furnished
 18425,DAMANSARA HEIGHTS,485000.0,2.0,2.0,0.0,Serviced Residence,998.0,Fully Furnished
@@ -17646,7 +17547,6 @@
 18455,BUKIT LEDANG,1723500.0,4.0,2.0,0.0,Bungalow,4477.5,Partly Furnished
 18456,BUKIT JALIL,770000.0,2.0,3.0,2.0,Serviced Residence,971.0,Fully Furnished
 18457,JALAN KLANG LAMA (OLD KLANG ROAD),900000.0,4.0,3.0,2.0,Condominium,1256.0,Partly Furnished
-18458,SRI PETALING,880000.0,4.0,3.0,2.0,2-sty Terrace/Link House,80.0,Partly Furnished
 18459,SRI PETALING,420000.0,3.0,2.0,2.0,2-sty Terrace/Link House,1120.0,Partly Furnished
 18460,CHERAS,220000.0,3.0,2.0,2.0,Flat,852.0,Unfurnished
 18461,OUG,1960000.0,4.0,3.0,4.0,Semi-detached House,2900.0,Partly Furnished
@@ -17953,7 +17853,6 @@
 18773,MONT KIARA,1680000.0,4.0,4.0,2.0,Condominium,1668.0,Unfurnished
 18774,SETAPAK,650000.0,4.0,3.0,3.0,Condominium,1588.0,Partly Furnished
 18775,SETAPAK,600000.0,4.0,3.0,2.0,Condominium,1362.0,Fully Furnished
-18776,AMPANG,360000.0,2.0,2.0,1.0,Serviced Residence,430.0,Unfurnished
 18777,SETAPAK,640000.0,4.0,3.0,2.0,Condominium,1423.0,Unfurnished
 18778,SUNGAI BESI,1950000.0,5.5,5.0,0.0,3-sty Terrace/Link House,4000.0,Partly Furnished
 18779,SUNGAI BESI,1350000.0,5.0,5.0,0.0,3-sty Terrace/Link House,1920.0,Fully Furnished
@@ -18341,10 +18240,8 @@
 19176,CHERAS,415000.0,3.0,2.0,2.0,Condominium,966.0,Partly Furnished
 19177,DUTAMAS,510000.0,3.0,2.0,1.0,Condominium,1100.0,Fully Furnished
 19178,BANGSAR,2152000.0,3.0,2.0,0.0,Condominium,2152.0,Fully Furnished
-19179,BANGSAR,700000.0,4.0,1.0,1.0,Serviced Residence,441.0,Partly Furnished
 19180,DESA PETALING,3000000.0,4.0,5.0,0.0,Semi-detached House,2550.0,Unfurnished
 19181,BANGSAR,1400000.0,2.0,2.0,1.0,Serviced Residence,1076.0,Partly Furnished
-19182,BANGSAR,700000.0,4.0,1.0,1.0,Serviced Residence,441.0,Partly Furnished
 19183,BANGSAR,1200000.0,2.0,2.0,1.0,Serviced Residence,980.0,Partly Furnished
 19184,BANGSAR,900000.0,2.0,1.0,1.0,Serviced Residence,689.0,Partly Furnished
 19185,BANGSAR,920000.0,2.0,1.0,1.0,Serviced Residence,689.0,Partly Furnished
@@ -18375,7 +18272,6 @@
 19211,SRI HARTAMAS,465000.0,1.5,1.0,0.0,Serviced Residence,640.0,Fully Furnished
 19212,SRI HARTAMAS,2550000.0,5.5,4.0,0.0,3-sty Terrace/Link House,2561.0,Partly Furnished
 19213,CHERAS,1600000.0,5.5,6.0,0.0,Bungalow,4477.5,Partly Furnished
-19214,SRI HARTAMAS,305000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 19215,SRI HARTAMAS,450000.0,4.0,1.0,0.0,Serviced Residence,500.0,Fully Furnished
 19216,KL CITY,1250000.0,2.0,2.0,0.0,Serviced Residence,1380.0,Fully Furnished
 19217,SRI HARTAMAS,415000.0,1.5,1.0,0.0,Serviced Residence,595.0,Fully Furnished
@@ -18719,9 +18615,7 @@
 19571,KLCC,4072500.0,5.5,6.0,4.0,Condominium,4477.5,Partly Furnished
 19572,KLCC,4072500.0,5.5,6.0,0.0,Condominium,4477.5,Partly Furnished
 19573,JALAN KLANG LAMA (OLD KLANG ROAD),720000.0,2.0,2.0,1.0,Condominium,704.0,Fully Furnished
-19574,TAMAN DESA,670000.0,3.0,2.0,1.0,Condominium,0.0,Partly Furnished
 19576,AMPANG,860000.0,2.0,2.0,2.0,Serviced Residence,1066.0,Fully Furnished
-19577,TAMAN DESA,450000.0,1.5,1.0,1.0,Condominium,0.0,Fully Furnished
 19578,JALAN SULTAN ISMAIL,730000.0,2.0,2.0,1.0,Serviced Residence,924.0,Fully Furnished
 19579,BUKIT JALIL,760000.0,3.0,3.0,2.0,Condominium,1400.0,Unfurnished
 19580,BUKIT TUNKU (KENNY HILLS),1300000.0,3.0,4.0,0.0,Condominium,2335.0,Partly Furnished
@@ -18808,7 +18702,6 @@
 19662,PANDAN INDAH,825000.0,4.0,2.0,0.0,1-sty Terrace/Link House,2597.0,Partly Furnished
 19663,SETAPAK,220000.0,3.0,2.0,0.0,Apartment,658.0,Partly Furnished
 19664,KEPONG,560000.0,3.0,2.0,0.0,1-sty Terrace/Link House,1300.0,Unfurnished
-19665,KEPONG,480000.0,5.0,3.0,0.0,2-sty Terrace/Link House,175.0,Partly Furnished
 19667,KUCHAI LAMA,460000.0,3.0,2.0,1.0,Serviced Residence,935.0,Partly Furnished
 19668,BUKIT JALIL,580000.0,3.0,2.0,2.0,Condominium,1196.0,Unfurnished
 19669,KLCC,1474000.0,3.0,3.0,1.0,Condominium,1551.0,Fully Furnished
@@ -18877,9 +18770,7 @@
 19733,KLCC,1100000.0,4.0,3.0,0.0,Serviced Residence,1313.0,Partly Furnished
 19734,KLCC,1820000.0,3.0,2.0,0.0,Condominium,915.0,Fully Furnished
 19735,KLCC,1780000.0,1.5,1.0,0.0,Condominium,915.0,Fully Furnished
-19736,KLCC,1288800.0,1.5,1.0,0.0,Condominium,441.0,Fully Furnished
 19737,KLCC,1750000.0,1.5,1.0,0.0,Condominium,915.0,Fully Furnished
-19738,KLCC,1234800.0,1.5,1.0,0.0,Condominium,441.0,Fully Furnished
 19739,SETAPAK,600000.0,4.0,3.0,2.0,Condominium,1362.0,Partly Furnished
 19740,KLCC,980000.0,1.5,1.0,0.0,Serviced Residence,910.0,Fully Furnished
 19741,TAMAN DESA,130000.0,3.0,2.0,0.0,Apartment,657.0,Unfurnished
@@ -18941,7 +18832,6 @@
 19799,TAMAN TUN DR ISMAIL,930000.0,3.0,2.0,2.0,Serviced Residence,1022.0,Unfurnished
 19800,SRI HARTAMAS,2800000.0,5.0,5.0,3.0,Condominium,3660.0,Partly Furnished
 19801,BANGSAR,4072500.0,5.0,4.0,6.0,Bungalow,4477.5,Partly Furnished
-19802,BANGSAR,750000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 19804,CHERAS,900000.0,5.0,4.0,0.0,2.5-sty Terrace/Link House,1300.0,Partly Furnished
 19805,BANGSAR SOUTH,1100000.0,3.0,3.0,1.0,Serviced Residence,1119.0,Fully Furnished
 19806,KLCC,799000.0,2.0,1.0,1.0,Serviced Residence,605.0,Fully Furnished
@@ -19079,7 +18969,6 @@
 19948,KL CITY,4072500.0,5.0,4.0,0.0,Bungalow,4477.5,Unfurnished
 19950,MONT KIARA,2230000.0,5.0,4.0,2.0,Condominium,2973.0,Partly Furnished
 19951,BUKIT JALIL,583888.0,3.0,2.0,2.0,Condominium,1073.0,Unfurnished
-19952,CHERAS,1380000.0,5.5,4.0,0.0,Semi-detached House,80.0,Partly Furnished
 19953,BATU CAVES,643000.0,4.0,3.0,2.0,Serviced Residence,1265.0,Fully Furnished
 19954,KEPONG,455525.0,4.0,2.0,2.0,Condominium,1050.0,Partly Furnished
 19955,BUKIT JALIL,493000.0,4.0,3.0,2.0,Condominium,1239.0,Unfurnished
@@ -19142,7 +19031,6 @@
 20016,BANGSAR,3500000.0,5.5,6.0,4.0,2-sty Terrace/Link House,4477.5,Partly Furnished
 20017,JALAN SULTAN ISMAIL,440000.0,4.0,1.0,0.0,Serviced Residence,500.0,Fully Furnished
 20018,SETAPAK,500000.0,3.0,2.0,2.0,Serviced Residence,1040.0,Unfurnished
-20019,BANGSAR,480000.0,1.5,1.0,0.0,Serviced Residence,441.0,Fully Furnished
 20020,KEPONG,618000.0,4.0,3.0,1.0,Apartment,2024.0,Unfurnished
 20021,JALAN KLANG LAMA (OLD KLANG ROAD),1280000.0,5.0,4.0,3.0,Condominium,2128.0,Partly Furnished
 20022,BUKIT JALIL,668000.0,2.0,1.0,1.0,Serviced Residence,721.0,Fully Furnished
@@ -19506,7 +19394,6 @@
 20406,JINJANG,298000.0,3.0,1.0,1.0,Apartment,998.0,Partly Furnished
 20407,DUTAMAS,480000.0,3.0,2.0,1.0,Condominium,950.0,Partly Furnished
 20408,BUKIT JALIL,580000.0,3.0,2.0,0.0,Condominium,1100.0,Unfurnished
-20409,AMPANG,380000.0,2.0,1.0,1.0,Serviced Residence,430.0,Unfurnished
 20410,SEGAMBUT,410000.0,3.0,2.0,2.0,2.5-sty Terrace/Link House,602.0,Unfurnished
 20411,KEPONG,1230000.0,5.5,4.0,0.0,2.5-sty Terrace/Link House,1400.0,Partly Furnished
 20412,KEPONG,220000.0,3.0,2.0,0.0,Apartment,650.0,Unfurnished
@@ -19665,7 +19552,6 @@
 20573,JALAN KUCHING,450000.0,3.0,2.0,0.0,Serviced Residence,858.0,Unfurnished
 20574,SUNGAI BESI,350000.0,3.0,3.0,2.0,Serviced Residence,1045.0,Unfurnished
 20575,SUNGAI BESI,370000.0,2.0,2.0,0.0,Serviced Residence,650.0,Fully Furnished
-20576,SRI HARTAMAS,310000.0,4.0,1.0,0.0,Serviced Residence,420.0,Fully Furnished
 20577,PANDAN PERDANA,280000.0,1.5,1.0,1.0,Condominium,450.0,Partly Furnished
 20578,BUKIT JALIL,720000.0,3.0,2.0,2.0,Serviced Residence,969.0,Partly Furnished
 20579,CHERAS,776000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Unfurnished
@@ -19704,7 +19590,6 @@
 20613,OUG,1800000.0,5.0,3.0,0.0,2-sty Terrace/Link House,4316.0,Partly Furnished
 20614,PANTAI,630000.0,3.0,2.0,0.0,Condominium,1331.0,Fully Furnished
 20615,TAMAN DESA,560000.0,3.0,2.0,0.0,Condominium,1216.0,Fully Furnished
-20616,BANGSAR,2140000.0,4.0,2.0,0.0,Condominium,100.0,Fully Furnished
 20617,PANTAI,610000.0,3.0,2.0,0.0,Condominium,1324.0,Fully Furnished
 20619,BUKIT JALIL,950000.0,4.0,2.0,2.0,Condominium,1415.0,Partly Furnished
 20620,MONT KIARA,498200.0,3.0,2.0,0.0,Serviced Residence,1010.0,Unfurnished
@@ -19939,7 +19824,6 @@
 20859,MONT KIARA,830000.0,2.0,2.0,0.0,Condominium,815.0,Fully Furnished
 20860,MONT KIARA,820000.0,2.0,2.0,1.0,Condominium,815.0,Fully Furnished
 20861,MONT KIARA,3800000.0,5.5,7.0,3.0,Condominium,4477.5,Partly Furnished
-20862,KL CITY,390000.0,4.0,1.0,1.0,Serviced Residence,420.0,Fully Furnished
 20863,JALAN KUCHING,290000.0,3.0,2.0,1.0,Apartment,867.0,Partly Furnished
 20864,JALAN IPOH,1150000.0,5.0,5.0,0.0,Semi-detached House,3573.0,Partly Furnished
 20865,KEPONG,2600000.0,5.5,6.0,0.0,Semi-detached House,4477.5,Unfurnished
@@ -20188,7 +20072,6 @@
 21120,KEPONG,360000.0,2.0,2.0,1.0,2-sty Terrace/Link House,630.0,Partly Furnished
 21121,JALAN IPOH,700000.0,3.0,3.0,2.0,Townhouse,1851.0,Partly Furnished
 21122,SETAPAK,300000.0,3.0,2.0,1.0,Condominium,800.0,Unfurnished
-21124,AMPANG,400000.0,4.0,1.0,1.0,Serviced Residence,406.0,Partly Furnished
 21125,AMPANG,700000.0,1.5,2.0,1.0,Serviced Residence,911.0,Unfurnished
 21126,BANGSAR,4072500.0,4.0,5.0,4.0,Condominium,4025.0,Partly Furnished
 21127,BANGSAR,4072500.0,4.0,5.0,4.0,Condominium,4025.0,Partly Furnished
@@ -20285,7 +20168,6 @@
 21222,DESA PARKCITY,2400000.0,5.5,6.0,0.0,3-sty Terrace/Link House,1760.0,Unfurnished
 21223,BANGSAR,1450000.0,4.0,3.0,0.0,Serviced Residence,1610.0,Fully Furnished
 21225,KLCC,3000000.0,4.0,3.0,3.0,Serviced Residence,2066.0,Fully Furnished
-21226,BANGSAR,720000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 21227,BANGSAR,2340000.0,4.0,5.0,2.0,Serviced Residence,2309.0,Fully Furnished
 21228,AMPANG,3250000.0,5.5,7.0,2.0,Semi-detached House,4204.0,Partly Furnished
 21229,KEPONG,565000.0,3.0,2.0,0.0,1-sty Terrace/Link House,1470.0,Partly Furnished
@@ -20307,7 +20189,6 @@
 21245,KLCC,3800000.0,5.0,5.0,2.0,Condominium,3358.0,Fully Furnished
 21246,KLCC,1450000.0,2.0,2.0,1.0,Serviced Residence,818.0,Fully Furnished
 21247,CITY CENTRE,1650000.0,4.0,3.0,1.0,Condominium,1975.0,Fully Furnished
-21248,SRI HARTAMAS,350000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 21249,SENTUL,550000.0,3.0,2.0,1.0,Serviced Residence,948.0,Unfurnished
 21250,MONT KIARA,1440000.0,3.0,2.0,2.0,Condominium,1200.0,Partly Furnished
 21251,MONT KIARA,990000.0,4.0,3.0,2.0,Condominium,1828.0,Fully Furnished
@@ -20336,7 +20217,6 @@
 21274,TAMAN TUN DR ISMAIL,1400000.0,3.0,2.0,0.0,Serviced Residence,1684.0,Fully Furnished
 21275,SRI HARTAMAS,4072500.0,5.5,6.0,0.0,Bungalow,4477.5,Partly Furnished
 21276,MONT KIARA,1900000.0,5.0,5.0,2.0,Condominium,2025.0,Fully Furnished
-21279,BANGSAR,1830000.0,3.0,3.0,1.0,Condominium,0.0,Partly Furnished
 21280,JALAN KUCHING,500000.0,4.0,3.0,0.0,Condominium,1295.0,Fully Furnished
 21281,JALAN KUCHING,550000.0,4.0,2.0,0.0,Condominium,1400.0,Partly Furnished
 21282,WANGSA MAJU,500000.0,3.0,2.0,2.0,2-sty Terrace/Link House,880.0,Partly Furnished
@@ -20418,7 +20298,6 @@
 21361,BUKIT BINTANG,670000.0,3.0,3.0,0.0,Condominium,1300.0,Unfurnished
 21362,TAMAN MELAWATI,1850000.0,5.5,7.0,3.0,3-sty Terrace/Link House,2754.0,Unfurnished
 21363,KLCC,1850000.0,5.0,5.0,2.0,Condominium,2315.0,Fully Furnished
-21364,AMPANG,380000.0,2.0,2.0,1.0,Serviced Residence,430.0,Unfurnished
 21365,KL CITY,1250000.0,2.0,2.0,2.0,Serviced Residence,915.0,Fully Furnished
 21366,KLCC,1100000.0,3.0,2.0,1.0,Serviced Residence,960.0,Fully Furnished
 21367,TAMAN DESA,350000.0,3.0,2.0,1.0,Apartment,830.0,Partly Furnished
@@ -20665,7 +20544,6 @@
 21611,TAMAN TUN DR ISMAIL,720000.0,3.0,2.0,1.0,Condominium,1281.0,Fully Furnished
 21612,MONT KIARA,2300950.0,4.0,5.0,2.0,Condominium,2707.0,Partly Furnished
 21613,AMPANG,730000.0,1.5,1.0,1.0,Serviced Residence,700.0,Fully Furnished
-21614,BANGSAR,710000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 21615,DESA PANDAN,420000.0,3.0,2.0,1.0,Apartment,900.0,Fully Furnished
 21616,KL SENTRAL,2600000.0,3.0,2.0,1.0,Serviced Residence,1625.0,Partly Furnished
 21617,OUG,1850000.0,4.0,3.0,3.0,2.5-sty Terrace/Link House,2350.0,Fully Furnished
@@ -21603,7 +21481,6 @@
 22603,BANGSAR,220000.0,4.0,2.0,0.0,Apartment,644.0,Unfurnished
 22604,JALAN KLANG LAMA (OLD KLANG ROAD),400000.0,3.0,2.0,1.0,Serviced Residence,950.0,Fully Furnished
 22605,JALAN KLANG LAMA (OLD KLANG ROAD),460000.0,1.5,1.0,1.0,Condominium,739.0,Fully Furnished
-22606,AMPANG,347000.0,1.5,2.0,1.0,Serviced Residence,430.0,Unfurnished
 22607,TITIWANGSA,1500000.0,5.0,4.0,4.0,Bungalow,4477.5,Unfurnished
 22608,CHERAS,440000.0,3.0,2.0,1.0,Condominium,1120.0,Partly Furnished
 22609,TAMAN TUN DR ISMAIL,765000.0,4.0,2.0,0.0,Condominium,1410.0,Unfurnished
@@ -22000,7 +21877,6 @@
 23019,CHERAS,308000.0,2.0,2.0,1.0,Condominium,950.0,Partly Furnished
 23020,CHERAS,410000.0,3.0,2.0,2.0,Condominium,1060.0,Partly Furnished
 23021,SENTUL,675000.0,3.0,2.0,1.0,Condominium,1001.0,Fully Furnished
-23022,KL CITY,365000.0,4.0,1.0,1.0,Serviced Residence,325.0,Fully Furnished
 23023,CHERAS,260000.0,3.0,2.0,1.0,Apartment,748.0,Partly Furnished
 23024,SETAPAK,248000.0,2.0,1.0,0.0,Apartment,600.0,Partly Furnished
 23025,SENTUL,280000.0,3.0,2.0,1.0,Apartment,838.0,Unfurnished
@@ -22172,7 +22048,6 @@
 23198,SETAPAK,659000.0,2.0,2.0,2.0,Serviced Residence,1760.0,Partly Furnished
 23199,SEGAMBUT,720000.0,4.0,3.0,1.0,Condominium,1600.0,Partly Furnished
 23200,KLCC,1194000.0,2.0,2.0,1.0,Condominium,1551.0,Partly Furnished
-23201,SETAPAK,350000.0,4.0,1.0,1.0,Serviced Residence,380.0,Partly Furnished
 23202,BATU CAVES,570000.0,3.0,2.0,0.0,Serviced Residence,975.0,Partly Furnished
 23203,SETAPAK,410000.0,4.0,2.0,1.0,Condominium,1272.0,Partly Furnished
 23204,SETAPAK,500000.0,3.0,2.0,1.0,Apartment,1100.0,Fully Furnished
@@ -22504,9 +22379,7 @@
 23541,SUNGAI BESI,420000.0,2.0,2.0,1.0,Serviced Residence,695.0,Unfurnished
 23542,BUKIT BINTANG,888000.0,1.5,1.0,1.0,Condominium,538.0,Fully Furnished
 23543,SUNGAI BESI,560000.0,3.0,2.0,1.0,Condominium,904.0,Partly Furnished
-23544,BRICKFIELDS,288000.0,4.0,1.0,1.0,Serviced Residence,250.0,Fully Furnished
 23545,SETAPAK,520000.0,2.0,3.0,2.0,Condominium,1100.0,Unfurnished
-23546,MONT KIARA,830000.0,2.0,2.0,0.0,Condominium,300.0,Fully Furnished
 23547,MONT KIARA,615000.0,1.5,1.0,0.0,Serviced Residence,462.0,Fully Furnished
 23548,MONT KIARA,615000.0,1.5,1.0,0.0,Serviced Residence,462.0,Fully Furnished
 23549,PUCHONG,550000.0,3.0,2.0,2.0,2-sty Terrace/Link House,1614.0,Partly Furnished
@@ -22528,7 +22401,6 @@
 23566,KLCC,388888.0,4.0,1.0,1.0,Serviced Residence,450.0,Fully Furnished
 23567,CHERAS,358000.0,3.0,2.0,1.0,Serviced Residence,950.0,Partly Furnished
 23568,CHERAS,440000.0,2.0,2.0,2.0,Serviced Residence,1104.0,Unfurnished
-23569,SENTUL,370000.0,2.0,1.0,1.0,Serviced Residence,0.0,Unfurnished
 23570,SETAPAK,389000.0,2.0,2.0,1.0,Condominium,657.0,Partly Furnished
 23571,SETAPAK,395000.0,2.0,2.0,1.0,Condominium,650.0,Partly Furnished
 23572,SETAPAK,390000.0,2.0,2.0,1.0,Condominium,657.0,Partly Furnished
@@ -22544,7 +22416,6 @@
 23582,CHERAS,440000.0,3.0,2.0,2.0,Condominium,1104.0,Unfurnished
 23583,CHERAS,440000.0,3.0,2.0,2.0,Condominium,1104.0,Unfurnished
 23584,CHERAS,440000.0,3.0,2.0,2.0,Condominium,1104.0,Unfurnished
-23585,KEPONG,448000.0,3.0,2.0,2.0,Condominium,0.0,Unfurnished
 23586,SETAPAK,238000.0,3.0,2.0,0.0,Condominium,802.0,Unfurnished
 23587,SRI PETALING,595000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1080.0,Unfurnished
 23588,CHERAS,850000.0,5.5,4.0,0.0,3-sty Terrace/Link House,1400.0,Partly Furnished
@@ -22598,7 +22469,6 @@
 23636,MONT KIARA,1680000.0,4.0,4.0,2.0,Condominium,1496.0,Partly Furnished
 23637,DESA PARKCITY,2450000.0,5.5,7.0,2.0,3-sty Terrace/Link House,1600.0,Partly Furnished
 23638,BANGSAR SOUTH,1600000.0,4.0,4.0,2.0,Condominium,2068.0,Fully Furnished
-23639,COUNTRY HEIGHTS DAMANSARA,4072500.0,4.0,2.0,0.0,Residential Land,4.0,Unfurnished
 23640,SUNWAY SPK,3500000.0,5.5,5.0,0.0,Semi-detached House,4477.5,Partly Furnished
 23641,AMPANG,1580000.0,4.0,4.0,2.0,Condominium,1838.0,Fully Furnished
 23642,CHERAS,693000.0,2.0,2.0,1.0,Condominium,750.0,Partly Furnished
@@ -22975,7 +22845,6 @@
 24031,COUNTRY HEIGHTS DAMANSARA,4072500.0,5.0,7.0,0.0,Bungalow,4477.5,Fully Furnished
 24032,SEPUTEH,3900000.0,5.0,4.0,4.0,Bungalow,4477.5,Partly Furnished
 24033,JALAN KUCHING,320000.0,3.0,2.0,1.0,Condominium,1064.0,Partly Furnished
-24034,TAMAN DESA,1400000.0,4.0,4.0,3.0,2.5-sty Terrace/Link House,110.0,Unfurnished
 24035,JALAN KLANG LAMA (OLD KLANG ROAD),1438000.0,5.0,4.0,3.0,Condominium,2378.0,Partly Furnished
 24036,SRI PETALING,1800000.0,5.5,4.0,0.0,2-sty Terrace/Link House,4300.0,Partly Furnished
 24037,JALAN KLANG LAMA (OLD KLANG ROAD),650000.0,5.5,2.0,2.0,2-sty Terrace/Link House,1600.0,Unfurnished
@@ -23124,7 +22993,6 @@
 24189,BUKIT JALIL,1200000.0,5.5,6.0,0.0,3-sty Terrace/Link House,1650.0,Partly Furnished
 24190,JALAN KLANG LAMA (OLD KLANG ROAD),660000.0,5.0,4.0,2.0,Condominium,1440.0,Partly Furnished
 24192,MONT KIARA,2800000.0,4.0,6.0,0.0,Condominium,2702.0,Partly Furnished
-24193,CHERAS,825000.0,4.0,2.0,0.0,1-sty Terrace/Link House,256.0,Partly Furnished
 24194,SEGAMBUT,777000.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 24195,MONT KIARA,2300000.0,4.0,5.0,0.0,Condominium,2535.0,Fully Furnished
 24196,MONT KIARA,880000.0,3.0,2.0,1.0,Condominium,1388.0,Unfurnished
@@ -23202,7 +23070,6 @@
 24270,BUKIT JALIL,1350000.0,4.0,2.0,2.0,Condominium,1420.0,Partly Furnished
 24271,BUKIT JALIL,580000.0,3.0,2.0,2.0,Condominium,1073.0,Partly Furnished
 24272,TAMAN DESA,655000.0,4.0,2.0,1.0,Condominium,1250.0,Partly Furnished
-24273,PANTAI,4072500.0,4.0,2.0,0.0,Residential Land,7.0,Unfurnished
 24274,JALAN KLANG LAMA (OLD KLANG ROAD),570000.0,2.0,2.0,1.0,Serviced Residence,852.0,Partly Furnished
 24275,BUKIT JALIL,650000.0,4.0,2.0,0.0,Condominium,1404.0,Partly Furnished
 24277,BANDAR MENJALARA,280000.0,4.0,1.0,0.0,Serviced Residence,500.0,Partly Furnished
@@ -23624,8 +23491,6 @@
 24713,DESA PARKCITY,4072500.0,5.5,7.0,0.0,3-sty Terrace/Link House,4477.5,Unfurnished
 24714,DESA PARKCITY,938000.0,2.0,2.0,0.0,1-sty Terrace/Link House,1100.0,Partly Furnished
 24715,DESA PARKCITY,4072500.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
-24716,DESA PARKCITY,4072500.0,4.0,2.0,0.0,Bungalow,6.0,Unfurnished
-24717,DESA PARKCITY,4072500.0,4.0,2.0,0.0,Bungalow,31.0,Unfurnished
 24718,DAMANSARA HEIGHTS,4072500.0,5.0,4.0,0.0,Bungalow,4477.5,Unfurnished
 24719,DESA PARKCITY,1900000.0,4.0,4.0,0.0,Condominium,2100.0,Unfurnished
 24720,DESA PARKCITY,1300000.0,3.0,2.0,0.0,Condominium,1389.0,Partly Furnished
@@ -23762,7 +23627,6 @@
 24858,DAMANSARA HEIGHTS,1850000.0,4.0,4.0,1.0,Condominium,1679.0,Fully Furnished
 24859,DAMANSARA HEIGHTS,1250000.0,3.0,3.0,1.0,Condominium,1376.0,Fully Furnished
 24860,DAMANSARA HEIGHTS,1500000.0,4.0,4.0,1.0,Condominium,1700.0,Partly Furnished
-24861,SRI HARTAMAS,300000.0,4.0,2.0,0.0,Serviced Residence,410.0,Unfurnished
 24862,CITY CENTRE,1750000.0,3.0,2.0,0.0,Serviced Residence,1131.0,Fully Furnished
 24863,DAMANSARA HEIGHTS,1320000.0,4.0,4.0,0.0,Serviced Residence,1573.0,Partly Furnished
 24864,SETAPAK,1100000.0,3.0,2.0,2.0,Condominium,1442.0,Partly Furnished
@@ -23796,7 +23660,6 @@
 24892,MONT KIARA,664020.0,1.5,1.0,1.0,Serviced Residence,696.0,Partly Furnished
 24893,BUKIT JALIL,700000.0,4.0,2.0,3.0,Condominium,1212.0,Partly Furnished
 24894,BUKIT JALIL,360000.0,3.0,2.0,1.0,Apartment,810.0,Unfurnished
-24895,SETAPAK,1200000.0,4.0,2.0,0.0,Bungalow,76.0,Unfurnished
 24896,BUKIT BINTANG,350000.0,3.0,2.0,1.0,Apartment,980.0,Partly Furnished
 24897,PANTAI,600000.0,2.0,2.0,1.0,Condominium,1200.0,Partly Furnished
 24898,DUTAMAS,580000.0,3.0,2.0,2.0,Condominium,1450.0,Partly Furnished
@@ -23874,7 +23737,6 @@
 24971,KLCC,1400000.0,3.0,3.0,2.0,Condominium,1683.0,Partly Furnished
 24972,BANGSAR,1500000.0,3.0,2.0,1.0,Condominium,1511.0,Partly Furnished
 24973,SUNGAI BESI,376000.0,2.0,2.0,0.0,Serviced Residence,800.0,Unfurnished
-24974,KL CITY,379999.0,1.5,1.0,0.0,Serviced Residence,439.0,Fully Furnished
 24975,MONT KIARA,1420000.0,4.0,4.0,2.0,Condominium,1496.0,Partly Furnished
 24976,PANDAN JAYA,250000.0,3.0,1.0,2.0,Apartment,800.0,Unfurnished
 24978,KEPONG,720900.0,4.0,3.0,0.0,2-sty Terrace/Link House,1647.0,Unfurnished
@@ -23895,7 +23757,6 @@
 24993,SETAPAK,406000.0,4.0,2.0,2.0,Condominium,950.0,Unfurnished
 24995,BANDAR DAMAI PERDANA,550000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1200.0,Fully Furnished
 24996,BANGSAR,4072500.0,4.0,3.0,0.0,Bungalow,4477.5,Partly Furnished
-24997,AMPANG,440000.0,4.0,1.0,0.0,Serviced Residence,418.0,Partly Furnished
 24998,JALAN KLANG LAMA (OLD KLANG ROAD),479000.0,3.0,3.0,2.0,Condominium,1250.0,Unfurnished
 24999,AMPANG,1400000.0,5.0,3.0,0.0,Residential Land,4477.5,Unfurnished
 25000,TAMAN DESA,330000.0,3.0,2.0,1.0,Condominium,714.0,Unfurnished
@@ -24274,7 +24135,6 @@
 25397,BANGSAR,1280000.0,3.0,2.0,1.0,Condominium,1500.0,Fully Furnished
 25398,BANGSAR,580000.0,2.0,1.0,0.0,Condominium,840.0,Fully Furnished
 25399,BUKIT JALIL,750000.0,4.0,2.0,3.0,Condominium,1212.0,Partly Furnished
-25400,OUG,820000.0,4.0,3.0,0.0,2-sty Terrace/Link House,75.0,Partly Furnished
 25401,DUTAMAS,768000.0,3.0,2.0,2.0,Condominium,1181.0,Fully Furnished
 25403,JALAN KLANG LAMA (OLD KLANG ROAD),1399000.0,4.0,2.0,0.0,1-sty Terrace/Link House,3200.0,Fully Furnished
 25404,MONT KIARA,3518000.0,5.0,4.0,0.0,Condominium,3704.0,Fully Furnished
@@ -24304,7 +24164,6 @@
 25429,BANDAR MENJALARA,680000.0,3.0,3.0,2.0,Serviced Residence,1236.0,Partly Furnished
 25430,SETAPAK,430000.0,2.0,3.0,1.0,Serviced Residence,943.0,Unfurnished
 25433,TAMAN TUN DR ISMAIL,920000.0,3.0,2.0,1.0,Serviced Residence,1102.0,Partly Furnished
-25434,BANGSAR,750000.0,1.5,1.0,0.0,Serviced Residence,441.0,Fully Furnished
 25435,BANGSAR,750000.0,2.0,1.0,1.0,Serviced Residence,784.0,Fully Furnished
 25436,CHERAS,1700000.0,4.0,2.0,3.0,3-sty Terrace/Link House,2040.0,Fully Furnished
 25437,PANDAN INDAH,330000.0,3.0,2.0,1.0,Townhouse,900.0,Partly Furnished
@@ -24347,7 +24206,6 @@
 25475,PANDAN PERDANA,790000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Unfurnished
 25476,JALAN KLANG LAMA (OLD KLANG ROAD),2150000.0,5.5,3.0,0.0,Bungalow,4477.5,Fully Furnished
 25477,CHERAS,355000.0,3.0,2.0,3.0,Condominium,755.0,Partly Furnished
-25478,BANDAR DAMAI PERDANA,658000.0,4.0,3.0,0.0,2-sty Terrace/Link House,60.0,Partly Furnished
 25479,KUCHAI LAMA,1100000.0,4.0,3.0,2.0,Condominium,1948.0,Partly Furnished
 25480,AMPANG,1410000.0,2.0,2.0,1.0,Serviced Residence,860.0,Fully Furnished
 25481,AMPANG,1410000.0,2.0,2.0,1.0,Serviced Residence,860.0,Fully Furnished
@@ -24497,7 +24355,6 @@
 25631,SUNGAI BESI,720000.0,3.0,20.0,2.0,Serviced Residence,1135.0,Partly Furnished
 25632,SUNGAI BESI,720000.0,3.0,2.0,2.0,Serviced Residence,1135.0,Partly Furnished
 25633,SUNGAI BESI,720000.0,3.0,2.0,2.0,Serviced Residence,1135.0,Fully Furnished
-25634,BUKIT JALIL,650000.0,3.0,2.0,2.0,Condominium,0.0,Partly Furnished
 25635,KUCHAI LAMA,750000.0,4.0,3.0,2.0,Condominium,1495.0,Fully Furnished
 25636,KUCHAI LAMA,800000.0,4.0,3.0,2.0,Condominium,1690.0,Fully Furnished
 25637,DAMANSARA HEIGHTS,310000.0,1.5,1.0,0.0,Serviced Residence,520.0,Fully Furnished
@@ -25096,7 +24953,6 @@
 26255,DUTAMAS,599000.0,3.0,2.0,2.0,Condominium,1442.0,Fully Furnished
 26256,DUTAMAS,599000.0,3.0,2.0,1.0,Condominium,1326.0,Fully Furnished
 26257,DUTAMAS,1000000.0,4.0,5.0,3.0,Condominium,2111.0,Fully Furnished
-26258,SRI HARTAMAS,370000.0,4.0,1.0,0.0,Serviced Residence,430.0,Fully Furnished
 26259,OUG,1100000.0,5.0,2.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
 26260,OUG,980000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
 26261,KUCHAI LAMA,1645000.0,4.0,3.0,3.0,2-sty Terrace/Link House,1760.0,Partly Furnished
@@ -25139,8 +24995,6 @@
 26305,JALAN KUCHING,1600000.0,5.0,6.0,2.0,2.5-sty Terrace/Link House,1920.0,Partly Furnished
 26306,KLCC,1410000.0,4.0,5.0,2.0,Condominium,2411.0,Partly Furnished
 26307,BANDAR MENJALARA,335000.0,3.0,2.0,1.0,Serviced Residence,980.0,Partly Furnished
-26308,AMPANG,375000.0,2.0,1.0,1.0,Serviced Residence,430.0,Unfurnished
-26309,BRICKFIELDS,286000.0,4.0,1.0,1.0,Serviced Residence,250.0,Fully Furnished
 26311,JALAN KUCHING,520000.0,4.0,3.0,0.0,2-sty Terrace/Link House,880.0,Partly Furnished
 26312,JALAN KUCHING,600000.0,3.0,2.0,1.0,Condominium,1015.0,Partly Furnished
 26313,KEPONG,765000.0,4.0,3.0,3.0,Condominium,1450.0,Partly Furnished
@@ -25194,7 +25048,6 @@
 26361,KEPONG,638000.0,3.0,2.0,4.0,1-sty Terrace/Link House,1300.0,Partly Furnished
 26362,KEPONG,620000.0,3.0,2.0,4.0,2-sty Terrace/Link House,1200.0,Partly Furnished
 26363,KEPONG,590000.0,3.0,2.0,4.0,2-sty Terrace/Link House,1000.0,Partly Furnished
-26364,KEPONG,620000.0,3.0,2.0,4.0,2-sty Terrace/Link House,0.0,Partly Furnished
 26365,SETAPAK,600000.0,4.0,3.0,2.0,Condominium,1362.0,Partly Furnished
 26366,SETAPAK,650000.0,4.0,3.0,2.0,Condominium,1588.0,Partly Furnished
 26367,TITIWANGSA,600000.0,3.0,2.0,1.0,Serviced Residence,1100.0,Partly Furnished
@@ -25281,8 +25134,6 @@
 26452,TAMAN DUTA,4072500.0,5.5,6.0,8.0,Bungalow,4477.5,Partly Furnished
 26453,MONT KIARA,4072500.0,5.5,10.0,4.0,Bungalow,4477.5,Partly Furnished
 26454,AMPANG HILIR,1300000.0,4.0,3.0,0.0,Condominium,2100.0,Fully Furnished
-26455,SRI HARTAMAS,310000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
-26456,SRI HARTAMAS,308000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 26457,KLCC,1800000.0,3.0,4.0,1.0,Serviced Residence,1885.0,Fully Furnished
 26458,CHERAS,3500000.0,5.5,7.0,4.0,Bungalow,4477.5,Unfurnished
 26459,BATU CAVES,393660.0,3.0,2.0,0.0,Serviced Residence,1125.0,Unfurnished
@@ -25762,7 +25613,6 @@
 26954,CHERAS,410000.0,3.0,2.0,1.0,Condominium,950.0,Partly Furnished
 26955,CHERAS,2700000.0,5.5,5.0,0.0,Bungalow,4477.5,Partly Furnished
 26956,CHERAS,540000.0,3.0,2.0,2.0,Condominium,893.0,Unfurnished
-26957,BANGSAR,680000.0,4.0,1.0,0.0,Serviced Residence,441.0,Fully Furnished
 26958,CHERAS,468600.0,2.0,2.0,2.0,Condominium,840.0,Unfurnished
 26959,AMPANG,350000.0,1.5,1.0,1.0,Serviced Residence,549.0,Fully Furnished
 26960,TAMAN DESA,650000.0,3.0,2.0,2.0,Condominium,1110.0,Partly Furnished
@@ -25793,7 +25643,6 @@
 26986,CHERAS,1420000.0,3.0,2.0,0.0,Serviced Residence,1184.0,Unfurnished
 26987,CHERAS,1500000.0,4.0,3.0,0.0,Serviced Residence,1834.0,Partly Furnished
 26988,KUCHAI LAMA,345000.0,3.0,2.0,1.0,Condominium,1126.0,Partly Furnished
-26989,BANGSAR,2990000.0,4.0,3.0,0.0,2-sty Terrace/Link House,85.0,Fully Furnished
 26991,AMPANG,4072500.0,5.5,8.0,4.0,Condominium,4477.5,Partly Furnished
 26992,AMPANG HILIR,3116750.0,5.0,4.0,2.0,Condominium,3562.0,Partly Furnished
 26993,AMPANG,4072500.0,5.5,8.0,4.0,Condominium,4477.5,Fully Furnished
@@ -26066,7 +25915,6 @@
 27266,BUKIT BINTANG,3000000.0,2.0,2.0,1.0,Serviced Residence,1307.0,Partly Furnished
 27267,KL CITY,907379.0,2.0,2.0,0.0,Condominium,845.0,Partly Furnished
 27268,KL CITY,728291.0,2.0,1.0,0.0,Condominium,697.0,Partly Furnished
-27269,BANGSAR,710000.0,4.0,1.0,1.0,Serviced Residence,440.0,Fully Furnished
 27270,CHERAS,950000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1900.0,Unfurnished
 27271,JALAN KUCHING,800000.0,4.0,2.0,0.0,Condominium,1590.0,Unfurnished
 27272,KLCC,1594465.0,3.0,2.0,0.0,Condominium,971.0,Partly Furnished
@@ -26258,7 +26106,6 @@
 27464,CHERAS,1550000.0,5.0,4.0,0.0,Semi-detached House,3003.0,Partly Furnished
 27465,SETAPAK,515000.0,4.0,2.0,0.0,Condominium,1333.0,Partly Furnished
 27466,KLCC,1100000.0,4.0,3.0,0.0,Condominium,1429.0,Fully Furnished
-27467,BANGSAR,680000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 27468,KEPONG,410000.0,4.0,2.0,1.0,Serviced Residence,1250.0,Partly Furnished
 27469,CHERAS,1600000.0,5.0,4.0,0.0,Semi-detached House,3000.0,Unfurnished
 27470,JALAN KLANG LAMA (OLD KLANG ROAD),1200000.0,4.0,5.0,3.0,Condominium,1782.0,Fully Furnished
@@ -26392,7 +26239,6 @@
 27604,DAMANSARA HEIGHTS,4072500.0,5.5,7.0,0.0,Bungalow,2970.0,Unfurnished
 27605,JALAN KUCHING,330000.0,2.0,1.0,1.0,Condominium,648.0,Unfurnished
 27606,CHERAS,435000.0,2.0,2.0,1.0,Serviced Residence,916.0,Fully Furnished
-27607,JALAN KUCHING,580000.0,3.0,2.0,0.0,Condominium,1.0,Unfurnished
 27608,JALAN KUCHING,390000.0,3.0,2.0,1.0,Apartment,1200.0,Unfurnished
 27609,JALAN KLANG LAMA (OLD KLANG ROAD),820000.0,4.0,3.0,2.0,Condominium,1535.0,Unfurnished
 27610,JALAN KLANG LAMA (OLD KLANG ROAD),765000.0,3.0,2.0,2.0,Condominium,1392.0,Unfurnished
@@ -26430,7 +26276,6 @@
 27643,BATU CAVES,380000.0,3.0,2.0,2.0,Condominium,1092.0,Partly Furnished
 27644,BRICKFIELDS,870000.0,3.0,2.0,0.0,Serviced Residence,838.0,Fully Furnished
 27645,BRICKFIELDS,1100000.0,4.0,3.0,2.0,Condominium,1920.0,Fully Furnished
-27646,BANGSAR,710000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 27647,DAMANSARA HEIGHTS,1250000.0,4.0,2.0,2.0,Condominium,1980.0,Fully Furnished
 27648,MONT KIARA,980000.0,4.0,3.0,2.0,Condominium,1828.0,Fully Furnished
 27649,BRICKFIELDS,800000.0,4.0,1.0,0.0,Serviced Residence,606.0,Fully Furnished
@@ -26658,7 +26503,6 @@
 27879,DAMANSARA,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 27880,DAMANSARA,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 27881,MONT KIARA,1650000.0,4.0,3.0,2.0,Condominium,1878.0,Unfurnished
-27882,WANGSA MAJU,960000.0,5.0,2.0,0.0,2-sty Terrace/Link House,250.0,Partly Furnished
 27883,SETAPAK,1700000.0,5.5,6.0,0.0,3-sty Terrace/Link House,2460.0,Unfurnished
 27884,AMPANG HILIR,1500000.0,4.0,4.0,0.0,Condominium,2100.0,Unfurnished
 27885,WANGSA MAJU,1900000.0,5.5,6.0,0.0,3-sty Terrace/Link House,2460.0,Fully Furnished
@@ -26763,7 +26607,6 @@
 27990,KLCC,839000.0,2.0,1.0,0.0,Serviced Residence,649.0,Fully Furnished
 27991,JALAN KLANG LAMA (OLD KLANG ROAD),516000.0,2.0,2.0,1.0,Serviced Residence,645.0,Partly Furnished
 27992,KLCC,1020000.0,3.0,2.0,1.0,Serviced Residence,849.0,Fully Furnished
-27993,KLCC,1200000.0,1.5,1.0,0.0,Condominium,441.0,Fully Furnished
 27994,CHERAS,650000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1650.0,Unfurnished
 27995,KEPONG,570000.0,3.0,2.0,1.0,2-sty Terrace/Link House,630.0,Partly Furnished
 27996,SETAPAK,990000.0,4.0,4.0,2.0,Condominium,1477.0,Partly Furnished
@@ -27891,11 +27734,8 @@
 29160,MONT KIARA,542700.0,1.5,1.0,0.0,Serviced Residence,678.0,Unfurnished
 29161,COUNTRY HEIGHTS DAMANSARA,4072500.0,5.5,8.0,4.0,Bungalow,4477.5,Fully Furnished
 29162,AMPANG,1726560.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
-29163,OUG,4006759.0,4.0,2.0,0.0,Residential Land,54.0,Unfurnished
 29164,TAMAN TUN DR ISMAIL,4072500.0,5.0,6.0,3.0,Serviced Residence,3832.0,Partly Furnished
 29165,KL CITY,470000.0,4.0,1.0,0.0,Serviced Residence,480.0,Fully Furnished
-29166,KL CITY,360000.0,4.0,1.0,1.0,Serviced Residence,330.0,Fully Furnished
-29167,KL CITY,310000.0,4.0,1.0,0.0,Serviced Residence,322.0,Fully Furnished
 29168,KLCC,2050000.0,4.0,3.0,2.0,Serviced Residence,1800.0,Fully Furnished
 29169,SRI HARTAMAS,3280000.0,5.5,6.0,0.0,Semi-detached House,3600.0,Partly Furnished
 29170,SEGAMBUT,2500000.0,5.0,6.0,2.0,Semi-detached House,3800.0,Fully Furnished
@@ -28550,7 +28390,6 @@
 29852,MONT KIARA,950000.0,3.0,2.0,2.0,Serviced Residence,1583.0,Fully Furnished
 29853,CHERAS,455000.0,3.0,2.0,1.0,Condominium,850.0,Partly Furnished
 29854,BUKIT BINTANG,1100000.0,3.0,2.0,1.0,Condominium,1488.0,Fully Furnished
-29855,JALAN IPOH,1900000.0,5.5,5.0,0.0,Semi-detached House,80.0,Fully Furnished
 29856,JALAN KLANG LAMA (OLD KLANG ROAD),3100000.0,5.0,3.0,0.0,Bungalow,4477.5,Unfurnished
 29857,JALAN KLANG LAMA (OLD KLANG ROAD),3300000.0,5.5,6.0,0.0,Bungalow,4477.5,Fully Furnished
 29858,BANGSAR,4072500.0,5.0,4.0,0.0,Bungalow,4477.5,Partly Furnished
@@ -28884,7 +28723,6 @@
 30209,KEPONG,400000.0,3.0,2.0,2.0,Condominium,901.0,Unfurnished
 30210,SUNGAI BESI,1450000.0,4.0,4.0,0.0,3-sty Terrace/Link House,3216.0,Unfurnished
 30211,CHERAS,590000.0,3.0,2.0,1.0,Serviced Residence,873.0,Unfurnished
-30212,KL CITY,370000.0,4.0,1.0,0.0,Serviced Residence,439.0,Fully Furnished
 30213,BUKIT TUNKU (KENNY HILLS),4072500.0,5.5,8.0,6.0,Bungalow,4477.5,Partly Furnished
 30214,BUKIT TUNKU (KENNY HILLS),4072500.0,5.5,10.0,7.0,Bungalow,4477.5,Partly Furnished
 30215,BUKIT TUNKU (KENNY HILLS),4072500.0,5.5,11.0,10.0,Bungalow,4477.5,Partly Furnished
@@ -28907,7 +28745,6 @@
 30234,KLCC,1388200.0,1.5,1.0,0.0,Serviced Residence,631.0,Fully Furnished
 30235,KLCC,1250000.0,1.5,1.0,0.0,Serviced Residence,569.0,Fully Furnished
 30236,SEPUTEH,685000.0,4.0,3.0,2.0,Serviced Residence,1388.0,Fully Furnished
-30237,AMPANG,270000.0,4.0,1.0,0.0,Serviced Residence,375.0,Fully Furnished
 30238,KLCC,2710000.0,1.5,2.0,1.0,Serviced Residence,1023.0,Unfurnished
 30239,KLCC,4072500.0,2.0,3.0,3.0,Serviced Residence,1938.0,Unfurnished
 30241,KLCC,3190000.0,1.5,2.0,2.0,Serviced Residence,1421.0,Unfurnished
@@ -29132,7 +28969,6 @@
 30469,BRICKFIELDS,850000.0,4.0,2.0,1.0,Condominium,1500.0,Fully Furnished
 30470,CHERAS,1057100.0,5.0,4.0,0.0,Semi-detached House,3360.0,Unfurnished
 30471,JALAN IPOH,648000.0,4.0,3.0,0.0,2-sty Terrace/Link House,3595.0,Unfurnished
-30472,COUNTRY HEIGHTS DAMANSARA,4072500.0,4.0,2.0,0.0,Residential Land,4.0,Unfurnished
 30473,BANGSAR,1280000.0,4.0,2.0,0.0,1-sty Terrace/Link House,1870.0,Partly Furnished
 30474,BUKIT BINTANG,900000.0,2.0,2.0,0.0,Serviced Residence,940.0,Fully Furnished
 30475,MONT KIARA,1400000.0,4.0,4.0,2.0,Condominium,2002.0,Fully Furnished
@@ -29214,7 +29050,6 @@
 30553,SEGAMBUT,230000.0,3.0,2.0,0.0,Flat,950.0,Partly Furnished
 30554,BANGSAR,1200000.0,2.0,2.0,0.0,Serviced Residence,980.0,Unfurnished
 30555,BANGSAR,1300000.0,2.0,2.0,0.0,Serviced Residence,980.0,Fully Furnished
-30556,BANGSAR,683000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 30557,BANGSAR,1400000.0,2.0,2.0,0.0,Serviced Residence,1098.0,Unfurnished
 30558,BANGSAR,890000.0,2.0,1.0,0.0,Serviced Residence,689.0,Unfurnished
 30559,PANTAI,600000.0,1.5,2.0,0.0,Serviced Residence,873.0,Fully Furnished
@@ -29358,9 +29193,7 @@
 30703,SEPUTEH,4072500.0,5.5,6.0,0.0,Bungalow,4477.5,Partly Furnished
 30704,SEPUTEH,2180000.0,5.5,3.0,0.0,3-sty Terrace/Link House,4250.0,Partly Furnished
 30705,SEPUTEH,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
-30706,SEPUTEH,1750000.0,5.0,3.0,2.0,2.5-sty Terrace/Link House,100.0,Partly Furnished
 30707,SEPUTEH,2400000.0,4.0,4.0,2.0,2.5-sty Terrace/Link House,4048.0,Partly Furnished
-30708,SEPUTEH,2200000.0,4.0,2.0,0.0,2.5-sty Terrace/Link House,100.0,Fully Furnished
 30709,SEPUTEH,1450000.0,5.0,4.0,0.0,2.5-sty Terrace/Link House,2250.0,Partly Furnished
 30710,BANGSAR,3245000.0,4.0,4.0,0.0,Condominium,2950.0,Unfurnished
 30711,KLCC,3207350.0,4.0,3.0,0.0,Serviced Residence,2789.0,Partly Furnished
@@ -29681,7 +29514,6 @@
 31037,MONT KIARA,1600000.0,4.0,4.0,0.0,Condominium,1496.0,Partly Furnished
 31038,KERAMAT,670000.0,3.0,2.0,1.0,Condominium,1408.0,Unfurnished
 31039,CHERAS,1250000.0,4.0,3.0,1.0,Apartment,1350.0,Partly Furnished
-31040,JALAN KLANG LAMA (OLD KLANG ROAD),800000.0,4.0,3.0,0.0,2-sty Terrace/Link House,75.0,Partly Furnished
 31041,MONT KIARA,690000.0,3.0,2.0,0.0,Condominium,1250.0,Fully Furnished
 31042,BUKIT JALIL,670000.0,4.0,2.0,1.0,Condominium,1200.0,Partly Furnished
 31044,MONT KIARA,1250000.0,4.0,3.0,0.0,Condominium,2147.0,Fully Furnished
@@ -29749,7 +29581,6 @@
 31112,SUNGAI BESI,370000.0,2.0,2.0,0.0,Serviced Residence,650.0,Fully Furnished
 31114,BUKIT JALIL,498000.0,3.0,3.0,2.0,Condominium,1023.0,Unfurnished
 31115,PUCHONG,998000.0,5.5,6.0,0.0,3-sty Terrace/Link House,3412.0,Unfurnished
-31116,KL CITY,400000.0,4.0,1.0,1.0,Serviced Residence,420.0,Fully Furnished
 31117,DAMANSARA,2530000.0,5.5,4.0,3.0,Semi-detached House,4080.0,Unfurnished
 31118,JALAN IPOH,690000.0,4.0,2.0,0.0,2-sty Terrace/Link House,1650.0,Unfurnished
 31119,SETAPAK,650000.0,4.0,2.0,2.0,Serviced Residence,2110.0,Fully Furnished
@@ -30629,7 +30460,6 @@
 32027,BUKIT BINTANG,3000000.0,2.0,2.0,1.0,Condominium,1509.0,Partly Furnished
 32028,DAMANSARA HEIGHTS,4072500.0,5.5,10.0,0.0,Bungalow,4477.5,Partly Furnished
 32029,BUKIT JALIL,355000.0,3.0,2.0,1.0,Apartment,878.0,Unfurnished
-32030,KLCC,650000.0,4.0,1.0,1.0,Serviced Residence,411.0,Fully Furnished
 32031,DUTAMAS,979000.0,3.0,3.0,2.0,Condominium,1451.0,Fully Furnished
 32032,BANGSAR,4072500.0,4.0,5.0,3.0,Condominium,3282.0,Partly Furnished
 32033,KLCC,2500000.0,2.0,2.0,0.0,Condominium,1689.0,Partly Furnished
@@ -30786,7 +30616,6 @@
 32187,CITY CENTRE,1530000.0,1.5,2.0,0.0,Serviced Residence,1131.0,Fully Furnished
 32188,JALAN KLANG LAMA (OLD KLANG ROAD),385000.0,1.5,2.0,1.0,Serviced Residence,775.0,Partly Furnished
 32189,SENTUL,518000.0,4.0,3.0,1.0,Condominium,1412.0,Fully Furnished
-32190,BANGSAR SOUTH,950000.0,2.0,2.0,1.0,Serviced Residence,0.0,Fully Furnished
 32191,SEGAMBUT,355000.0,2.0,2.0,0.0,2-sty Terrace/Link House,630.0,Partly Furnished
 32192,TAMAN TUN DR ISMAIL,980000.0,3.0,2.0,2.0,Serviced Residence,1146.0,Partly Furnished
 32193,TAMAN TUN DR ISMAIL,820000.0,3.0,2.0,1.0,Serviced Residence,1010.0,Fully Furnished
@@ -30800,7 +30629,6 @@
 32201,TAMAN TUN DR ISMAIL,1250000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1800.0,Partly Furnished
 32202,BUKIT BINTANG,2450000.0,5.0,6.0,0.0,Condominium,2429.0,Unfurnished
 32203,KLCC,3313700.0,4.0,4.0,2.0,Condominium,2549.0,Partly Furnished
-32204,SALAK SELATAN,3000000.0,5.0,5.0,0.0,Semi-detached House,100.0,Fully Furnished
 32205,CHERAS,470000.0,4.0,2.0,1.0,Condominium,1307.0,Fully Furnished
 32206,BANDAR TASIK SELATAN,780000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1400.0,Partly Furnished
 32207,CHERAS,880000.0,3.0,2.0,0.0,2-sty Terrace/Link House,1650.0,Partly Furnished
@@ -30876,7 +30704,6 @@
 32278,CHERAS,363000.0,3.0,2.0,1.0,Condominium,1075.0,Partly Furnished
 32279,SRI PETALING,400000.0,1.5,1.0,1.0,Serviced Residence,740.0,Partly Furnished
 32280,BUKIT JALIL,520000.0,3.0,2.0,2.0,Condominium,1230.0,Partly Furnished
-32281,BRICKFIELDS,550000.0,4.0,1.0,0.0,Serviced Residence,445.0,Fully Furnished
 32282,MONT KIARA,1880000.0,4.0,4.0,2.0,Condominium,2243.0,Unfurnished
 32283,BUKIT JALIL,1900000.0,4.0,4.0,2.0,3-sty Terrace/Link House,1840.0,Partly Furnished
 32284,BUKIT JALIL,1590000.0,5.0,4.0,0.0,3-sty Terrace/Link House,1840.0,Partly Furnished
@@ -31041,7 +30868,6 @@
 32449,MONT KIARA,810000.0,4.0,3.0,0.0,Serviced Residence,1582.0,Unfurnished
 32450,JALAN IPOH,1700000.0,4.0,4.0,0.0,Semi-detached House,3150.0,Unfurnished
 32451,TAMAN TUN DR ISMAIL,800000.0,3.0,2.0,1.0,Condominium,1478.0,Fully Furnished
-32452,CHERAS,720000.0,3.0,2.0,0.0,Condominium,100.0,Fully Furnished
 32453,PANDAN INDAH,570000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1400.0,Unfurnished
 32454,MONT KIARA,1300000.0,2.0,2.0,1.0,Serviced Residence,983.0,Fully Furnished
 32455,KERAMAT,1300000.0,4.0,3.0,1.0,Condominium,1700.0,Fully Furnished
@@ -31114,7 +30940,6 @@
 32524,DAMANSARA HEIGHTS,4072500.0,5.0,6.0,6.0,Bungalow,4477.5,Fully Furnished
 32525,SRI PETALING,378000.0,3.0,2.0,1.0,Condominium,1017.0,Unfurnished
 32526,SRI HARTAMAS,364500.0,4.0,1.0,0.0,Serviced Residence,595.0,Unfurnished
-32527,KLCC,860000.0,3.0,2.0,0.0,Serviced Residence,0.0,Partly Furnished
 32528,CHERAS,650000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1200.0,Partly Furnished
 32529,CHERAS,340000.0,3.0,2.0,0.0,Serviced Residence,950.0,Partly Furnished
 32530,CHERAS,685000.0,4.0,2.0,1.0,Condominium,1500.0,Unfurnished
@@ -31211,7 +31036,6 @@
 32626,CHERAS,960000.0,5.0,5.0,4.0,3-sty Terrace/Link House,1628.0,Partly Furnished
 32627,JALAN IPOH,1330000.0,5.5,5.0,2.0,3-sty Terrace/Link House,1760.0,Partly Furnished
 32628,SEGAMBUT,299000.0,1.5,1.0,0.0,Apartment,745.0,Partly Furnished
-32630,CHERAS,520000.0,4.0,2.0,1.0,Condominium,0.0,Partly Furnished
 32631,SRI PETALING,950000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
 32632,CHERAS,699000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1760.0,Unfurnished
 32633,MONT KIARA,1600000.0,4.0,4.0,2.0,Condominium,1878.0,Partly Furnished
@@ -31405,7 +31229,6 @@
 32837,OUG,1430000.0,5.0,3.0,2.0,2-sty Terrace/Link House,2080.0,Fully Furnished
 32838,SENTUL,520000.0,3.0,2.0,2.0,Condominium,1081.0,Fully Furnished
 32839,JALAN KLANG LAMA (OLD KLANG ROAD),360000.0,3.0,2.0,1.0,Serviced Residence,950.0,Fully Furnished
-32840,KEPONG,728000.0,4.0,2.0,0.0,2-sty Terrace/Link House,0.0,Unfurnished
 32841,KLCC,4072500.0,5.0,6.0,3.0,Serviced Residence,4477.5,Fully Furnished
 32842,KLCC,4072500.0,5.5,7.0,3.0,Serviced Residence,4477.5,Fully Furnished
 32843,KLCC,4072500.0,4.0,4.0,2.0,Condominium,3218.0,Partly Furnished
@@ -31521,7 +31344,6 @@
 32957,CHERAS,788000.0,5.0,3.0,0.0,2-sty Terrace/Link House,1540.0,Unfurnished
 32958,DESA PARKCITY,2500000.0,4.0,5.0,0.0,3-sty Terrace/Link House,3540.0,Fully Furnished
 32959,MONT KIARA,1450000.0,4.0,2.0,0.0,Condominium,1200.0,Unfurnished
-32961,MONT KIARA,1995000.0,4.0,4.0,2.0,Condominium,0.0,Partly Furnished
 32962,TAMAN TUN DR ISMAIL,1180000.0,3.0,2.0,0.0,1-sty Terrace/Link House,1600.0,Partly Furnished
 32963,KLCC,1250000.0,3.0,2.0,2.0,Serviced Residence,897.0,Unfurnished
 32964,KLCC,1925000.0,3.0,2.0,0.0,Serviced Residence,1426.0,Unfurnished
@@ -31690,7 +31512,6 @@
 33133,PANDAN INDAH,825000.0,4.0,2.0,2.0,1-sty Terrace/Link House,2597.0,Partly Furnished
 33134,TAMAN DESA,199000.0,2.0,1.0,1.0,Apartment,600.0,Unfurnished
 33135,SRI PETALING,830000.0,5.5,3.0,2.0,2.5-sty Terrace/Link House,1650.0,Unfurnished
-33136,AMPANG,1390000.0,5.0,4.0,4.0,Condominium,0.0,Fully Furnished
 33137,SETAPAK,499000.0,3.0,2.0,2.0,Condominium,1200.0,Fully Furnished
 33138,SUNGAI BESI,458000.0,3.0,3.0,1.0,Serviced Residence,1045.0,Fully Furnished
 33139,MONT KIARA,1380000.0,4.0,4.0,2.0,Condominium,1733.0,Fully Furnished
@@ -31935,7 +31756,6 @@
 33386,PANTAI,1990000.0,5.0,5.0,0.0,Semi-detached House,2240.0,Partly Furnished
 33387,KLCC,850000.0,1.5,1.0,1.0,Serviced Residence,603.0,Fully Furnished
 33388,KLCC,2340800.0,3.0,2.0,2.0,Serviced Residence,1463.0,Partly Furnished
-33389,KLCC,585000.0,4.0,1.0,0.0,Serviced Residence,411.0,Fully Furnished
 33390,KLCC,1450000.0,2.0,2.0,0.0,Serviced Residence,840.0,Fully Furnished
 33391,KL CITY,820000.0,1.5,1.0,1.0,Serviced Residence,657.0,Fully Furnished
 33392,JALAN KLANG LAMA (OLD KLANG ROAD),375000.0,1.5,2.0,1.0,Serviced Residence,775.0,Partly Furnished
@@ -32007,9 +31827,7 @@
 33463,BRICKFIELDS,650000.0,1.5,1.0,1.0,Condominium,813.0,Unfurnished
 33464,BRICKFIELDS,950000.0,2.0,2.0,1.0,Condominium,1166.0,Unfurnished
 33465,BRICKFIELDS,650000.0,1.5,1.0,1.0,Condominium,813.0,Unfurnished
-33466,BRICKFIELDS,325000.0,4.0,1.0,1.0,Serviced Residence,250.0,Fully Furnished
 33467,BRICKFIELDS,595000.0,4.0,1.0,1.0,Serviced Residence,486.0,Fully Furnished
-33468,BRICKFIELDS,288000.0,4.0,1.0,1.0,Serviced Residence,250.0,Fully Furnished
 33469,KL SENTRAL,2800000.0,4.0,3.0,2.0,Serviced Residence,1873.0,Partly Furnished
 33470,BRICKFIELDS,980000.0,2.0,2.0,0.0,Serviced Residence,1009.0,Fully Furnished
 33471,KLCC,4072500.0,3.0,4.0,0.0,Condominium,4477.5,Partly Furnished
@@ -32021,7 +31839,6 @@
 33478,JALAN KLANG LAMA (OLD KLANG ROAD),938000.0,3.0,3.0,2.0,Condominium,1523.0,Unfurnished
 33479,WANGSA MAJU,870000.0,4.0,4.0,2.0,2-sty Terrace/Link House,1440.0,Unfurnished
 33480,JALAN KLANG LAMA (OLD KLANG ROAD),3800000.0,5.5,7.0,8.0,Condominium,4477.5,Unfurnished
-33481,MONT KIARA,900000.0,2.0,1.0,1.0,Serviced Residence,390.0,Unfurnished
 33482,BANGSAR,3500000.0,4.0,6.0,4.0,Bungalow,3993.0,Fully Furnished
 33483,AMPANG HILIR,939000.0,5.0,3.0,2.0,3-sty Terrace/Link House,2200.0,Partly Furnished
 33484,MONT KIARA,2480000.0,5.5,6.0,3.0,Condominium,4000.0,Partly Furnished
@@ -32041,7 +31858,6 @@
 33498,CHERAS,999999.0,2.0,2.0,2.0,Serviced Residence,950.0,Partly Furnished
 33500,SETAPAK,531000.0,3.0,2.0,2.0,Condominium,1000.0,Partly Furnished
 33501,JALAN KLANG LAMA (OLD KLANG ROAD),350000.0,3.0,2.0,1.0,Serviced Residence,950.0,Partly Furnished
-33502,KL CITY,338000.0,4.0,1.0,0.0,Serviced Residence,439.0,Fully Furnished
 33503,KL CITY,288000.0,2.0,2.0,0.0,Apartment,750.0,Unfurnished
 33504,KLCC,3300000.0,3.0,3.0,2.0,Serviced Residence,1688.0,Unfurnished
 33505,MONT KIARA,1650000.0,4.0,5.0,0.0,Condominium,2257.0,Partly Furnished
@@ -32119,10 +31935,8 @@
 33581,CHERAS,370000.0,3.0,2.0,1.0,Condominium,1066.0,Partly Furnished
 33582,KLCC,2480000.0,4.0,4.0,0.0,Serviced Residence,2416.0,Partly Furnished
 33583,KL CITY,480000.0,3.0,2.0,1.0,Condominium,1151.0,Fully Furnished
-33584,KEPONG,1780000.0,5.0,4.0,0.0,2-sty Terrace/Link House,75.0,Partly Furnished
 33585,SUNWAY SPK,1400000.0,4.0,4.0,0.0,Townhouse,2400.0,Unfurnished
 33586,SENTUL,990000.0,4.0,4.0,2.0,Condominium,1567.0,Unfurnished
-33587,KLCC,520000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 33588,TAMAN MELAWATI,465000.0,3.0,2.0,1.0,Serviced Residence,901.0,Partly Furnished
 33589,SETAPAK,380000.0,4.0,2.0,2.0,Condominium,950.0,Unfurnished
 33590,MONT KIARA,795000.0,3.0,2.0,1.0,Serviced Residence,1248.0,Fully Furnished
@@ -32457,7 +32271,6 @@
 33929,CHERAS,1490000.0,4.0,3.0,1.0,Serviced Residence,1512.0,Partly Furnished
 33930,CHERAS,1000000.0,2.0,2.0,1.0,Serviced Residence,883.0,Unfurnished
 33931,MONT KIARA,2350000.0,5.0,5.0,3.0,Condominium,2973.0,Partly Furnished
-33932,KL CITY,360000.0,4.0,1.0,0.0,Serviced Residence,380.0,Fully Furnished
 33933,CHERAS,2200000.0,5.5,6.0,2.0,Semi-detached House,3200.0,Fully Furnished
 33934,MONT KIARA,2700000.0,4.0,4.0,2.0,Condominium,3500.0,Fully Furnished
 33935,MONT KIARA,4072500.0,5.5,6.0,0.0,Semi-detached House,4477.5,Fully Furnished
@@ -33072,7 +32885,6 @@
 34569,JALAN KLANG LAMA (OLD KLANG ROAD),380000.0,4.0,2.0,1.0,Condominium,1098.0,Partly Furnished
 34570,KEPONG,600000.0,3.0,2.0,2.0,Serviced Residence,1162.0,Unfurnished
 34571,OUG,4072500.0,5.5,7.0,0.0,Semi-detached House,4477.5,Fully Furnished
-34572,TITIWANGSA,1200000.0,4.0,2.0,0.0,Bungalow,19.0,Unfurnished
 34573,BRICKFIELDS,530000.0,3.0,2.0,1.0,Apartment,880.0,Fully Furnished
 34574,BUKIT JALIL,620000.0,2.0,2.0,2.0,Serviced Residence,705.0,Unfurnished
 34575,CITY CENTRE,1200000.0,5.0,3.0,1.0,Condominium,2000.0,Fully Furnished
@@ -33230,13 +33042,10 @@
 34740,KUCHAI LAMA,813000.0,4.0,4.0,0.0,Condominium,1477.0,Partly Furnished
 34741,DUTAMAS,440000.0,3.0,2.0,1.0,Condominium,850.0,Fully Furnished
 34742,BANGSAR,1150000.0,2.0,2.0,1.0,Serviced Residence,980.0,Unfurnished
-34743,BANGSAR,760000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
-34744,BANGSAR,740000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 34745,DESA PANDAN,798000.0,2.0,2.0,2.0,Serviced Residence,1087.0,Partly Furnished
 34746,SRI PETALING,638000.0,4.0,3.0,1.0,Serviced Residence,1279.0,Fully Furnished
 34747,TAMAN TUN DR ISMAIL,1750000.0,3.0,3.0,2.0,Serviced Residence,1442.0,Partly Furnished
 34748,TAMAN TUN DR ISMAIL,3000000.0,4.0,4.0,2.0,Serviced Residence,2426.0,Unfurnished
-34749,BANGSAR,683000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 34751,KLCC,3500000.0,4.0,5.0,2.0,Condominium,3079.0,Partly Furnished
 34752,BANGSAR SOUTH,575000.0,1.5,1.0,0.0,Serviced Residence,638.0,Fully Furnished
 34753,DAMANSARA HEIGHTS,4072500.0,5.5,6.0,3.0,Semi-detached House,4477.5,Partly Furnished
@@ -33741,8 +33550,6 @@
 35295,BANGSAR,4072500.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
 35296,TAMAN TUN DR ISMAIL,4072500.0,5.5,5.0,5.0,Bungalow,4477.5,Unfurnished
 35300,SUNGAI BESI,1580000.0,5.0,4.0,0.0,3-sty Terrace/Link House,2400.0,Unfurnished
-35301,BUKIT JALIL,629000.0,2.0,1.0,1.0,Serviced Residence,0.0,Fully Furnished
-35302,BUKIT JALIL,900000.0,3.0,2.0,2.0,Serviced Residence,0.0,Partly Furnished
 35303,BUKIT BINTANG,545500.0,3.0,2.0,1.0,Condominium,1209.0,Unfurnished
 35304,JALAN KUCHING,460000.0,3.0,2.0,1.0,Condominium,1100.0,Partly Furnished
 35305,JALAN IPOH,720600.0,3.0,2.0,2.0,Condominium,1196.0,Partly Furnished
@@ -33955,12 +33762,10 @@
 35525,KEPONG,650000.0,3.0,3.0,2.0,2.5-sty Terrace/Link House,1400.0,Partly Furnished
 35526,OUG,1280000.0,5.5,5.0,0.0,2-sty Terrace/Link House,1650.0,Fully Furnished
 35527,CHERAS,830000.0,4.0,4.0,3.0,2-sty Terrace/Link House,1540.0,Partly Furnished
-35528,BUKIT JALIL,1190000.0,4.0,2.0,0.0,Condominium,0.0,Fully Furnished
 35529,BUKIT JALIL,977000.0,4.0,2.0,2.0,Condominium,1420.0,Partly Furnished
 35530,BUKIT JALIL,500000.0,3.0,2.0,0.0,Condominium,1224.0,Fully Furnished
 35531,BUKIT JALIL,580000.0,4.0,2.0,2.0,Condominium,1422.0,Fully Furnished
 35532,BUKIT JALIL,1260000.0,4.0,2.0,2.0,Condominium,1506.0,Fully Furnished
-35533,SEPUTEH,4072500.0,4.0,2.0,0.0,Residential Land,0.0,Unfurnished
 35534,TAMAN DESA,1250000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1870.0,Partly Furnished
 35535,BUKIT JALIL,288000.0,2.0,2.0,0.0,Apartment,786.0,Fully Furnished
 35536,CHERAS,370000.0,3.0,2.0,0.0,Townhouse,1300.0,Partly Furnished
@@ -34065,7 +33870,6 @@
 35638,CHERAS,1225000.0,3.0,3.0,2.0,Serviced Residence,1225.0,Partly Furnished
 35639,DUTAMAS,4072500.0,5.0,5.0,5.0,Condominium,4477.5,Partly Furnished
 35640,SENTUL,500000.0,3.0,2.0,1.0,Serviced Residence,948.0,Unfurnished
-35641,KL CITY,330000.0,4.0,1.0,0.0,Serviced Residence,351.0,Fully Furnished
 35642,CHERAS,520000.0,3.0,3.0,1.0,Condominium,1625.0,Unfurnished
 35643,JALAN KLANG LAMA (OLD KLANG ROAD),898000.0,4.0,4.0,2.0,Condominium,1663.0,Fully Furnished
 35644,WANGSA MAJU,638000.0,3.0,2.0,1.0,Condominium,991.0,Unfurnished
@@ -34273,7 +34077,6 @@
 35853,CHERAS,590000.0,4.0,2.0,1.0,Condominium,1476.0,Partly Furnished
 35854,CHERAS,399000.0,2.0,2.0,0.0,2-sty Terrace/Link House,900.0,Partly Furnished
 35855,BUKIT JALIL,2700000.0,5.5,8.0,0.0,Bungalow,4477.5,Partly Furnished
-35856,AMPANG,399840.0,2.0,2.0,1.0,Serviced Residence,430.0,Unfurnished
 35857,SRI PETALING,418000.0,3.0,2.0,1.0,Condominium,945.0,Partly Furnished
 35858,SETAPAK,600000.0,4.0,3.0,1.0,Condominium,1406.0,Partly Furnished
 35859,MONT KIARA,900000.0,2.0,1.0,0.0,Serviced Residence,663.0,Partly Furnished
@@ -34478,7 +34281,6 @@
 36071,SETAPAK,550000.0,4.0,2.0,2.0,Condominium,1600.0,Partly Furnished
 36073,KEPONG,780000.0,4.0,3.0,3.0,2-sty Terrace/Link House,1760.0,Unfurnished
 36074,KEPONG,318000.0,3.0,2.0,1.0,Apartment,860.0,Unfurnished
-36075,AMPANG,375000.0,2.0,1.0,1.0,Serviced Residence,430.0,Unfurnished
 36076,JALAN KLANG LAMA (OLD KLANG ROAD),450000.0,2.0,2.0,1.0,Condominium,985.0,Partly Furnished
 36077,KLCC,3300000.0,2.0,2.0,2.0,Serviced Residence,1432.0,Partly Furnished
 36078,JALAN KLANG LAMA (OLD KLANG ROAD),425000.0,3.0,2.0,1.0,Condominium,1000.0,Unfurnished
@@ -34543,7 +34345,6 @@
 36142,BANGSAR,3600000.0,5.0,5.0,3.0,Condominium,3891.0,Partly Furnished
 36143,AMPANG,650000.0,1.5,1.0,1.0,Serviced Residence,853.0,Partly Furnished
 36144,BUKIT JALIL,1100000.0,5.0,3.0,2.0,Condominium,1513.0,Partly Furnished
-36145,BANGSAR,610000.0,4.0,1.0,1.0,Serviced Residence,441.0,Unfurnished
 36146,BANGSAR,1220000.0,2.0,2.0,2.0,Serviced Residence,980.0,Unfurnished
 36147,TAMAN DESA,668000.0,3.0,2.0,1.0,Condominium,1250.0,Fully Furnished
 36148,TAMAN DESA,700000.0,4.0,2.0,2.0,Condominium,1355.0,Partly Furnished
@@ -34652,7 +34453,6 @@
 36255,MONT KIARA,1800000.0,3.0,2.0,1.0,Condominium,2002.0,Partly Furnished
 36257,SUNGAI BESI,610000.0,3.0,2.0,2.0,Serviced Residence,1025.0,Partly Furnished
 36258,KUCHAI LAMA,585000.0,3.0,2.0,2.0,Condominium,986.0,Partly Furnished
-36259,BUKIT JALIL,750000.0,3.0,2.0,2.0,Serviced Residence,0.0,Unfurnished
 36260,BATU CAVES,520000.0,3.0,2.0,2.0,Serviced Residence,975.0,Partly Furnished
 36261,KLCC,3500000.0,4.0,5.0,1.0,Condominium,2245.0,Fully Furnished
 36262,CHERAS,480000.0,3.0,2.0,2.0,Condominium,1018.0,Unfurnished
@@ -34660,7 +34460,6 @@
 36264,KL CITY,1150000.0,4.0,1.0,0.0,Condominium,510.0,Fully Furnished
 36265,KUCHAI LAMA,500000.0,3.0,2.0,1.0,Serviced Residence,935.0,Fully Furnished
 36266,JALAN KLANG LAMA (OLD KLANG ROAD),390000.0,2.0,2.0,1.0,Serviced Residence,665.0,Partly Furnished
-36267,BANGSAR,710000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 36268,CHERAS,650000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1300.0,Partly Furnished
 36269,BANGSAR SOUTH,535000.0,3.0,2.0,1.0,Condominium,900.0,Partly Furnished
 36270,SENTUL,414600.0,3.0,2.0,1.0,Serviced Residence,850.0,Unfurnished
@@ -34730,7 +34529,6 @@
 36335,CHERAS,412000.0,3.0,2.0,1.0,Condominium,966.0,Unfurnished
 36336,JALAN KLANG LAMA (OLD KLANG ROAD),504000.0,3.0,3.0,2.0,Condominium,1250.0,Unfurnished
 36337,JALAN KLANG LAMA (OLD KLANG ROAD),500000.0,3.0,3.0,2.0,Condominium,1250.0,Unfurnished
-36338,SRI HARTAMAS,510000.0,4.0,1.0,1.0,Serviced Residence,446.0,Fully Furnished
 36339,KLCC,1075980.0,2.0,1.0,0.0,Serviced Residence,681.0,Partly Furnished
 36340,BANGSAR,920000.0,3.0,2.0,1.0,Condominium,1300.0,Fully Furnished
 36341,KLCC,720000.0,2.0,1.0,0.0,Serviced Residence,642.0,Partly Furnished
@@ -34761,7 +34559,6 @@
 36367,DUTAMAS,1100000.0,3.0,2.0,0.0,Serviced Residence,1238.0,Fully Furnished
 36368,DUTAMAS,1200000.0,3.0,2.0,0.0,Serviced Residence,1238.0,Fully Furnished
 36369,SUNGAI PENCHALA,2350000.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
-36370,SUNGAI PENCHALA,2456190.0,4.0,2.0,0.0,Bungalow,5.0,Unfurnished
 36371,SENTUL,590000.0,4.0,3.0,2.0,Condominium,1231.0,Unfurnished
 36372,SUNGAI PENCHALA,1593540.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
 36373,SUNGAI PENCHALA,1918890.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
@@ -35020,7 +34817,6 @@
 36639,KEPONG,730000.0,3.0,2.0,0.0,1-sty Terrace/Link House,1540.0,Partly Furnished
 36640,SUNGAI BESI,590000.0,3.0,2.0,1.0,Condominium,1109.0,Unfurnished
 36641,MONT KIARA,3500000.0,4.0,5.0,0.0,Serviced Residence,4300.0,Fully Furnished
-36642,TAMAN DESA,570000.0,2.0,2.0,1.0,Condominium,0.0,Fully Furnished
 36643,TAMAN DESA,550000.0,2.0,2.0,1.0,Condominium,1068.0,Partly Furnished
 36644,KEPONG,770000.0,4.0,4.0,0.0,2.5-sty Terrace/Link House,1500.0,Partly Furnished
 36645,SRI PETALING,999000.0,5.0,4.0,0.0,2.5-sty Terrace/Link House,1760.0,Partly Furnished
@@ -35059,7 +34855,6 @@
 36681,BUKIT JALIL,750000.0,3.0,3.0,0.0,Townhouse,1700.0,Partly Furnished
 36682,SRI HARTAMAS,450000.0,4.0,1.0,0.0,Serviced Residence,500.0,Fully Furnished
 36683,KEPONG,680000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1430.0,Unfurnished
-36684,KL CITY,350000.0,4.0,1.0,0.0,Serviced Residence,439.0,Fully Furnished
 36685,CHERAS,798000.0,5.0,3.0,0.0,2-sty Terrace/Link House,1800.0,Partly Furnished
 36686,SEPUTEH,535000.0,1.5,2.0,1.0,Condominium,667.0,Partly Furnished
 36687,PUCHONG,280000.0,3.0,2.0,1.0,Flat,850.0,Partly Furnished
@@ -35274,14 +35069,10 @@
 36910,MONT KIARA,3100000.0,5.5,6.0,0.0,Semi-detached House,3779.0,Partly Furnished
 36911,JALAN KUCHING,580000.0,3.0,2.0,2.0,Condominium,1400.0,Fully Furnished
 36912,BUKIT BINTANG,1000000.0,2.0,2.0,0.0,Serviced Residence,837.0,Partly Furnished
-36913,BATU CAVES,511575.0,3.0,2.0,2.0,Serviced Residence,19.0,Partly Furnished
-36914,BATU CAVES,643000.0,4.0,3.0,2.0,Serviced Residence,13.0,Partly Furnished
-36915,BATU CAVES,489000.0,3.0,2.0,2.0,Serviced Residence,19.0,Partly Furnished
 36916,SETAPAK,2642220.0,5.5,8.0,6.0,Condominium,4477.5,Unfurnished
 36917,SETAPAK,1370650.0,5.5,5.0,3.0,Condominium,2685.0,Unfurnished
 36918,KLCC,4072500.0,4.0,5.0,4.0,Serviced Residence,2615.0,Fully Furnished
 36919,KLCC,4072500.0,5.5,7.0,0.0,Condominium,4477.5,Partly Furnished
-36920,CHERAS,1380000.0,5.5,4.0,0.0,Semi-detached House,80.0,Partly Furnished
 36921,SEGAMBUT,1290000.0,5.0,4.0,0.0,3-sty Terrace/Link House,1540.0,Partly Furnished
 36922,AMPANG,2300000.0,5.5,4.0,0.0,Semi-detached House,3200.0,Unfurnished
 36923,SUNGAI PENCHALA,1000000.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
@@ -35339,7 +35130,6 @@
 36977,JALAN KLANG LAMA (OLD KLANG ROAD),395000.0,1.5,2.0,1.0,Serviced Residence,775.0,Partly Furnished
 36978,DAMANSARA HEIGHTS,4072500.0,5.5,7.0,0.0,Bungalow,4477.5,Unfurnished
 36979,BUKIT JALIL,580000.0,3.0,2.0,2.0,Condominium,1231.0,Unfurnished
-36980,BANGSAR,683000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 36981,KLCC,1245000.0,1.5,1.0,2.0,Serviced Residence,925.0,Partly Furnished
 36982,JALAN KUCHING,300000.0,3.0,2.0,1.0,Apartment,875.0,Unfurnished
 36983,SRI PETALING,510000.0,3.0,2.0,1.0,Condominium,1385.0,Fully Furnished
@@ -35356,7 +35146,6 @@
 36996,AMPANG,2800000.0,5.5,7.0,0.0,Bungalow,4477.5,Partly Furnished
 36997,SETAPAK,580000.0,1.5,1.0,0.0,Condominium,753.0,Fully Furnished
 36998,SUNGAI BESI,2200000.0,5.0,5.0,0.0,Semi-detached House,3282.0,Partly Furnished
-36999,SETAPAK,2000000.0,5.0,2.0,0.0,Bungalow,8.0,Partly Furnished
 37000,DUTAMAS,1300000.0,5.5,6.0,0.0,Condominium,4477.5,Partly Furnished
 37001,SUNGAI BESI,500000.0,4.0,4.0,0.0,2-sty Terrace/Link House,1760.0,Unfurnished
 37002,KEPONG,595000.0,4.0,3.0,2.0,2-sty Terrace/Link House,880.0,Partly Furnished
@@ -35380,7 +35169,6 @@
 37021,SENTUL,325000.0,3.0,2.0,0.0,Condominium,889.0,Partly Furnished
 37022,KLCC,3500000.0,5.0,5.0,2.0,Condominium,3358.0,Partly Furnished
 37023,AMPANG,2700000.0,5.5,6.0,3.0,Condominium,3800.0,Partly Furnished
-37024,CHERAS,450000.0,3.0,2.0,0.0,Serviced Residence,200.0,Partly Furnished
 37025,KEPONG,520000.0,3.0,2.0,0.0,1-sty Terrace/Link House,1650.0,Partly Furnished
 37026,AMPANG HILIR,2450000.0,4.0,4.0,3.0,Condominium,2228.0,Partly Furnished
 37027,CHERAS,988000.0,5.0,3.0,0.0,2-sty Terrace/Link House,2550.0,Unfurnished
@@ -35490,7 +35278,6 @@
 37142,WANGSA MAJU,3590000.0,5.0,7.0,4.0,Semi-detached House,4477.5,Fully Furnished
 37143,KLCC,1120000.0,1.5,1.0,1.0,Condominium,630.0,Fully Furnished
 37144,JALAN KUCHING,490000.0,1.5,1.0,1.0,Serviced Residence,563.0,Fully Furnished
-37145,SETAPAK,350000.0,1.5,1.0,1.0,Serviced Residence,380.0,Partly Furnished
 37146,CITY CENTRE,670000.0,3.0,2.0,0.0,Condominium,1335.0,Fully Furnished
 37147,KUCHAI LAMA,1100000.0,4.0,3.0,3.0,Condominium,2000.0,Unfurnished
 37148,BANGSAR,750000.0,2.0,1.0,1.0,Condominium,1011.0,Fully Furnished
@@ -36376,7 +36163,6 @@
 38068,SETAPAK,555000.0,4.0,2.0,2.0,Condominium,1600.0,Partly Furnished
 38069,SETAPAK,340000.0,2.0,1.0,1.0,Serviced Residence,648.0,Partly Furnished
 38070,SETAPAK,615000.0,5.0,2.0,2.0,Serviced Residence,1325.0,Partly Furnished
-38071,SUNGAI BESI,520000.0,3.0,2.0,2.0,Condominium,0.0,Fully Furnished
 38072,DESA PARKCITY,2600000.0,5.5,7.0,3.0,3-sty Terrace/Link House,4477.5,Partly Furnished
 38073,MONT KIARA,1150000.0,3.0,2.0,2.0,Condominium,1200.0,Partly Furnished
 38074,CHERAS,995000.0,3.0,3.0,0.0,2-sty Terrace/Link House,2800.0,Partly Furnished
@@ -36974,7 +36760,6 @@
 38698,MONT KIARA,950000.0,4.0,2.0,3.0,Condominium,1550.0,Fully Furnished
 38699,SUNGAI BESI,490000.0,2.0,2.0,0.0,Serviced Residence,750.0,Unfurnished
 38700,MONT KIARA,620000.0,1.5,1.0,0.0,Serviced Residence,462.0,Unfurnished
-38701,SRI HARTAMAS,510000.0,4.0,1.0,1.0,Serviced Residence,435.0,Fully Furnished
 38702,MONT KIARA,2470000.0,5.0,5.0,3.0,Condominium,2907.0,Partly Furnished
 38703,DUTAMAS,1050000.0,2.0,2.0,0.0,Serviced Residence,1145.0,Fully Furnished
 38704,MONT KIARA,1000000.0,4.0,3.0,2.0,Condominium,1500.0,Fully Furnished
@@ -37031,7 +36816,6 @@
 38760,TAMAN DESA,445000.0,3.0,3.0,1.0,Condominium,938.0,Fully Furnished
 38761,SETAPAK,470000.0,2.0,2.0,2.0,Condominium,902.0,Fully Furnished
 38762,SETAPAK,480000.0,3.0,2.0,1.0,Condominium,1102.0,Partly Furnished
-38763,DAMANSARA HEIGHTS,2000000.0,5.0,5.0,0.0,Serviced Residence,0.0,Fully Furnished
 38764,BANGSAR,1200000.0,4.0,3.0,1.0,Condominium,1561.0,Fully Furnished
 38765,BANGSAR SOUTH,1600000.0,4.0,2.0,2.0,Condominium,2095.0,Partly Furnished
 38766,SUNGAI PENCHALA,1244000.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
@@ -37066,7 +36850,6 @@
 38795,AMPANG HILIR,620000.0,2.0,2.0,0.0,Serviced Residence,950.0,Fully Furnished
 38796,AMPANG HILIR,830000.0,2.0,2.0,1.0,Serviced Residence,1400.0,Fully Furnished
 38797,BRICKFIELDS,570000.0,4.0,1.0,0.0,Serviced Residence,468.0,Fully Furnished
-38798,KL CITY,415000.0,4.0,2.0,0.0,Serviced Residence,420.0,Unfurnished
 38799,TAMAN DESA,445000.0,3.0,2.0,1.0,Condominium,917.0,Fully Furnished
 38800,TITIWANGSA,480000.0,2.0,1.0,1.0,Serviced Residence,710.0,Unfurnished
 38801,MONT KIARA,1080000.0,2.0,2.0,2.0,Serviced Residence,926.0,Fully Furnished
@@ -37079,7 +36862,6 @@
 38808,BATU CAVES,350000.0,4.0,4.0,2.0,2-sty Terrace/Link House,1200.0,Unfurnished
 38809,DESA PETALING,355000.0,3.0,2.0,0.0,Condominium,956.0,Partly Furnished
 38810,KLCC,3613500.0,4.0,4.0,2.0,Condominium,3285.0,Partly Furnished
-38811,KLCC,695420.0,4.0,1.0,0.0,Serviced Residence,436.0,Fully Furnished
 38812,BANGSAR,2456300.0,5.0,5.0,2.0,Condominium,3509.0,Partly Furnished
 38813,KLCC,1350000.0,1.5,1.0,2.0,Serviced Residence,925.0,Partly Furnished
 38814,MONT KIARA,1450000.0,4.0,4.0,2.0,Condominium,3200.0,Fully Furnished
@@ -37166,7 +36948,6 @@
 38899,KLCC,1700000.0,3.0,2.0,1.0,Serviced Residence,1496.0,Fully Furnished
 38900,MONT KIARA,2850000.0,5.0,5.0,0.0,Condominium,3169.0,Partly Furnished
 38901,BUKIT TUNKU (KENNY HILLS),2200000.0,5.0,5.0,3.0,Condominium,3253.0,Fully Furnished
-38902,KLCC,600000.0,4.0,1.0,0.0,Serviced Residence,411.0,Fully Furnished
 38903,KERAMAT,1100000.0,4.0,4.0,2.0,Condominium,1700.0,Fully Furnished
 38904,BUKIT JALIL,522000.0,3.0,2.0,2.0,Condominium,1100.0,Unfurnished
 38905,BUKIT TUNKU (KENNY HILLS),4072500.0,5.5,7.0,0.0,Bungalow,4477.5,Partly Furnished
@@ -37185,7 +36966,6 @@
 38918,CHERAS,2480000.0,4.0,3.0,0.0,Bungalow,4477.5,Unfurnished
 38920,OUG,1159000.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
 38921,BUKIT JALIL,705000.0,3.0,2.0,2.0,Condominium,1300.0,Fully Furnished
-38922,SETAPAK,330000.0,4.0,1.0,1.0,Serviced Residence,380.0,Partly Furnished
 38923,MONT KIARA,2000000.0,4.0,4.0,2.0,Condominium,2020.0,Fully Furnished
 38924,MONT KIARA,2788000.0,4.0,4.0,3.0,Serviced Residence,2305.0,Partly Furnished
 38925,SEGAMBUT,450000.0,3.0,2.0,1.0,Apartment,1165.0,Fully Furnished
@@ -37302,7 +37082,6 @@
 39044,SETAPAK,590000.0,5.0,2.0,2.0,Condominium,1600.0,Unfurnished
 39045,BRICKFIELDS,650000.0,1.5,1.0,1.0,Condominium,822.0,Fully Furnished
 39046,BRICKFIELDS,640000.0,1.5,1.0,1.0,Condominium,822.0,Fully Furnished
-39048,BANGSAR,590000.0,4.0,1.0,1.0,Serviced Residence,441.0,Unfurnished
 39049,KL ECO CITY,795000.0,2.0,1.0,1.0,Condominium,710.0,Unfurnished
 39050,TAMAN DESA,339000.0,3.0,2.0,1.0,Apartment,829.0,Unfurnished
 39051,SEGAMBUT,600000.0,3.0,2.0,1.0,Condominium,1124.0,Unfurnished
@@ -37473,7 +37252,6 @@
 39223,KLCC,495000.0,4.0,1.0,0.0,Serviced Residence,493.0,Fully Furnished
 39224,KLCC,490000.0,4.0,1.0,0.0,Serviced Residence,470.0,Fully Furnished
 39225,MONT KIARA,1880000.0,4.0,3.0,2.0,Condominium,2243.0,Fully Furnished
-39226,SETAPAK,1600000.0,5.5,5.0,0.0,3-sty Terrace/Link House,80.0,Partly Furnished
 39227,SUNGAI BESI,338000.0,3.0,2.0,1.0,Condominium,800.0,Unfurnished
 39228,AMPANG,1500000.0,5.0,4.0,0.0,Semi-detached House,2600.0,Fully Furnished
 39229,AMPANG,1700000.0,5.0,4.0,0.0,Semi-detached House,1950.0,Fully Furnished
@@ -37523,7 +37301,6 @@
 39273,AMPANG,767580.0,4.0,2.0,0.0,Serviced Residence,977.0,Unfurnished
 39274,JALAN KLANG LAMA (OLD KLANG ROAD),340000.0,3.0,2.0,1.0,Serviced Residence,950.0,Fully Furnished
 39275,JALAN KLANG LAMA (OLD KLANG ROAD),440000.0,3.0,2.0,1.0,Condominium,1100.0,Partly Furnished
-39276,KL CITY,360000.0,4.0,1.0,0.0,Serviced Residence,351.0,Fully Furnished
 39277,AMPANG HILIR,3150000.0,4.0,4.0,2.0,Condominium,4477.5,Partly Furnished
 39278,MONT KIARA,1770000.0,5.0,4.0,3.0,Condominium,2735.0,Fully Furnished
 39279,MONT KIARA,2730000.0,3.0,3.0,1.0,Condominium,3043.0,Fully Furnished
@@ -37654,12 +37431,10 @@
 39409,TAMAN MELAWATI,650000.0,3.0,2.0,2.0,2-sty Terrace/Link House,1260.0,Unfurnished
 39410,TAMAN MELAWATI,650000.0,3.0,2.0,2.0,2-sty Terrace/Link House,1260.0,Unfurnished
 39411,JALAN KLANG LAMA (OLD KLANG ROAD),838000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1650.0,Unfurnished
-39412,BUKIT TUNKU (KENNY HILLS),4072500.0,5.5,7.0,8.0,Bungalow,23.0,Partly Furnished
 39413,CHERAS,980000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1760.0,Partly Furnished
 39414,KLCC,850000.0,2.0,1.0,1.0,Serviced Residence,600.0,Fully Furnished
 39415,KLCC,485000.0,4.0,1.0,0.0,Serviced Residence,500.0,Fully Furnished
 39416,KLCC,498000.0,4.0,1.0,1.0,Serviced Residence,497.0,Fully Furnished
-39417,AMPANG HILIR,4072500.0,5.0,5.0,3.0,Semi-detached House,84.0,Partly Furnished
 39418,SUNGAI BESI,2180000.0,5.0,5.0,0.0,Semi-detached House,3282.0,Partly Furnished
 39419,CHERAS,420000.0,3.0,2.0,1.0,Condominium,950.0,Partly Furnished
 39420,KLCC,1500000.0,4.0,1.0,2.0,Serviced Residence,925.0,Partly Furnished
@@ -38152,7 +37927,6 @@
 39928,CITY CENTRE,4072500.0,5.5,7.0,4.0,Serviced Residence,4477.5,Fully Furnished
 39929,AMPANG HILIR,570000.0,4.0,1.0,1.0,Serviced Residence,502.0,Fully Furnished
 39930,CHERAS,470000.0,3.0,2.0,2.0,Condominium,1018.0,Unfurnished
-39931,SRI HARTAMAS,550000.0,1.5,1.0,0.0,Serviced Residence,435.0,Partly Furnished
 39932,MONT KIARA,1250000.0,4.0,4.0,0.0,Condominium,1605.0,Partly Furnished
 39934,AMPANG HILIR,4072500.0,5.5,6.0,0.0,Condominium,4477.5,Partly Furnished
 39936,KLCC,3960000.0,4.0,4.0,0.0,Serviced Residence,3600.0,Unfurnished
@@ -38225,7 +37999,6 @@
 40030,KEPONG,990000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1540.0,Partly Furnished
 40031,DUTAMAS,1480000.0,5.0,4.0,4.0,Condominium,1920.0,Partly Furnished
 40032,DAMANSARA HEIGHTS,3600000.0,5.0,5.0,0.0,3-sty Terrace/Link House,3200.0,Unfurnished
-40033,PUCHONG,1100000.0,5.5,6.0,0.0,3-sty Terrace/Link House,80.0,Partly Furnished
 40034,KLCC,1700000.0,4.0,4.0,2.0,Condominium,1905.0,Fully Furnished
 40035,JALAN KLANG LAMA (OLD KLANG ROAD),620000.0,4.0,3.0,2.0,Condominium,1208.0,Partly Furnished
 40036,BUKIT BINTANG,2682000.0,4.0,4.0,2.0,Serviced Residence,2013.0,Partly Furnished
@@ -38459,7 +38232,6 @@
 40278,TAMAN TUN DR ISMAIL,1800000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1800.0,Partly Furnished
 40279,TAMAN TUN DR ISMAIL,1180000.0,4.0,2.0,0.0,1-sty Terrace/Link House,1760.0,Partly Furnished
 40280,CHERAS,670000.0,4.0,2.0,0.0,Condominium,1393.0,Partly Furnished
-40281,SRI HARTAMAS,350000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 40282,DESA PANDAN,1300000.0,3.0,2.0,2.0,Serviced Residence,1530.0,Unfurnished
 40283,DAMANSARA HEIGHTS,1723500.0,5.5,5.0,0.0,Bungalow,4477.5,Partly Furnished
 40284,JALAN KLANG LAMA (OLD KLANG ROAD),390000.0,3.0,2.0,2.0,Serviced Residence,950.0,Fully Furnished
@@ -38702,7 +38474,6 @@
 40532,KL CITY,998000.0,2.0,1.0,1.0,Serviced Residence,625.0,Partly Furnished
 40533,KL CITY,1380000.0,2.0,2.0,1.0,Serviced Residence,895.0,Partly Furnished
 40534,AMPANG,468000.0,3.0,2.0,1.0,Serviced Residence,601.0,Unfurnished
-40535,AMPANG,349000.0,2.0,2.0,1.0,Serviced Residence,430.0,Unfurnished
 40536,AMPANG,738000.0,5.0,3.0,2.0,Condominium,3000.0,Fully Furnished
 40538,KEPONG,550000.0,2.0,2.0,1.0,Condominium,866.0,Partly Furnished
 40539,JALAN KLANG LAMA (OLD KLANG ROAD),950000.0,4.0,3.0,2.0,Condominium,1663.0,Partly Furnished
@@ -38950,7 +38721,6 @@
 40795,BANGSAR,1490000.0,4.0,4.0,0.0,Condominium,1905.0,Fully Furnished
 40796,CHERAS,1150000.0,5.5,5.0,0.0,3-sty Terrace/Link House,4186.0,Partly Furnished
 40797,SRI HARTAMAS,3600000.0,5.5,6.0,0.0,3-sty Terrace/Link House,4477.5,Partly Furnished
-40798,MONT KIARA,670000.0,2.0,2.0,1.0,Condominium,0.0,Partly Furnished
 40799,DUTAMAS,475000.0,3.0,2.0,1.0,Condominium,1450.0,Partly Furnished
 40800,CHERAS,390000.0,3.0,2.0,1.0,Serviced Residence,820.0,Unfurnished
 40801,KLCC,1291200.0,3.0,2.0,1.0,Condominium,1076.0,Fully Furnished
@@ -39004,7 +38774,6 @@
 40853,SEPUTEH,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 40854,DUTAMAS,2100000.0,3.0,3.0,2.0,Condominium,2000.0,Partly Furnished
 40855,PANTAI,455000.0,3.0,2.0,1.0,Condominium,1039.0,Partly Furnished
-40856,MONT KIARA,2699000.0,5.5,5.0,5.0,Condominium,0.0,Partly Furnished
 40857,SETAPAK,475000.0,4.0,2.0,2.0,Condominium,1333.0,Partly Furnished
 40858,TAMAN MELAWATI,450000.0,2.0,2.0,3.0,2-sty Terrace/Link House,840.0,Partly Furnished
 40859,SUNWAY SPK,1200000.0,4.0,4.0,2.0,Townhouse,2820.0,Partly Furnished
@@ -39033,7 +38802,6 @@
 40883,OUG,3850000.0,5.5,5.0,0.0,Bungalow,4477.5,Unfurnished
 40884,TAMAN MELAWATI,2300000.0,5.0,5.0,0.0,3-sty Terrace/Link House,1968.0,Unfurnished
 40885,MONT KIARA,4072500.0,5.0,4.0,0.0,Condominium,4477.5,Partly Furnished
-40886,BANGSAR,682000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 40887,KLCC,4072500.0,4.0,4.0,0.0,Serviced Residence,3897.0,Unfurnished
 40888,DAMANSARA HEIGHTS,4072500.0,4.0,4.0,0.0,Serviced Residence,2702.0,Partly Furnished
 40889,KLCC,4072500.0,4.0,6.0,0.0,Serviced Residence,3063.0,Unfurnished
@@ -39046,7 +38814,6 @@
 40896,KLCC,1884700.0,2.0,2.0,0.0,Serviced Residence,894.0,Partly Furnished
 40897,KLCC,1537800.0,2.0,1.0,0.0,Serviced Residence,711.0,Partly Furnished
 40898,JALAN KLANG LAMA (OLD KLANG ROAD),278000.0,3.0,2.0,1.0,Apartment,820.0,Unfurnished
-40899,CHERAS,530000.0,3.0,2.0,2.0,Serviced Residence,0.0,Partly Furnished
 40900,SUNGAI BESI,750000.0,5.0,4.0,3.0,Condominium,1980.0,Partly Furnished
 40901,CHERAS,855000.0,2.0,2.0,1.0,Apartment,947.0,Partly Furnished
 40902,CHERAS,1550000.0,4.0,3.0,2.0,Apartment,1500.0,Partly Furnished
@@ -39164,7 +38931,6 @@
 41022,SEGAMBUT,600000.0,3.0,2.0,1.0,Condominium,1019.0,Partly Furnished
 41023,SENTUL,558000.0,3.0,2.0,2.0,Condominium,1230.0,Partly Furnished
 41024,DUTAMAS,750000.0,4.0,3.0,2.0,Condominium,1356.0,Partly Furnished
-41025,MONT KIARA,3700000.0,5.5,5.0,3.0,Condominium,0.0,Partly Furnished
 41026,MONT KIARA,820000.0,3.0,2.0,2.0,Condominium,1280.0,Fully Furnished
 41027,BUKIT JALIL,1100000.0,5.5,4.0,4.0,Condominium,1930.0,Partly Furnished
 41028,AMPANG,1450000.0,4.0,3.0,2.0,Serviced Residence,1570.0,Unfurnished
@@ -39198,7 +38964,6 @@
 41057,KL CITY,1936300.0,3.0,3.0,2.0,Serviced Residence,1139.0,Fully Furnished
 41058,CITY CENTRE,1380000.0,1.5,2.0,1.0,Serviced Residence,1131.0,Fully Furnished
 41059,CITY CENTRE,2650000.0,4.0,4.0,2.0,Serviced Residence,2269.0,Fully Furnished
-41061,MONT KIARA,4072500.0,5.5,6.0,4.0,Bungalow,85.0,Fully Furnished
 41062,CHERAS,670000.0,3.0,2.0,2.0,Serviced Residence,1054.0,Partly Furnished
 41063,CHERAS,305000.0,2.0,2.0,1.0,Condominium,1000.0,Partly Furnished
 41064,JALAN KLANG LAMA (OLD KLANG ROAD),800000.0,3.0,2.0,2.0,Condominium,1394.0,Partly Furnished
@@ -39232,7 +38997,6 @@
 41093,BUKIT JALIL,360000.0,3.0,2.0,1.0,Apartment,878.0,Unfurnished
 41094,CHERAS,380000.0,2.0,2.0,1.0,Condominium,619.0,Unfurnished
 41095,BANDAR MENJALARA,788000.0,4.0,2.0,2.0,Condominium,1358.0,Partly Furnished
-41096,MONT KIARA,1980000.0,4.0,3.0,2.0,Condominium,0.0,Partly Furnished
 41097,BANDAR MENJALARA,2000000.0,5.0,5.0,0.0,Condominium,3186.0,Unfurnished
 41098,BUKIT JALIL,380000.0,3.0,2.0,1.0,Apartment,818.0,Unfurnished
 41099,BANDAR MENJALARA,1600000.0,5.0,5.0,0.0,Condominium,3186.0,Unfurnished
@@ -39291,7 +39055,6 @@
 41156,SRI PETALING,2780000.0,5.5,5.0,4.0,Semi-detached House,4477.5,Partly Furnished
 41157,BANGSAR,2631000.0,5.0,5.0,2.0,Condominium,3509.0,Partly Furnished
 41158,BUKIT TUNKU (KENNY HILLS),2780000.0,5.0,5.0,3.0,Condominium,2928.0,Partly Furnished
-41159,MONT KIARA,829000.0,3.0,2.0,0.0,Condominium,0.0,Fully Furnished
 41160,JALAN KLANG LAMA (OLD KLANG ROAD),460000.0,3.0,2.0,1.0,Serviced Residence,880.0,Partly Furnished
 41161,BANDAR MENJALARA,950000.0,4.0,3.0,2.0,Condominium,1635.0,Partly Furnished
 41162,KEPONG,760000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1760.0,Partly Furnished
@@ -39316,20 +39079,16 @@
 41181,KLCC,4072500.0,4.0,4.0,2.0,Condominium,2228.0,Partly Furnished
 41182,KLCC,4072500.0,4.0,4.0,2.0,Condominium,3606.0,Fully Furnished
 41183,CHERAS,938000.0,4.0,3.0,3.0,2-sty Terrace/Link House,1980.0,Partly Furnished
-41184,MONT KIARA,1198000.0,3.0,2.0,1.0,Condominium,0.0,Fully Furnished
-41185,SRI PETALING,1100000.0,4.0,4.0,2.0,2-sty Terrace/Link House,75.0,Partly Furnished
 41187,SALAK SELATAN,600000.0,3.0,2.0,2.0,Serviced Residence,1058.0,Partly Furnished
 41188,KL CITY,399000.0,3.0,2.0,1.0,Condominium,860.0,Unfurnished
 41189,KLCC,1500000.0,2.0,2.0,0.0,Serviced Residence,1050.0,Unfurnished
 41191,WANGSA MAJU,390000.0,3.0,2.0,1.0,2.5-sty Terrace/Link House,588.0,Partly Furnished
-41192,MONT KIARA,930000.0,3.0,2.0,1.0,Condominium,0.0,Fully Furnished
 41193,CHERAS,545000.0,2.0,2.0,1.0,Condominium,962.0,Partly Furnished
 41194,KLCC,3500000.0,4.0,5.0,0.0,Serviced Residence,3750.0,Fully Furnished
 41195,KEPONG,938000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1470.0,Unfurnished
 41196,MONT KIARA,693600.0,3.0,2.0,0.0,Condominium,1238.0,Partly Furnished
 41197,SRI HARTAMAS,4072500.0,5.5,5.0,0.0,Bungalow,4477.5,Unfurnished
 41198,KEPONG,630000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1200.0,Unfurnished
-41199,MONT KIARA,849000.0,3.0,2.0,1.0,Condominium,0.0,Fully Furnished
 41200,JALAN KLANG LAMA (OLD KLANG ROAD),380000.0,3.0,2.0,1.0,Condominium,1065.0,Partly Furnished
 41201,AMPANG HILIR,4072500.0,5.5,6.0,6.0,Bungalow,4477.5,Fully Furnished
 41202,DUTAMAS,1300000.0,4.0,4.0,2.0,Condominium,1719.0,Partly Furnished
@@ -39413,10 +39172,7 @@
 41285,BUKIT JALIL,560000.0,3.0,2.0,0.0,Condominium,1404.0,Fully Furnished
 41286,BANDAR MENJALARA,320000.0,3.0,2.0,0.0,Serviced Residence,808.0,Unfurnished
 41287,BANDAR MENJALARA,330000.0,3.0,2.0,0.0,Serviced Residence,850.0,Unfurnished
-41288,MONT KIARA,909000.0,2.0,2.0,1.0,Condominium,0.0,Partly Furnished
-41289,KLCC,520000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 41290,SETAPAK,520000.0,3.0,2.0,2.0,Condominium,1302.0,Partly Furnished
-41291,MONT KIARA,595000.0,1.5,1.0,1.0,Condominium,0.0,Fully Furnished
 41292,KEPONG,600000.0,3.0,2.0,1.0,Condominium,1074.0,Partly Furnished
 41293,SEGAMBUT,700000.0,4.0,3.0,2.0,Condominium,1262.0,Partly Furnished
 41294,SETAPAK,365000.0,2.0,2.0,2.0,Serviced Residence,856.0,Partly Furnished
@@ -39437,7 +39193,6 @@
 41309,CHERAS,550000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1260.0,Partly Furnished
 41310,SRI HARTAMAS,500000.0,1.5,1.0,1.0,Serviced Residence,640.0,Fully Furnished
 41311,DAMANSARA HEIGHTS,4072500.0,4.0,5.0,0.0,Bungalow,4477.5,Partly Furnished
-41312,MONT KIARA,849000.0,3.0,2.0,1.0,Condominium,0.0,Partly Furnished
 41313,MONT KIARA,1550000.0,5.0,4.0,2.0,Condominium,2318.0,Partly Furnished
 41314,DAMANSARA HEIGHTS,4072500.0,5.5,6.0,0.0,Bungalow,4477.5,Partly Furnished
 41315,KLCC,2550000.0,5.0,6.0,4.0,Condominium,2916.0,Fully Furnished
@@ -39483,7 +39238,6 @@
 41357,CHERAS,800000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Fully Furnished
 41358,SETAPAK,1200000.0,3.0,3.0,3.0,Condominium,1980.0,Fully Furnished
 41359,MONT KIARA,3000000.0,4.0,4.0,2.0,Condominium,3000.0,Fully Furnished
-41360,MONT KIARA,1099000.0,3.0,2.0,1.0,Condominium,0.0,Partly Furnished
 41361,KEPONG,430000.0,3.0,2.0,2.0,Condominium,1073.0,Unfurnished
 41362,CHERAS,530000.0,3.0,2.0,2.0,Condominium,1000.0,Partly Furnished
 41363,SENTUL,966000.0,3.0,3.0,1.0,Condominium,1238.0,Partly Furnished
@@ -39554,7 +39308,6 @@
 41434,KL CITY,700000.0,1.5,2.0,1.0,Condominium,800.0,Fully Furnished
 41435,MONT KIARA,980000.0,4.0,3.0,2.0,Condominium,1800.0,Partly Furnished
 41436,KUCHAI LAMA,1050000.0,4.0,3.0,2.0,Condominium,1948.0,Unfurnished
-41437,BANGSAR,650000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 41438,BUKIT BINTANG,730000.0,1.5,1.0,1.0,Serviced Residence,696.0,Fully Furnished
 41439,KLCC,640000.0,4.0,1.0,0.0,Serviced Residence,453.0,Unfurnished
 41440,DESA PETALING,290000.0,3.0,2.0,1.0,Condominium,900.0,Partly Furnished
@@ -39895,7 +39648,6 @@
 41790,BUKIT JALIL,845000.0,4.0,3.0,2.0,Condominium,1335.0,Partly Furnished
 41791,BUKIT JALIL,600000.0,3.0,2.0,2.0,Condominium,1100.0,Unfurnished
 41792,KLCC,3300000.0,4.0,4.0,2.0,Serviced Residence,3897.0,Partly Furnished
-41793,MONT KIARA,561000.0,3.0,2.0,2.0,Condominium,0.0,Partly Furnished
 41794,KLCC,3350000.0,4.0,4.0,2.0,Serviced Residence,3897.0,Partly Furnished
 41795,KLCC,3350000.0,4.0,4.0,2.0,Serviced Residence,3897.0,Partly Furnished
 41796,JALAN KLANG LAMA (OLD KLANG ROAD),580000.0,2.0,2.0,1.0,Serviced Residence,852.0,Partly Furnished
@@ -39907,8 +39659,6 @@
 41803,SETAPAK,330000.0,3.0,2.0,1.0,Condominium,947.0,Unfurnished
 41804,SETAPAK,450000.0,4.0,2.0,2.0,Condominium,1328.0,Partly Furnished
 41805,WANGSA MAJU,1180000.0,4.0,4.0,3.0,Condominium,1967.0,Unfurnished
-41806,MONT KIARA,880000.0,3.0,2.0,1.0,Condominium,0.0,Partly Furnished
-41807,MONT KIARA,829000.0,3.0,2.0,1.0,Condominium,0.0,Partly Furnished
 41808,MONT KIARA,1880000.0,4.0,4.0,2.0,Condominium,2025.0,Partly Furnished
 41809,KLCC,3500000.0,5.0,5.0,0.0,Condominium,3502.0,Partly Furnished
 41810,MONT KIARA,1750000.0,4.0,4.0,2.0,Condominium,2025.0,Partly Furnished
@@ -40100,7 +39850,6 @@
 42009,MONT KIARA,650000.0,4.0,1.0,1.0,Serviced Residence,496.0,Fully Furnished
 42010,SRI HARTAMAS,450000.0,4.0,1.0,0.0,Serviced Residence,500.0,Fully Furnished
 42011,BRICKFIELDS,480000.0,2.0,2.0,1.0,Serviced Residence,486.0,Unfurnished
-42012,BRICKFIELDS,340000.0,4.0,1.0,1.0,Serviced Residence,250.0,Unfurnished
 42013,KLCC,650000.0,2.0,2.0,1.0,Condominium,920.0,Fully Furnished
 42014,KLCC,660000.0,1.5,1.0,1.0,Condominium,918.0,Fully Furnished
 42015,KLCC,550000.0,1.5,1.0,1.0,Condominium,775.0,Fully Furnished
@@ -40165,7 +39914,6 @@
 42077,OUG,2850000.0,5.5,7.0,0.0,Semi-detached House,3500.0,Partly Furnished
 42078,MONT KIARA,1450000.0,4.0,5.0,2.0,Condominium,3200.0,Partly Furnished
 42079,SRI HARTAMAS,3900000.0,5.0,6.0,2.0,Condominium,4477.5,Fully Furnished
-42080,BRICKFIELDS,282000.0,4.0,1.0,1.0,Serviced Residence,250.0,Fully Furnished
 42081,KEPONG,550000.0,4.0,2.0,0.0,Condominium,1074.0,Unfurnished
 42082,JINJANG,668000.0,3.0,1.0,4.0,1-sty Terrace/Link House,1470.0,Partly Furnished
 42083,MONT KIARA,1350000.0,2.0,2.0,2.0,Serviced Residence,1318.0,Unfurnished
@@ -40276,7 +40024,6 @@
 42190,BANGSAR SOUTH,370000.0,4.0,1.0,1.0,Apartment,495.0,Partly Furnished
 42191,SENTUL,414600.0,3.0,2.0,1.0,Serviced Residence,850.0,Unfurnished
 42192,MONT KIARA,1200000.0,4.0,5.0,3.0,Condominium,1605.0,Unfurnished
-42193,MONT KIARA,1500000.0,2.0,3.0,2.0,Condominium,361.0,Fully Furnished
 42194,MONT KIARA,1995000.0,5.0,5.0,2.0,Condominium,2562.0,Unfurnished
 42195,MONT KIARA,1600000.0,3.0,5.0,2.0,Condominium,2025.0,Unfurnished
 42196,MONT KIARA,1700000.0,3.0,5.0,2.0,Condominium,2025.0,Unfurnished
@@ -40475,7 +40222,6 @@
 42406,MONT KIARA,1100000.0,2.0,2.0,1.0,Serviced Residence,952.0,Fully Furnished
 42408,DUTAMAS,475000.0,3.0,2.0,1.0,Condominium,1450.0,Partly Furnished
 42409,BUKIT JALIL,400000.0,3.0,2.0,1.0,Apartment,1098.0,Partly Furnished
-42410,BANDAR SRI DAMANSARA,1300000.0,4.0,3.0,0.0,2-sty Terrace/Link House,75.0,Unfurnished
 42411,SETAPAK,515000.0,3.0,2.0,2.0,Serviced Residence,1018.0,Partly Furnished
 42412,KEPONG,828000.0,4.0,2.0,0.0,2-sty Terrace/Link House,1760.0,Partly Furnished
 42413,KEPONG,828000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1760.0,Partly Furnished
@@ -40600,8 +40346,6 @@
 42538,KLCC,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 42540,BANGSAR SOUTH,1100000.0,2.0,2.0,1.0,Serviced Residence,823.0,Fully Furnished
 42541,KLCC,3480000.0,4.0,4.0,0.0,Condominium,2245.0,Partly Furnished
-42542,CHERAS,433000.0,3.0,2.0,2.0,Condominium,425.5,Partly Furnished
-42543,CHERAS,433000.0,3.0,2.0,2.0,Condominium,425.5,Partly Furnished
 42544,BANGSAR SOUTH,990000.0,3.0,2.0,2.0,Serviced Residence,1119.0,Unfurnished
 42545,BUKIT JALIL,580000.0,3.0,2.0,2.0,Condominium,1050.0,Partly Furnished
 42546,BANGSAR SOUTH,750000.0,2.0,2.0,0.0,Serviced Residence,823.0,Fully Furnished
@@ -40669,7 +40413,6 @@
 42614,CHERAS,600000.0,4.0,2.0,1.0,Condominium,1381.0,Partly Furnished
 42615,CHERAS,450000.0,2.0,2.0,2.0,Serviced Residence,854.0,Fully Furnished
 42616,AMPANG,730000.0,2.0,2.0,1.0,Serviced Residence,947.0,Fully Furnished
-42617,CHERAS,330000.0,2.0,2.0,1.0,1-sty Terrace/Link House,225.0,Partly Furnished
 42618,SEGAMBUT,350000.0,3.0,2.0,1.0,Apartment,912.0,Unfurnished
 42619,SEGAMBUT,698000.0,3.0,2.0,2.0,Condominium,1298.0,Unfurnished
 42620,BANGSAR,1239000.0,4.0,2.0,2.0,1-sty Terrace/Link House,1870.0,Unfurnished
@@ -40818,7 +40561,6 @@
 42774,SUNGAI BESI,1000000.0,5.0,4.0,2.0,3-sty Terrace/Link House,1600.0,Partly Furnished
 42775,SUNGAI BESI,1480000.0,5.0,4.0,0.0,3-sty Terrace/Link House,1500.0,Partly Furnished
 42776,DUTAMAS,850000.0,3.0,2.0,1.0,Condominium,1253.0,Fully Furnished
-42777,AMPANG,500000.0,4.0,1.0,0.0,Serviced Residence,423.0,Unfurnished
 42778,BANDAR MENJALARA,380000.0,3.0,2.0,1.0,Condominium,914.0,Partly Furnished
 42779,SUNGAI BESI,378000.0,3.0,2.0,2.0,Serviced Residence,850.0,Partly Furnished
 42780,JALAN KUCHING,650000.0,3.0,2.0,2.0,Condominium,1320.0,Fully Furnished
@@ -40945,7 +40687,6 @@
 42907,CHERAS,399000.0,3.0,2.0,1.0,Condominium,910.0,Fully Furnished
 42908,MONT KIARA,1888000.0,4.0,3.0,0.0,Serviced Residence,1573.0,Fully Furnished
 42909,MONT KIARA,1540000.0,4.0,2.0,0.0,Condominium,2368.0,Unfurnished
-42910,JALAN IPOH,950000.0,3.0,2.0,0.0,Condominium,0.0,Partly Furnished
 42911,TAMAN MELAWATI,1640250.0,4.0,2.0,0.0,Semi-detached House,3864.0,Unfurnished
 42912,KLCC,2020500.0,4.0,2.0,0.0,Condominium,2249.0,Unfurnished
 42913,SETAPAK,532170.0,4.0,3.0,0.0,Serviced Residence,1539.0,Partly Furnished
@@ -40979,7 +40720,6 @@
 42942,KLCC,1925000.0,3.0,2.0,1.0,Serviced Residence,1426.0,Fully Furnished
 42943,SRI PETALING,798000.0,4.0,3.0,4.0,2-sty Terrace/Link House,1760.0,Partly Furnished
 42944,KERAMAT,1300000.0,4.0,4.0,0.0,Condominium,1624.0,Partly Furnished
-42945,SEGAMBUT,530000.0,3.0,2.0,2.0,3-sty Terrace/Link House,308.0,Partly Furnished
 42946,KERAMAT,1900000.0,5.0,5.0,0.0,Condominium,3800.0,Partly Furnished
 42947,JALAN KLANG LAMA (OLD KLANG ROAD),370000.0,2.0,2.0,1.0,Serviced Residence,676.0,Partly Furnished
 42948,BUKIT JALIL,1350000.0,4.0,3.0,2.0,Condominium,1420.0,Fully Furnished
@@ -41126,7 +40866,6 @@
 43099,MONT KIARA,900000.0,4.0,4.0,2.0,Condominium,1828.0,Partly Furnished
 43100,MONT KIARA,980000.0,4.0,3.0,2.0,Condominium,1828.0,Partly Furnished
 43101,DESA PARKCITY,3700000.0,5.0,4.0,4.0,3-sty Terrace/Link House,3200.0,Partly Furnished
-43102,MONT KIARA,2900000.0,5.0,7.0,0.0,Condominium,0.0,Partly Furnished
 43103,MONT KIARA,1900000.0,4.0,5.0,3.0,Condominium,2411.0,Partly Furnished
 43104,DESA PARKCITY,2200000.0,5.0,5.0,0.0,Condominium,2454.0,Partly Furnished
 43105,AMPANG HILIR,4072500.0,5.0,5.0,0.0,Condominium,4477.5,Partly Furnished
@@ -41178,7 +40917,6 @@
 43153,KLCC,2532600.0,3.0,3.0,1.0,Serviced Residence,1490.0,Fully Furnished
 43154,KLCC,1698300.0,2.0,1.0,1.0,Serviced Residence,1020.0,Fully Furnished
 43155,KLCC,3616000.0,3.0,3.0,0.0,Serviced Residence,3897.0,Partly Furnished
-43156,BRICKFIELDS,272000.0,1.5,1.0,1.0,Serviced Residence,250.0,Fully Furnished
 43157,CHERAS,420000.0,3.0,2.0,2.0,Condominium,880.0,Partly Furnished
 43158,BANGSAR,1000000.0,2.0,2.0,1.0,Serviced Residence,1300.0,Fully Furnished
 43159,SENTUL,700000.0,3.0,2.0,1.0,Condominium,1001.0,Fully Furnished
@@ -41410,7 +41148,6 @@
 43393,SRI HARTAMAS,4072500.0,4.0,2.0,0.0,Bungalow,4477.5,Partly Furnished
 43394,SRI HARTAMAS,4072500.0,4.0,2.0,0.0,Bungalow,4477.5,Partly Furnished
 43396,JALAN KLANG LAMA (OLD KLANG ROAD),440000.0,2.0,2.0,1.0,Serviced Residence,772.0,Partly Furnished
-43397,BANGSAR,600000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 43398,KLCC,1600000.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 43399,SEGAMBUT,628000.0,3.0,2.0,0.0,Condominium,1019.0,Unfurnished
 43400,AMPANG HILIR,830000.0,1.5,1.0,1.0,Serviced Residence,736.0,Fully Furnished
@@ -41553,8 +41290,6 @@
 43542,SENTUL,530000.0,3.0,2.0,2.0,Condominium,1080.0,Fully Furnished
 43543,CHERAS,930000.0,4.0,4.0,3.0,2-sty Terrace/Link House,1920.0,Partly Furnished
 43544,CHERAS,1250000.0,5.0,4.0,2.0,3-sty Terrace/Link House,990.0,Unfurnished
-43545,TAMAN TUN DR ISMAIL,1360000.0,4.0,2.0,0.0,Residential Land,56.0,Unfurnished
-43546,SUNGAI PENCHALA,1360000.0,4.0,2.0,0.0,Residential Land,56.0,Unfurnished
 43547,SUNGAI BESI,550000.0,2.0,2.0,0.0,Condominium,855.0,Fully Furnished
 43548,CHERAS,380000.0,4.0,2.0,1.0,Condominium,922.0,Unfurnished
 43549,SUNGAI PENCHALA,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
@@ -41629,7 +41364,6 @@
 43620,JALAN SULTAN ISMAIL,800000.0,2.0,3.0,1.0,Serviced Residence,1160.0,Fully Furnished
 43621,SEGAMBUT,348000.0,3.0,2.0,1.0,Apartment,1009.0,Unfurnished
 43622,CHERAS,548000.0,3.0,2.0,2.0,Serviced Residence,1129.0,Partly Furnished
-43623,TAMAN TUN DR ISMAIL,3000000.0,3.0,2.0,0.0,1-sty Terrace/Link House,8.0,Partly Furnished
 43624,DAMANSARA HEIGHTS,2028000.0,2.0,2.0,2.0,Serviced Residence,1152.0,Partly Furnished
 43625,AMPANG,666000.0,2.0,2.0,1.0,Serviced Residence,850.0,Partly Furnished
 43626,MONT KIARA,820000.0,4.0,2.0,1.0,Condominium,1550.0,Fully Furnished
@@ -41681,7 +41415,6 @@
 43676,SETAPAK,390000.0,2.0,2.0,1.0,Serviced Residence,943.0,Partly Furnished
 43677,SENTUL,550000.0,4.0,2.0,2.0,Condominium,1231.0,Unfurnished
 43678,AMPANG,1299999.0,2.0,2.0,0.0,Serviced Residence,1200.0,Unfurnished
-43679,OUG,1700000.0,5.5,4.0,0.0,Semi-detached House,7.0,Unfurnished
 43680,KLCC,3300000.0,3.0,3.0,1.0,Serviced Residence,2800.0,Partly Furnished
 43681,KLCC,4072500.0,5.0,6.0,2.0,Serviced Residence,3300.0,Fully Furnished
 43682,BANDAR DAMAI PERDANA,528000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1080.0,Unfurnished
@@ -41713,7 +41446,6 @@
 43709,JALAN KLANG LAMA (OLD KLANG ROAD),520000.0,3.0,2.0,1.0,Serviced Residence,807.0,Partly Furnished
 43710,TAMAN DESA,645000.0,3.0,2.0,1.0,Serviced Residence,935.0,Unfurnished
 43711,TAMAN DESA,527000.0,2.0,2.0,0.0,Serviced Residence,715.0,Unfurnished
-43713,AMPANG,390000.0,2.0,2.0,2.0,Serviced Residence,430.0,Unfurnished
 43714,CHERAS,530000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1080.0,Unfurnished
 43715,KLCC,1700000.0,5.0,4.0,2.0,Condominium,2315.0,Partly Furnished
 43716,SUNGAI BESI,490000.0,1.5,1.0,0.0,Serviced Residence,750.0,Unfurnished
@@ -41758,7 +41490,6 @@
 43756,MONT KIARA,2593660.0,5.0,5.0,3.0,Condominium,3163.0,Partly Furnished
 43757,MONT KIARA,1680000.0,4.0,4.0,0.0,Condominium,2038.0,Partly Furnished
 43758,TAMAN DESA,2600000.0,5.0,4.0,2.0,2-sty Terrace/Link House,3885.0,Unfurnished
-43759,MONT KIARA,800000.0,1.5,1.0,1.0,Serviced Residence,0.0,Unfurnished
 43760,CHERAS,378000.0,3.0,2.0,2.0,Condominium,920.0,Partly Furnished
 43761,SETIAWANGSA,1650000.0,4.0,3.0,0.0,2-sty Terrace/Link House,2800.0,Partly Furnished
 43762,SRI HARTAMAS,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
@@ -41776,7 +41507,6 @@
 43774,MONT KIARA,1380000.0,3.0,3.0,2.0,Condominium,1722.0,Partly Furnished
 43775,MONT KIARA,780000.0,3.0,2.0,1.0,Condominium,1268.0,Unfurnished
 43776,JALAN SULTAN ISMAIL,490000.0,4.0,1.0,0.0,Serviced Residence,500.0,Fully Furnished
-43777,KL CITY,400000.0,4.0,1.0,0.0,Serviced Residence,439.0,Fully Furnished
 43778,KLCC,660000.0,4.0,1.0,0.0,Serviced Residence,450.0,Fully Furnished
 43779,KLCC,660000.0,4.0,1.0,0.0,Serviced Residence,450.0,Fully Furnished
 43780,KLCC,660000.0,4.0,1.0,0.0,Serviced Residence,450.0,Fully Furnished
@@ -41789,13 +41519,11 @@
 43790,KLCC,2180000.0,4.0,3.0,2.0,Serviced Residence,2208.0,Partly Furnished
 43791,JALAN KLANG LAMA (OLD KLANG ROAD),716000.0,4.0,2.0,2.0,Serviced Residence,1094.0,Unfurnished
 43792,JALAN KLANG LAMA (OLD KLANG ROAD),850000.0,3.0,2.0,2.0,Condominium,1578.0,Partly Furnished
-43793,MONT KIARA,1300000.0,2.0,2.0,1.0,Serviced Residence,0.0,Unfurnished
 43794,BUKIT JALIL,560000.0,3.0,2.0,2.0,Condominium,1100.0,Unfurnished
 43795,MONT KIARA,1890000.0,4.0,4.0,2.0,Condominium,2648.0,Partly Furnished
 43796,KLCC,4072500.0,3.0,3.0,2.0,Serviced Residence,1737.0,Fully Furnished
 43797,KLCC,3800000.0,3.0,3.0,0.0,Serviced Residence,1560.0,Fully Furnished
 43798,KLCC,4072500.0,3.0,4.0,2.0,Serviced Residence,3063.0,Fully Furnished
-43799,MONT KIARA,808000.0,1.5,1.0,0.0,Serviced Residence,0.0,Partly Furnished
 43800,SEPUTEH,540000.0,3.0,2.0,1.0,Apartment,1300.0,Unfurnished
 43802,DESA PANDAN,285000.0,3.0,2.0,1.0,Apartment,924.0,Partly Furnished
 43803,OUG,1230000.0,5.0,4.0,2.0,2-sty Terrace/Link House,1760.0,Partly Furnished
@@ -41840,8 +41568,6 @@
 43842,BANGSAR,900000.0,2.0,1.0,1.0,Serviced Residence,689.0,Partly Furnished
 43843,BANGSAR,930000.0,2.0,1.0,1.0,Serviced Residence,689.0,Partly Furnished
 43844,BANGSAR,1380000.0,2.0,2.0,1.0,Serviced Residence,1098.0,Unfurnished
-43845,BANGSAR,683000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
-43846,BANGSAR,710000.0,4.0,1.0,1.0,Serviced Residence,441.0,Unfurnished
 43847,BANGSAR,1420000.0,2.0,2.0,1.0,Serviced Residence,1076.0,Fully Furnished
 43848,BRICKFIELDS,1100000.0,5.0,4.0,1.0,Condominium,1588.0,Fully Furnished
 43849,TAMAN DESA,680000.0,3.0,2.0,1.0,Condominium,1250.0,Partly Furnished
@@ -41939,7 +41665,6 @@
 43949,SRI HARTAMAS,3000000.0,5.0,6.0,3.0,Condominium,3466.0,Fully Furnished
 43950,SRI HARTAMAS,3150000.0,5.0,6.0,2.0,Condominium,3466.0,Unfurnished
 43951,SRI HARTAMAS,3000000.0,5.0,6.0,3.0,Condominium,3983.0,Partly Furnished
-43952,SRI HARTAMAS,3150000.0,5.0,6.0,3.0,Condominium,0.0,Fully Furnished
 43953,SRI HARTAMAS,3600000.0,5.0,6.0,3.0,Condominium,3983.0,Partly Furnished
 43954,MONT KIARA,2600000.0,5.0,6.0,2.0,Condominium,3400.0,Partly Furnished
 43955,MONT KIARA,4072500.0,5.5,5.0,3.0,Semi-detached House,4460.0,Fully Furnished
@@ -41976,7 +41701,6 @@
 43987,SEGAMBUT,520000.0,2.0,2.0,1.0,Serviced Residence,713.0,Partly Furnished
 43990,TAMAN DESA,260000.0,3.0,2.0,1.0,Apartment,830.0,Unfurnished
 43992,KLCC,3600000.0,4.0,4.0,3.0,Serviced Residence,3897.0,Fully Furnished
-43993,KL CITY,350000.0,4.0,1.0,0.0,Serviced Residence,351.0,Unfurnished
 43994,PANDAN JAYA,205000.0,3.0,1.0,0.0,Apartment,650.0,Partly Furnished
 43995,JALAN KLANG LAMA (OLD KLANG ROAD),400000.0,3.0,2.0,1.0,Condominium,1370.0,Unfurnished
 43996,CHERAS,365000.0,3.0,2.0,1.0,Condominium,936.0,Partly Furnished
@@ -42072,7 +41796,6 @@
 44089,KLCC,1900000.0,2.0,2.0,1.0,Condominium,976.0,Fully Furnished
 44090,KLCC,1925000.0,3.0,2.0,0.0,Serviced Residence,1426.0,Fully Furnished
 44092,CHERAS,450000.0,3.0,2.0,2.0,Condominium,1018.0,Unfurnished
-44093,AMPANG,420000.0,4.0,1.0,0.0,Serviced Residence,406.0,Unfurnished
 44094,SETAPAK,450000.0,3.0,2.0,2.0,Condominium,1227.0,Partly Furnished
 44095,TAMAN DESA,2380000.0,5.0,5.0,2.0,Semi-detached House,2600.0,Fully Furnished
 44096,TAMAN DESA,2500000.0,5.0,5.0,2.0,Semi-detached House,3000.0,Partly Furnished
@@ -42304,8 +42027,6 @@
 44330,BANDAR MENJALARA,450000.0,4.0,2.0,1.0,Condominium,1076.0,Partly Furnished
 44331,KLCC,1100000.0,3.0,2.0,1.0,Condominium,1182.0,Fully Furnished
 44332,KLCC,990000.0,3.0,2.0,1.0,Condominium,1182.0,Fully Furnished
-44333,BRICKFIELDS,285000.0,4.0,1.0,1.0,Condominium,250.0,Fully Furnished
-44334,BRICKFIELDS,295000.0,4.0,1.0,1.0,Condominium,250.0,Fully Furnished
 44335,JALAN SULTAN ISMAIL,498000.0,4.0,1.0,1.0,Serviced Residence,505.0,Fully Furnished
 44336,BANGSAR SOUTH,650000.0,2.0,2.0,1.0,Serviced Residence,807.0,Partly Furnished
 44337,TAMAN DESA,2500000.0,5.5,4.0,0.0,Semi-detached House,3000.0,Unfurnished
@@ -42396,7 +42117,6 @@
 44426,TAMAN DESA,418000.0,1.5,1.0,1.0,Condominium,680.0,Partly Furnished
 44427,TAMAN DESA,428000.0,1.5,1.0,1.0,Condominium,680.0,Partly Furnished
 44428,TAMAN DESA,448000.0,1.5,1.0,1.0,Condominium,690.0,Partly Furnished
-44429,SRI HARTAMAS,310000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 44430,MONT KIARA,1700000.0,4.0,4.0,0.0,Condominium,1878.0,Unfurnished
 44431,JALAN KLANG LAMA (OLD KLANG ROAD),650000.0,4.0,2.0,2.0,Serviced Residence,1094.0,Unfurnished
 44432,JALAN KLANG LAMA (OLD KLANG ROAD),680000.0,4.0,2.0,2.0,Serviced Residence,1094.0,Unfurnished
@@ -42457,7 +42177,6 @@
 44489,MONT KIARA,760000.0,3.0,2.0,1.0,Condominium,1400.0,Partly Furnished
 44490,SALAK SELATAN,450000.0,2.0,2.0,1.0,Serviced Residence,862.0,Partly Furnished
 44491,TAMAN DESA,630000.0,3.0,2.0,1.0,Serviced Residence,935.0,Fully Furnished
-44492,AMPANG,398000.0,2.0,2.0,1.0,Serviced Residence,430.0,Unfurnished
 44493,DUTAMAS,950000.0,1.5,1.0,1.0,Condominium,950.0,Partly Furnished
 44494,JALAN KLANG LAMA (OLD KLANG ROAD),720000.0,4.0,4.0,2.0,Condominium,1483.0,Fully Furnished
 44495,KLCC,4072500.0,4.0,4.0,2.0,Serviced Residence,2195.0,Partly Furnished
@@ -42490,8 +42209,6 @@
 44525,MONT KIARA,4030000.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
 44526,BANGSAR SOUTH,740000.0,5.0,3.0,0.0,2-sty Terrace/Link House,1539.0,Partly Furnished
 44527,BANGSAR,1200000.0,2.0,2.0,1.0,Serviced Residence,980.0,Fully Furnished
-44528,BANGSAR,710000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
-44529,BANGSAR,630000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 44530,BANGSAR,1260000.0,2.0,2.0,1.0,Serviced Residence,980.0,Fully Furnished
 44531,KUCHAI LAMA,600000.0,3.0,2.0,2.0,Condominium,1313.0,Partly Furnished
 44532,PANTAI,550000.0,3.0,2.0,1.0,Condominium,1185.0,Partly Furnished
@@ -42518,7 +42235,6 @@
 44553,TAMAN DESA,447000.0,1.5,1.0,1.0,Serviced Residence,578.0,Unfurnished
 44554,SENTUL,775170.0,5.0,4.0,0.0,Bungalow,4477.5,Unfurnished
 44555,MONT KIARA,818000.0,3.0,2.0,1.0,Serviced Residence,1248.0,Fully Furnished
-44557,BANGSAR,734388.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 44558,TAMAN TUN DR ISMAIL,4072500.0,5.5,6.0,0.0,Bungalow,4477.5,Partly Furnished
 44559,DAMANSARA HEIGHTS,4072500.0,5.5,6.0,0.0,Bungalow,4477.5,Partly Furnished
 44562,BUKIT TUNKU (KENNY HILLS),4072500.0,5.5,2.0,6.0,Bungalow,4477.5,Unfurnished
@@ -42641,7 +42357,6 @@
 44689,BANGSAR,2400000.0,5.5,6.0,3.0,Condominium,3509.0,Partly Furnished
 44690,BANGSAR,1900000.0,5.0,5.0,2.0,Condominium,2479.0,Partly Furnished
 44691,JALAN IPOH,1151820.0,5.5,6.0,0.0,Semi-detached House,2928.0,Unfurnished
-44692,SRI HARTAMAS,495000.0,1.5,1.0,1.0,Serviced Residence,435.0,Partly Furnished
 44693,JALAN IPOH,720000.0,4.0,3.0,0.0,2-sty Terrace/Link House,3595.0,Unfurnished
 44694,CHAN SOW LIN,1174500.0,5.0,4.0,0.0,Semi-detached House,3360.0,Unfurnished
 44695,SETAPAK,1300000.0,5.0,5.0,0.0,3-sty Terrace/Link House,2745.0,Unfurnished
@@ -42818,7 +42533,6 @@
 44869,JALAN KLANG LAMA (OLD KLANG ROAD),560000.0,4.0,4.0,1.0,Condominium,1265.0,Unfurnished
 44870,BUKIT TUNKU (KENNY HILLS),4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 44871,BUKIT TUNKU (KENNY HILLS),4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
-44872,KLCC,2800000.0,5.0,6.0,0.0,Serviced Residence,0.0,Partly Furnished
 44873,JALAN KUCHING,590000.0,3.0,2.0,2.0,Condominium,1064.0,Unfurnished
 44875,CHERAS,685000.0,4.0,3.0,0.0,2-sty Terrace/Link House,1300.0,Unfurnished
 44876,SEPUTEH,4072500.0,5.5,7.0,6.0,Bungalow,4477.5,Unfurnished
@@ -42943,7 +42657,6 @@
 45009,MONT KIARA,4072500.0,5.0,4.0,4.0,Condominium,4477.5,Partly Furnished
 45010,CHERAS,560000.0,4.0,3.0,1.0,2-sty Terrace/Link House,1170.0,Partly Furnished
 45011,CHERAS,560000.0,4.0,3.0,1.0,2-sty Terrace/Link House,1170.0,Fully Furnished
-45012,BUKIT JALIL,459999.0,3.0,2.0,1.0,Condominium,0.0,Fully Furnished
 45013,TAMAN TUN DR ISMAIL,4072500.0,5.5,5.0,6.0,Bungalow,4477.5,Partly Furnished
 45014,MONT KIARA,2780000.0,5.0,4.0,3.0,Condominium,2874.0,Unfurnished
 45015,MONT KIARA,1520000.0,4.0,4.0,2.0,Condominium,1878.0,Unfurnished
@@ -43763,7 +43476,6 @@
 45893,MONT KIARA,1650000.0,5.0,5.0,2.0,Condominium,2552.0,Partly Furnished
 45894,MONT KIARA,2500000.0,5.5,8.0,5.0,3-sty Terrace/Link House,4477.5,Unfurnished
 45895,SEGAMBUT,680000.0,4.0,3.0,1.0,Serviced Residence,1126.0,Partly Furnished
-45896,OUG,820000.0,4.0,3.0,0.0,2-sty Terrace/Link House,75.0,Partly Furnished
 45897,KLCC,980000.0,4.0,3.0,2.0,Serviced Residence,1313.0,Unfurnished
 45898,DAMANSARA HEIGHTS,4072500.0,5.5,5.0,0.0,Bungalow,4477.5,Fully Furnished
 45899,DUTAMAS,3150000.0,5.5,6.0,0.0,Semi-detached House,4477.5,Fully Furnished
@@ -44415,7 +44127,6 @@
 46585,WANGSA MAJU,410000.0,4.0,2.0,1.0,Condominium,1210.0,Partly Furnished
 46586,SETAPAK,220000.0,3.0,1.0,0.0,Apartment,653.0,Unfurnished
 46587,SETAPAK,250000.0,2.0,1.0,1.0,Apartment,600.0,Unfurnished
-46588,AMPANG,450000.0,1.5,1.0,0.0,Serviced Residence,423.0,Unfurnished
 46589,OUG,930000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
 46590,JALAN IPOH,1260000.0,5.0,4.0,0.0,Bungalow,2788.0,Unfurnished
 46591,DUTAMAS,900000.0,2.0,2.0,0.0,Serviced Residence,997.0,Fully Furnished
@@ -44637,7 +44348,6 @@
 46823,BANDAR MENJALARA,448000.0,4.0,2.0,2.0,Condominium,1076.0,Partly Furnished
 46824,CHERAS,1950000.0,5.5,8.0,0.0,Semi-detached House,4477.5,Unfurnished
 46825,CHERAS,1600000.0,5.5,8.0,0.0,Semi-detached House,3200.0,Partly Furnished
-46827,KL CITY,550000.0,1.5,2.0,0.0,Serviced Residence,411.0,Unfurnished
 46828,KLCC,1213000.0,2.0,2.0,0.0,Serviced Residence,1348.0,Unfurnished
 46829,JALAN KLANG LAMA (OLD KLANG ROAD),388000.0,3.0,2.0,0.0,Serviced Residence,950.0,Unfurnished
 46830,CHERAS,400000.0,3.0,2.0,0.0,Apartment,818.0,Unfurnished
@@ -44697,14 +44407,12 @@
 46885,WANGSA MAJU,248000.0,2.0,1.0,0.0,Flat,580.0,Partly Furnished
 46886,SETAPAK,750000.0,4.0,2.0,3.0,2-sty Terrace/Link House,1500.0,Unfurnished
 46887,MONT KIARA,650000.0,1.5,1.0,1.0,Serviced Residence,633.0,Fully Furnished
-46888,CITY CENTRE,2400000.0,3.0,3.0,2.0,Serviced Residence,0.0,Partly Furnished
 46889,KLCC,1400000.0,2.0,2.0,0.0,Serviced Residence,1011.0,Fully Furnished
 46890,BUKIT BINTANG,2250000.0,5.0,5.0,3.0,Condominium,2885.0,Partly Furnished
 46891,BUKIT BINTANG,680000.0,1.5,1.0,1.0,Serviced Residence,696.0,Partly Furnished
 46892,KLCC,2890000.0,4.0,4.0,3.0,Serviced Residence,1927.0,Partly Furnished
 46893,KLCC,4072500.0,3.0,2.0,2.0,Serviced Residence,1786.0,Partly Furnished
 46894,CITY CENTRE,3700000.0,5.0,5.0,3.0,Serviced Residence,4130.0,Partly Furnished
-46895,KL CITY,745000.0,1.5,1.0,1.0,Serviced Residence,0.0,Fully Furnished
 46896,BUKIT BINTANG,1320000.0,3.0,3.0,3.0,Serviced Residence,1555.0,Fully Furnished
 46897,CITY CENTRE,1450000.0,1.5,1.0,1.0,Serviced Residence,1131.0,Fully Furnished
 46898,KLCC,4072500.0,5.5,6.0,4.0,Condominium,4477.5,Partly Furnished
@@ -45618,7 +45326,6 @@
 47854,CITY CENTRE,1080000.0,3.0,3.0,0.0,Condominium,1347.0,Fully Furnished
 47855,KEPONG,430000.0,5.0,2.0,1.0,Condominium,1137.0,Partly Furnished
 47856,BANGSAR,925000.0,2.0,2.0,1.0,Condominium,1518.0,Partly Furnished
-47857,SUNGAI BESI,600000.0,4.0,2.0,2.0,Condominium,0.0,Partly Furnished
 47858,CHERAS,760000.0,4.0,2.0,2.0,Serviced Residence,1424.0,Unfurnished
 47859,BANGSAR SOUTH,1630000.0,4.0,4.0,2.0,Condominium,2068.0,Fully Furnished
 47860,MONT KIARA,3890000.0,5.0,5.0,0.0,Condominium,4090.0,Unfurnished
@@ -45779,7 +45486,6 @@
 48017,SETAPAK,375000.0,3.0,2.0,1.0,Condominium,1057.0,Partly Furnished
 48018,BUKIT JALIL,690000.0,3.0,2.0,2.0,Condominium,1236.0,Fully Furnished
 48019,WANGSA MAJU,680000.0,4.0,2.0,1.0,Condominium,1515.0,Partly Furnished
-48020,SETAPAK,310000.0,1.5,1.0,1.0,Serviced Residence,380.0,Partly Furnished
 48021,SETAPAK,1350000.0,5.5,5.0,0.0,3-sty Terrace/Link House,1400.0,Unfurnished
 48022,SETAPAK,550000.0,4.0,2.0,2.0,Condominium,1313.0,Partly Furnished
 48023,SETAPAK,1700000.0,5.5,5.0,0.0,3-sty Terrace/Link House,2100.0,Unfurnished
@@ -46164,7 +45870,6 @@
 48429,JALAN KLANG LAMA (OLD KLANG ROAD),620000.0,3.0,2.0,1.0,Condominium,1130.0,Partly Furnished
 48430,BUKIT JALIL,730000.0,3.0,2.0,1.0,Condominium,1260.0,Fully Furnished
 48432,TAMAN DESA,430000.0,1.5,1.0,1.0,Condominium,700.0,Fully Furnished
-48433,MONT KIARA,4072500.0,5.5,7.0,4.0,Bungalow,40.0,Unfurnished
 48434,KLCC,3100000.0,5.0,6.0,3.0,Condominium,3502.0,Partly Furnished
 48435,BUKIT TUNKU (KENNY HILLS),4072500.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
 48436,BUKIT TUNKU (KENNY HILLS),4072500.0,4.0,2.0,0.0,Bungalow,4477.5,Unfurnished
@@ -46288,7 +45993,6 @@
 48564,CHERAS,388000.0,4.0,2.0,0.0,Condominium,1011.0,Unfurnished
 48565,SUNGAI BESI,520000.0,3.0,2.0,0.0,Condominium,1074.0,Partly Furnished
 48567,AMPANG,1200000.0,4.0,4.0,2.0,Condominium,1735.0,Fully Furnished
-48568,AMPANG HILIR,370000.0,2.0,1.0,1.0,Serviced Residence,430.0,Unfurnished
 48569,BANDAR MENJALARA,500000.0,4.0,2.0,0.0,Condominium,1076.0,Partly Furnished
 48570,KEPONG,2500000.0,5.5,6.0,6.0,Bungalow,4477.5,Partly Furnished
 48571,KEPONG,2800000.0,5.5,4.0,6.0,Bungalow,4477.5,Partly Furnished
@@ -46539,11 +46243,9 @@
 48828,CHERAS,710000.0,4.0,2.0,0.0,Condominium,1393.0,Partly Furnished
 48829,KUCHAI LAMA,585000.0,4.0,2.0,2.0,Condominium,1450.0,Fully Furnished
 48830,KLCC,1500000.0,3.0,3.0,0.0,Serviced Residence,1076.0,Fully Furnished
-48831,KLCC,575000.0,4.0,1.0,1.0,Serviced Residence,411.0,Fully Furnished
 48832,AMPANG HILIR,590000.0,1.5,1.0,1.0,Serviced Residence,502.0,Fully Furnished
 48833,CHERAS,420000.0,3.0,2.0,0.0,Condominium,950.0,Partly Furnished
 48834,PANTAI,800000.0,4.0,2.0,2.0,Condominium,1300.0,Partly Furnished
-48835,KLCC,550000.0,4.0,1.0,1.0,Serviced Residence,411.0,Fully Furnished
 48836,CHERAS,1300000.0,5.5,4.0,3.0,3-sty Terrace/Link House,2800.0,Partly Furnished
 48837,CHERAS,725000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1690.0,Partly Furnished
 48838,SUNGAI BESI,1380000.0,5.0,5.0,0.0,3-sty Terrace/Link House,1920.0,Unfurnished
@@ -46695,7 +46397,6 @@
 48998,CHERAS,688000.0,5.0,4.0,0.0,2-sty Terrace/Link House,1650.0,Fully Furnished
 48999,SRI PETALING,218700.0,3.0,2.0,0.0,Condominium,861.0,Unfurnished
 49000,TAMAN DESA,320000.0,3.0,2.0,1.0,Condominium,714.0,Unfurnished
-49001,BRICKFIELDS,325000.0,4.0,1.0,0.0,Serviced Residence,250.0,Unfurnished
 49002,KEPONG,588000.0,4.0,2.0,2.0,Serviced Residence,1162.0,Unfurnished
 49003,KEPONG,585000.0,3.0,2.0,1.0,2-sty Terrace/Link House,1040.0,Fully Furnished
 49004,BANDAR MENJALARA,320000.0,3.0,2.0,10.0,Serviced Residence,808.0,Unfurnished
@@ -46912,7 +46613,6 @@
 49228,TAMAN TUN DR ISMAIL,950000.0,3.0,2.0,1.0,Serviced Residence,1102.0,Partly Furnished
 49229,TAMAN TUN DR ISMAIL,800000.0,2.0,2.0,1.0,Serviced Residence,876.0,Partly Furnished
 49230,TAMAN TUN DR ISMAIL,930000.0,3.0,2.0,2.0,Serviced Residence,1102.0,Partly Furnished
-49231,TITIWANGSA,4072500.0,4.0,2.0,0.0,Residential Land,66.0,Unfurnished
 49232,BANGSAR SOUTH,520000.0,4.0,1.0,1.0,Serviced Residence,507.0,Fully Furnished
 49233,BANGSAR SOUTH,500000.0,4.0,1.0,1.0,Serviced Residence,514.0,Fully Furnished
 49234,BUKIT JALIL,295000.0,2.0,1.0,1.0,Condominium,775.0,Unfurnished
@@ -47074,7 +46774,6 @@
 49394,BUKIT BINTANG,820000.0,2.0,1.0,0.0,Serviced Residence,775.0,Fully Furnished
 49395,KUCHAI LAMA,610000.0,3.0,2.0,2.0,Condominium,1313.0,Partly Furnished
 49396,BRICKFIELDS,500000.0,2.0,2.0,1.0,Serviced Residence,486.0,Fully Furnished
-49397,BRICKFIELDS,280000.0,1.5,1.0,0.0,Serviced Residence,250.0,Fully Furnished
 49398,KEPONG,2520000.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
 49399,BANGSAR,2480000.0,4.0,3.0,0.0,Semi-detached House,2820.0,Partly Furnished
 49400,BUKIT JALIL,850000.0,2.0,2.0,0.0,Serviced Residence,1025.0,Unfurnished
@@ -47692,7 +47391,6 @@
 50047,KLCC,1650000.0,2.0,2.0,1.0,Serviced Residence,1030.0,Fully Furnished
 50048,SETAPAK,520000.0,4.0,2.0,1.0,Condominium,1328.0,Partly Furnished
 50049,CHERAS,735000.0,3.0,2.0,1.0,Condominium,1535.0,Partly Furnished
-50050,SRI PETALING,530000.0,3.0,1.0,0.0,2-sty Terrace/Link House,55.0,Fully Furnished
 50051,SUNGAI BESI,550000.0,4.0,2.0,2.0,Condominium,1109.0,Unfurnished
 50052,SETAPAK,538000.0,3.0,2.0,2.0,Condominium,1102.0,Partly Furnished
 50053,DUTAMAS,510000.0,3.0,2.0,2.0,Condominium,1100.0,Unfurnished
@@ -47876,7 +47574,6 @@
 50242,CHERAS,450000.0,2.0,2.0,2.0,Condominium,825.0,Fully Furnished
 50243,BUKIT TUNKU (KENNY HILLS),949000.0,3.0,3.0,1.0,Condominium,1916.0,Partly Furnished
 50244,JALAN KUCHING,328000.0,3.0,2.0,1.0,Apartment,850.0,Unfurnished
-50245,CHERAS,530000.0,3.0,2.0,2.0,Serviced Residence,0.0,Partly Furnished
 50246,OUG,1500000.0,4.0,4.0,0.0,2-sty Terrace/Link House,3300.0,Unfurnished
 50247,CHERAS,680000.0,5.0,3.0,0.0,2-sty Terrace/Link House,1650.0,Unfurnished
 50248,SRI HARTAMAS,4072500.0,5.5,6.0,0.0,Bungalow,4477.5,Fully Furnished
@@ -47898,7 +47595,6 @@
 50264,BANDAR MENJALARA,405000.0,4.0,2.0,1.0,Condominium,1076.0,Unfurnished
 50265,JALAN KLANG LAMA (OLD KLANG ROAD),348000.0,2.0,2.0,0.0,Condominium,985.0,Unfurnished
 50266,SETAPAK,250000.0,3.0,2.0,1.0,Condominium,845.0,Partly Furnished
-50267,KL CITY,330000.0,4.0,2.0,0.0,Serviced Residence,330.0,Unfurnished
 50268,JALAN KLANG LAMA (OLD KLANG ROAD),549000.0,2.0,1.0,2.0,Condominium,730.0,Partly Furnished
 50269,CHERAS,620000.0,4.0,2.0,2.0,Condominium,1478.0,Partly Furnished
 50270,KL SENTRAL,2554000.0,3.0,3.0,1.0,Serviced Residence,1830.0,Unfurnished
@@ -47968,7 +47664,6 @@
 50334,BUKIT JALIL,1050000.0,4.0,3.0,2.0,Condominium,2000.0,Partly Furnished
 50336,KLCC,965000.0,1.5,1.0,0.0,Serviced Residence,600.0,Unfurnished
 50337,KLCC,1044000.0,1.5,1.0,0.0,Serviced Residence,655.0,Unfurnished
-50338,KLCC,698000.0,4.0,1.0,0.0,Serviced Residence,438.0,Unfurnished
 50339,KLCC,742000.0,1.5,1.0,0.0,Serviced Residence,465.0,Unfurnished
 50340,KLCC,1053000.0,1.5,1.0,0.0,Serviced Residence,660.0,Unfurnished
 50341,MONT KIARA,1850000.0,5.5,8.0,3.0,Condominium,3985.0,Partly Furnished
@@ -47996,12 +47691,10 @@
 50364,KLCC,1150000.0,2.0,2.0,1.0,Condominium,1065.0,Fully Furnished
 50365,DESA PARKCITY,1260000.0,2.0,2.0,2.0,Condominium,1303.0,Partly Furnished
 50366,DESA PARKCITY,1580000.0,4.0,3.0,3.0,2-sty Terrace/Link House,2390.0,Partly Furnished
-50367,SRI HARTAMAS,330000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 50368,MONT KIARA,1248000.0,2.0,2.0,2.0,Serviced Residence,932.0,Fully Furnished
 50369,JALAN SULTAN ISMAIL,700000.0,2.0,2.0,1.0,Serviced Residence,972.0,Fully Furnished
 50370,JALAN SULTAN ISMAIL,730000.0,2.0,2.0,1.0,Serviced Residence,988.0,Fully Furnished
 50371,AMPANG HILIR,740000.0,1.5,1.0,2.0,Serviced Residence,789.0,Fully Furnished
-50372,SRI HARTAMAS,330000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 50373,AMPANG,1200000.0,4.0,4.0,2.0,Condominium,1632.0,Partly Furnished
 50374,WANGSA MAJU,250000.0,2.0,1.0,0.0,Flat,527.0,Unfurnished
 50376,KLCC,1190000.0,1.5,1.0,1.0,Condominium,850.0,Fully Furnished
@@ -48046,7 +47739,6 @@
 50417,JALAN KLANG LAMA (OLD KLANG ROAD),425000.0,3.0,2.0,1.0,Condominium,1400.0,Partly Furnished
 50418,JALAN KLANG LAMA (OLD KLANG ROAD),789999.0,4.0,2.0,2.0,Serviced Residence,1133.0,Partly Furnished
 50419,BRICKFIELDS,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
-50420,BUKIT JALIL,2200000.0,5.5,6.0,2.0,Semi-detached House,80.0,Fully Furnished
 50421,CHERAS,2500000.0,5.5,6.0,4.0,Semi-detached House,4477.5,Partly Furnished
 50422,CHERAS,399000.0,3.0,2.0,0.0,Townhouse,1400.0,Unfurnished
 50423,TAMAN DESA,290000.0,3.0,2.0,1.0,Condominium,741.0,Unfurnished
@@ -48175,7 +47867,6 @@
 50553,MONT KIARA,4072500.0,5.5,6.0,2.0,Bungalow,3477.0,Unfurnished
 50554,DAMANSARA HEIGHTS,4072500.0,5.5,11.0,0.0,Bungalow,4477.5,Partly Furnished
 50555,MONT KIARA,1500000.0,4.0,3.0,2.0,Condominium,1377.0,Partly Furnished
-50557,SETAPAK,348300.0,4.0,2.0,0.0,Condominium,4.0,Unfurnished
 50558,KEPONG,2650000.0,5.0,3.0,8.0,2-sty Terrace/Link House,3375.0,Partly Furnished
 50559,SETAPAK,390000.0,3.0,2.0,2.0,Serviced Residence,1009.0,Partly Furnished
 50560,BANGSAR SOUTH,510000.0,1.5,1.0,1.0,Serviced Residence,500.0,Unfurnished
@@ -48336,7 +48027,6 @@
 50721,KLCC,1900000.0,2.0,2.0,2.0,Serviced Residence,1024.0,Fully Furnished
 50722,BUKIT BINTANG,1325000.0,2.0,2.0,2.0,Serviced Residence,912.0,Fully Furnished
 50723,KLCC,1200000.0,2.0,2.0,1.0,Condominium,976.0,Fully Furnished
-50724,SRI HARTAMAS,335000.0,4.0,1.0,0.0,Serviced Residence,420.0,Fully Furnished
 50725,BUKIT JALIL,560000.0,3.0,2.0,2.0,Condominium,1100.0,Unfurnished
 50726,SRI HARTAMAS,3200000.0,5.0,5.0,0.0,Semi-detached House,2850.0,Unfurnished
 50727,SETAPAK,1880000.0,5.5,3.0,10.0,Bungalow,4477.5,Partly Furnished
@@ -48354,7 +48044,6 @@
 50739,SRI PETALING,280800.0,3.0,2.0,0.0,Condominium,1076.0,Unfurnished
 50740,DUTAMAS,1100000.0,2.0,2.0,1.0,Serviced Residence,997.0,Fully Furnished
 50741,CHERAS,2100000.0,5.0,3.0,6.0,Bungalow,4477.5,Partly Furnished
-50742,BANGSAR,665000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 50743,CHERAS,160400.0,3.0,2.0,0.0,Apartment,732.0,Unfurnished
 50744,SUNGAI BESI,658000.0,3.0,2.0,3.0,Condominium,1400.0,Partly Furnished
 50745,SUNGAI BESI,758000.0,4.0,3.0,2.0,Condominium,2116.0,Partly Furnished
@@ -48401,7 +48090,6 @@
 50786,TAMAN TUN DR ISMAIL,800000.0,4.0,1.0,0.0,Serviced Residence,524.0,Fully Furnished
 50787,TAMAN TUN DR ISMAIL,1100000.0,2.0,2.0,0.0,Serviced Residence,840.0,Fully Furnished
 50788,KL CITY,998000.0,2.0,2.0,0.0,Condominium,714.0,Partly Furnished
-50789,SRI HARTAMAS,325000.0,4.0,1.0,0.0,Serviced Residence,409.0,Fully Furnished
 50790,CITY CENTRE,1750000.0,3.0,2.0,1.0,Serviced Residence,1442.0,Fully Furnished
 50791,BUKIT JALIL,855000.0,4.0,3.0,0.0,Condominium,1293.0,Fully Furnished
 50792,BUKIT JALIL,998000.0,4.0,3.0,0.0,Condominium,1450.0,Fully Furnished
@@ -48483,7 +48171,6 @@
 50873,MONT KIARA,720000.0,2.0,2.0,1.0,Condominium,947.0,Fully Furnished
 50874,MONT KIARA,650000.0,2.0,2.0,1.0,Condominium,947.0,Fully Furnished
 50875,MONT KIARA,880000.0,2.0,2.0,1.0,Condominium,1070.0,Fully Furnished
-50876,DAMANSARA HEIGHTS,4072500.0,4.0,2.0,0.0,Residential Land,5.0,Unfurnished
 50877,MONT KIARA,980000.0,3.0,2.0,1.0,Condominium,1400.0,Fully Furnished
 50878,MONT KIARA,1000000.0,3.0,2.0,1.0,Condominium,1280.0,Fully Furnished
 50879,KLCC,2970000.0,5.0,5.0,2.0,Serviced Residence,3383.0,Fully Furnished
@@ -48816,7 +48503,6 @@
 51214,CHERAS,450000.0,3.0,2.0,1.0,Condominium,1055.0,Unfurnished
 51216,KUCHAI LAMA,409000.0,3.0,2.0,1.0,Condominium,945.0,Unfurnished
 51217,MONT KIARA,1200000.0,4.0,3.0,1.0,Condominium,1696.0,Unfurnished
-51218,BANGSAR,595000.0,4.0,1.0,1.0,Serviced Residence,441.0,Unfurnished
 51219,BUKIT JALIL,900000.0,4.0,3.0,2.0,Condominium,1293.0,Partly Furnished
 51220,BUKIT TUNKU (KENNY HILLS),3100000.0,4.0,5.0,3.0,Condominium,2996.0,Unfurnished
 51221,BUKIT JALIL,290000.0,2.0,1.0,1.0,Apartment,726.0,Partly Furnished
@@ -49107,7 +48793,6 @@
 51529,JALAN KLANG LAMA (OLD KLANG ROAD),650000.0,3.0,2.0,2.0,Serviced Residence,1094.0,Unfurnished
 51530,BANGSAR,918000.0,3.0,2.0,2.0,Condominium,1529.0,Fully Furnished
 51531,PANDAN JAYA,350000.0,3.0,2.0,2.0,Townhouse,850.0,Partly Furnished
-51533,BRICKFIELDS,275000.0,4.0,1.0,0.0,Serviced Residence,250.0,Unfurnished
 51534,KERAMAT,425000.0,3.0,2.0,1.0,Condominium,912.0,Unfurnished
 51535,SENTUL,335000.0,4.0,2.0,1.0,Condominium,1083.0,Unfurnished
 51536,TAMAN MELAWATI,1890000.0,5.5,6.0,4.0,Semi-detached House,3600.0,Unfurnished
@@ -49407,7 +49092,6 @@
 51850,TAMAN TUN DR ISMAIL,1450000.0,5.0,3.0,2.0,2-sty Terrace/Link House,1800.0,Partly Furnished
 51851,CHERAS,1090000.0,5.0,4.0,4.0,2-sty Terrace/Link House,1800.0,Partly Furnished
 51852,TAMAN MELAWATI,560000.0,4.0,2.0,1.0,2-sty Terrace/Link House,840.0,Partly Furnished
-51853,PANDAN JAYA,465000.0,4.0,2.0,0.0,Residential Land,69.0,Unfurnished
 51854,SETAPAK,270000.0,3.0,2.0,1.0,Condominium,850.0,Partly Furnished
 51855,TAMAN TUN DR ISMAIL,4072500.0,5.5,8.0,6.0,Bungalow,4477.5,Partly Furnished
 51856,TITIWANGSA,1246400.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
@@ -49469,7 +49153,6 @@
 51920,JALAN KLANG LAMA (OLD KLANG ROAD),638000.0,3.0,2.0,2.0,Condominium,1851.0,Partly Furnished
 51921,JALAN KLANG LAMA (OLD KLANG ROAD),430000.0,1.5,2.0,1.0,Serviced Residence,775.0,Unfurnished
 51922,DESA PARKCITY,3450000.0,5.5,7.0,4.0,3-sty Terrace/Link House,4477.5,Partly Furnished
-51923,BANGSAR,595000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 51924,JALAN KLANG LAMA (OLD KLANG ROAD),430000.0,1.5,2.0,1.0,Serviced Residence,775.0,Fully Furnished
 51925,SETIAWANGSA,610000.0,3.0,2.0,2.0,Condominium,1196.0,Partly Furnished
 51926,SETAPAK,700000.0,4.0,3.0,2.0,Condominium,1447.0,Partly Furnished
@@ -49607,7 +49290,6 @@
 52062,SUNGAI BESI,590000.0,3.0,2.0,2.0,Condominium,1106.0,Unfurnished
 52063,SUNGAI BESI,580000.0,3.0,2.0,2.0,Condominium,1106.0,Unfurnished
 52064,MONT KIARA,4072500.0,5.0,4.0,2.0,Semi-detached House,3319.0,Partly Furnished
-52065,BANGSAR,610000.0,4.0,1.0,1.0,Serviced Residence,441.0,Unfurnished
 52066,KUCHAI LAMA,910000.0,4.0,2.0,0.0,1-sty Terrace/Link House,2830.0,Partly Furnished
 52067,BUKIT JALIL,505000.0,3.0,2.0,1.0,Condominium,1252.0,Partly Furnished
 52068,BUKIT JALIL,666000.0,3.0,2.0,1.0,Serviced Residence,661.0,Unfurnished
@@ -49838,7 +49520,6 @@
 52306,KEPONG,680000.0,3.0,2.0,0.0,1-sty Terrace/Link House,1430.0,Unfurnished
 52307,SEGAMBUT,400000.0,3.0,2.0,0.0,2.5-sty Terrace/Link House,630.0,Unfurnished
 52308,DESA PARKCITY,1530000.0,3.0,2.0,2.0,Condominium,1400.0,Partly Furnished
-52309,BRICKFIELDS,275000.0,4.0,1.0,0.0,Serviced Residence,250.0,Fully Furnished
 52310,MONT KIARA,830000.0,4.0,2.0,1.0,Condominium,1399.0,Fully Furnished
 52311,MONT KIARA,980000.0,2.0,2.0,1.0,Serviced Residence,896.0,Unfurnished
 52315,SEGAMBUT,430000.0,3.0,3.0,0.0,2.5-sty Terrace/Link House,588.0,Unfurnished
@@ -49960,7 +49641,6 @@
 52441,BRICKFIELDS,532000.0,2.0,2.0,0.0,Serviced Residence,486.0,Fully Furnished
 52442,KEPONG,718000.0,3.0,2.0,2.0,1-sty Terrace/Link House,1540.0,Unfurnished
 52443,MONT KIARA,1000000.0,2.0,2.0,1.0,Serviced Residence,897.0,Fully Furnished
-52444,BRICKFIELDS,297000.0,4.0,1.0,0.0,Serviced Residence,250.0,Fully Furnished
 52445,CHERAS,399000.0,3.0,2.0,1.0,Condominium,927.0,Fully Furnished
 52446,BATU CAVES,430000.0,3.0,2.0,2.0,Condominium,1405.0,Unfurnished
 52447,BATU CAVES,430000.0,3.0,2.0,2.0,Condominium,1405.0,Unfurnished
@@ -50134,7 +49814,6 @@
 52626,AMPANG HILIR,610000.0,1.5,1.0,1.0,Serviced Residence,502.0,Partly Furnished
 52627,BANGSAR,1280000.0,4.0,2.0,2.0,1-sty Terrace/Link House,1870.0,Partly Furnished
 52628,MONT KIARA,1300000.0,3.0,2.0,2.0,Condominium,1605.0,Fully Furnished
-52630,KLCC,580000.0,4.0,1.0,1.0,Serviced Residence,411.0,Fully Furnished
 52631,BANGSAR,3500000.0,4.0,4.0,3.0,Condominium,4111.0,Partly Furnished
 52632,CITY CENTRE,1020000.0,2.0,2.0,1.0,Condominium,1347.0,Fully Furnished
 52633,KLCC,3095100.0,4.0,4.0,3.0,Condominium,3439.0,Fully Furnished
@@ -50160,7 +49839,6 @@
 52653,SETAPAK,300000.0,3.0,2.0,1.0,Condominium,800.0,Unfurnished
 52654,KEPONG,950000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1760.0,Partly Furnished
 52655,KEPONG,1100000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
-52656,SETAPAK,300000.0,3.0,2.0,1.0,Condominium,375.0,Unfurnished
 52657,SETAPAK,300000.0,3.0,2.0,1.0,Condominium,800.0,Unfurnished
 52658,KEPONG,1050000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
 52659,KEPONG,930000.0,4.0,3.0,2.0,2-sty Terrace/Link House,1650.0,Partly Furnished
@@ -50302,7 +49980,6 @@
 52805,KLCC,1000000.0,1.5,1.0,1.0,Serviced Residence,764.0,Fully Furnished
 52806,KLCC,1216500.0,3.0,2.0,1.0,Serviced Residence,811.0,Fully Furnished
 52807,AMPANG,1330000.0,2.0,2.0,0.0,Serviced Residence,1259.0,Fully Furnished
-52808,KLCC,1343338.0,1.5,1.0,1.0,Condominium,441.0,Fully Furnished
 52809,MONT KIARA,3300000.0,5.5,6.0,0.0,2.5-sty Terrace/Link House,2850.0,Partly Furnished
 52810,MONT KIARA,3500000.0,5.5,6.0,2.0,2.5-sty Terrace/Link House,2600.0,Partly Furnished
 52811,MONT KIARA,3300000.0,5.5,6.0,2.0,2.5-sty Terrace/Link House,2600.0,Partly Furnished
@@ -50550,7 +50227,6 @@
 53065,AMPANG,580000.0,3.0,2.0,1.0,Condominium,1485.0,Partly Furnished
 53066,TAMAN DESA,650000.0,3.0,2.0,1.0,Condominium,1237.0,Fully Furnished
 53067,BANGSAR,1820000.0,5.0,3.0,2.0,2-sty Terrace/Link House,2250.0,Partly Furnished
-53068,BANGSAR,750000.0,4.0,1.0,1.0,Serviced Residence,441.0,Fully Furnished
 53069,DESA PARKCITY,2300000.0,4.0,4.0,2.0,3-sty Terrace/Link House,1442.0,Fully Furnished
 53070,SENTUL,320000.0,3.0,2.0,1.0,Condominium,1083.0,Partly Furnished
 53071,KL CITY,1600000.0,2.0,2.0,2.0,Serviced Residence,936.0,Fully Furnished
@@ -50659,11 +50335,7 @@
 53187,SETAPAK,750000.0,4.0,3.0,2.0,Condominium,1447.0,Partly Furnished
 53188,JALAN KLANG LAMA (OLD KLANG ROAD),608000.0,3.0,2.0,2.0,Condominium,1215.0,Partly Furnished
 53189,TITIWANGSA,4072500.0,4.0,2.0,0.0,Residential Land,4477.5,Unfurnished
-53190,DESA PARKCITY,1550000.0,4.0,3.0,3.0,Condominium,0.0,Unfurnished
-53191,DESA PARKCITY,1350000.0,4.0,3.0,2.0,Condominium,0.0,Partly Furnished
 53192,DESA PARKCITY,2950000.0,5.0,5.0,2.0,2-sty Terrace/Link House,3337.0,Partly Furnished
-53193,DESA PARKCITY,1480000.0,4.0,3.0,2.0,3-sty Terrace/Link House,0.0,Partly Furnished
-53194,DESA PARKCITY,1600000.0,4.0,3.0,1.0,3-sty Terrace/Link House,0.0,Partly Furnished
 53196,DESA PARKCITY,2250000.0,4.0,4.0,2.0,2-sty Terrace/Link House,1826.0,Partly Furnished
 53197,KEPONG,1230000.0,4.0,4.0,0.0,2-sty Terrace/Link House,1540.0,Unfurnished
 53198,SUNWAY SPK,1650000.0,5.5,5.0,0.0,2-sty Terrace/Link House,1650.0,Unfurnished
@@ -50678,7 +50350,6 @@
 53209,SUNGAI BESI,499000.0,2.0,2.0,1.0,Serviced Residence,850.0,Fully Furnished
 53210,CHERAS,541000.0,2.0,1.0,1.0,Serviced Residence,686.0,Partly Furnished
 53211,JALAN KLANG LAMA (OLD KLANG ROAD),550000.0,4.0,2.0,1.0,Serviced Residence,900.0,Partly Furnished
-53213,KL CITY,1550000.0,3.0,3.0,2.0,Serviced Residence,0.0,Fully Furnished
 53214,SENTUL,880000.0,3.0,3.0,3.0,Condominium,1237.0,Partly Furnished
 53215,KLCC,2680000.0,3.0,2.0,2.0,Serviced Residence,1463.0,Partly Furnished
 53216,BUKIT BINTANG,1180000.0,2.0,2.0,1.0,Serviced Residence,1044.0,Fully Furnished
@@ -50790,7 +50461,6 @@
 53324,SETAPAK,590000.0,3.0,2.0,1.0,Serviced Residence,969.0,Unfurnished
 53325,SETAPAK,627000.0,3.0,2.0,1.0,Serviced Residence,1012.0,Unfurnished
 53326,JALAN KLANG LAMA (OLD KLANG ROAD),730000.0,2.0,2.0,2.0,Condominium,895.0,Partly Furnished
-53327,SRI HARTAMAS,308000.0,4.0,1.0,0.0,Serviced Residence,410.0,Fully Furnished
 53328,SRI HARTAMAS,820000.0,3.0,3.0,1.0,Serviced Residence,1000.0,Fully Furnished
 53329,SRI HARTAMAS,560000.0,1.5,1.0,0.0,Serviced Residence,640.0,Fully Furnished
 53330,JALAN KLANG LAMA (OLD KLANG ROAD),540000.0,3.0,2.0,1.0,Condominium,918.0,Fully Furnished
@@ -50893,7 +50563,6 @@
 53433,JALAN KLANG LAMA (OLD KLANG ROAD),1330000.0,5.0,4.0,3.0,Condominium,2128.0,Unfurnished
 53434,JALAN KLANG LAMA (OLD KLANG ROAD),1350000.0,5.0,4.0,3.0,Condominium,2128.0,Unfurnished
 53435,JALAN KLANG LAMA (OLD KLANG ROAD),1600000.0,4.0,4.0,4.0,Condominium,2638.0,Partly Furnished
-53436,BRICKFIELDS,303000.0,4.0,1.0,0.0,Serviced Residence,250.0,Fully Furnished
 53438,JALAN KLANG LAMA (OLD KLANG ROAD),501000.0,3.0,3.0,3.0,Condominium,1250.0,Unfurnished
 53439,DESA PARKCITY,1720000.0,3.0,3.0,2.0,Condominium,1850.0,Fully Furnished
 53440,SETAPAK,430000.0,3.0,2.0,2.0,Condominium,1100.0,Unfurnished
