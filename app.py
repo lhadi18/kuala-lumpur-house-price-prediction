@@ -92,7 +92,7 @@ with col2:
 
     furnishing = st.selectbox("Furnishing", furnishing_types)
 
-    size = st.number_input("Size", value=1500)
+    size = st.number_input("Size", min_value=300, value=1500)
 
 if size_unit == "Square Meters":
     size = size * 10.7639  # 1 square meter = 10.7639 square feet
