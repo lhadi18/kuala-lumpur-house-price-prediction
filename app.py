@@ -97,45 +97,48 @@ with col2:
 if size_unit == "Square Meters":
     size = size * 10.7639  # 1 square meter = 10.7639 square feet
 
-input_data = {
-    'Rooms': [rooms],
-    'Bathrooms': [bathrooms],
-    'Car Parks': [car_parks],
-    'Size': [size],
-    'Location_' + location: [1],
-    'Property Type_' + property_type: [1],
-    'Furnishing_' + furnishing: [1],
-}
+try:
+    input_data = {
+        'Rooms': [rooms],
+        'Bathrooms': [bathrooms],
+        'Car Parks': [car_parks],
+        'Size': [size],
+        'Location_' + location: [1],
+        'Property Type_' + property_type: [1],
+        'Furnishing_' + furnishing: [1],
+    }
 
-# Create a DataFrame and ensure it has the same columns as the model's training data
-input_df = pd.DataFrame(input_data).reindex(columns=feature_columns, fill_value=0)
+    # Create a DataFrame and ensure it has the same columns as the model's training data
+    input_df = pd.DataFrame(input_data).reindex(columns=feature_columns, fill_value=0)
 
-# Standardize the input data
-input_scaled = scaler.transform(input_df)
+    # Standardize the input data
+    input_scaled = scaler.transform(input_df)
 
-adjust_for_inflation = st.checkbox("Adjust for Inflation")
+    adjust_for_inflation = st.checkbox("Adjust for Inflation")
 
-if adjust_for_inflation:
-    inflation_rate = st.number_input("Average Annual Inflation Rate (%)", min_value=0.0, max_value=100.0, value=3.0,
-                                     step=0.1)
-else:
-    inflation_rate = None
-
-dataset_upload_date = datetime(2019, 7, 4)
-current_date = datetime.now()
-years_since_upload = round((current_date - dataset_upload_date).days / 365.25)
-
-# Make prediction
-if st.button("Predict Price"):
-    prediction = model.predict(input_scaled)
-    predicted_price = prediction[0]
-
-    if adjust_for_inflation and inflation_rate is not None:
-        inflation_factor = (1 + inflation_rate / 100) ** years_since_upload
-        adjusted_price = predicted_price * inflation_factor
-        st.success(f"Predicted Price: RM {predicted_price:,.2f}")
-        st.success(f"Inflation-Adjusted Price: RM {adjusted_price:,.2f}")
+    if adjust_for_inflation:
+        inflation_rate = st.number_input("Average Annual Inflation Rate (%)", min_value=0.0, max_value=100.0, value=3.0, step=0.1)
     else:
-        st.success(f"Predicted Price: RM {predicted_price:,.2f}")
+        inflation_rate = None
+
+    dataset_upload_date = datetime(2019, 7, 4)
+    current_date = datetime.now()
+    years_since_upload = round((current_date - dataset_upload_date).days / 365.25)
+
+    # Make prediction
+    if st.button("Predict Price"):
+        prediction = model.predict(input_scaled)
+        predicted_price = prediction[0]
+
+        if adjust_for_inflation and inflation_rate is not None:
+            inflation_factor = (1 + inflation_rate / 100) ** years_since_upload
+            adjusted_price = predicted_price * inflation_factor
+            st.success(f"Predicted Price: RM {predicted_price:,.2f}")
+            st.success(f"Inflation-Adjusted Price: RM {adjusted_price:,.2f}")
+        else:
+            st.success(f"Predicted Price: RM {predicted_price:,.2f}")
+
+except Exception as e:
+    st.error(f"An error occurred: {e}")
 
 st.markdown("**Note:** The dataset used to train this model was last updated on July 4, 2019.")
