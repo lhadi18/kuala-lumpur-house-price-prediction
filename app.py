@@ -5,7 +5,7 @@ from datetime import datetime
 import gzip
 import shutil
 import os
-
+import time
 
 # Function to decompress the model file
 def decompress_model(input_file, output_file):
@@ -16,7 +16,6 @@ def decompress_model(input_file, output_file):
     except Exception as e:
         st.error(f"Error decompressing the model file: {e}")
         raise
-
 
 compressed_model_path = 'joblibs/rf_model.joblib.gz'
 decompressed_model_path = 'joblibs/rf_model.joblib'
@@ -78,20 +77,14 @@ col1, col2 = st.columns(2)
 
 with col1:
     location = st.selectbox("Select Location", locations)
-
     rooms = st.number_input("Number of Rooms", min_value=1, max_value=20, value=2, step=1)
-
     car_parks = st.number_input("Number of Car Parks", min_value=0, max_value=10, value=1, step=1)
-
     size_unit = st.selectbox("Select Unit", ["Square Feet (sq. ft.)", "Square Meters (sq. m.)"])
 
 with col2:
     property_type = st.selectbox("Property Type", property_types)
-
     bathrooms = st.number_input("Number of Bathrooms", min_value=1, max_value=20, value=2, step=1)
-
     furnishing = st.selectbox("Furnishing", furnishing_types)
-
     size = st.number_input("Size", min_value=300, value=1500)
 
 if size_unit == "Square Meters":
@@ -125,10 +118,15 @@ dataset_upload_date = datetime(2019, 7, 4)
 current_date = datetime.now()
 years_since_upload = round((current_date - dataset_upload_date).days / 365.25)
 
+# Caching the prediction to implement debouncing
+@st.cache_data(ttl=2)
+def get_prediction(input_scaled):
+    prediction = model.predict(input_scaled)
+    return prediction[0]
+
 # Make prediction
 if st.button("Predict Price"):
-    prediction = model.predict(input_scaled)
-    predicted_price = prediction[0]
+    predicted_price = get_prediction(input_scaled)
 
     if adjust_for_inflation and inflation_rate is not None:
         inflation_factor = (1 + inflation_rate / 100) ** years_since_upload
